@@ -6,4 +6,3 @@ SayCV/scoop-cvp
 
 scoopcn/scoopcn
 Calinou/scoop-games
-hu3rror/scoop-muggle
