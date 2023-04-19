@@ -13,22 +13,22 @@ gen_bucket_config(){
     # import bucket-recommand.txt
     cp -f "bucket-recommand.txt" bucket.config
     # get bucket from rasa/scoop-directory
-    wget https://github.com/rasa/scoop-directory/raw/master/scoop_directory.db
-    if [ $? -eq 0 ];then
-        count=$(sqlite3 ./scoop_directory.db "select count(1) from buckets");
-        for((i=1;i<=$count;i++))
-        do
-            date_recode=$(sqlite3 ./scoop_directory.db "select updated from buckets where id = $i" | recode html)
-            sqlite3 ./scoop_directory.db "UPDATE buckets SET updated = '$date_recode' where id = $i"
-        done
-        check_date=$(date +"%y-%m-%d" -d '1 month ago')
-        bucket_urls=$(sqlite3 ./scoop_directory.db "select bucket_url from buckets where packages >= 10 and stars >= 5 and updated > '$check_date' and bucket_url not like '%ScoopInstaller/Main%' order by stars desc, updated desc, stars desc")
-        for bucket_url in ${bucket_urls[@]}; do
-            bucket_name=$(echo $bucket_url | awk -F'/' '{print $(NF-1)"/"$NF}')
-            echo "add bucket:$bucket_name"
-            echo "$bucket_name" >> bucket.config
-        done
-    fi
+#     wget https://github.com/rasa/scoop-directory/raw/master/scoop_directory.db
+#     if [ $? -eq 0 ];then
+#         count=$(sqlite3 ./scoop_directory.db "select count(1) from buckets");
+#         for((i=1;i<=$count;i++))
+#         do
+#             date_recode=$(sqlite3 ./scoop_directory.db "select updated from buckets where id = $i" | recode html)
+#             sqlite3 ./scoop_directory.db "UPDATE buckets SET updated = '$date_recode' where id = $i"
+#         done
+#         check_date=$(date +"%y-%m-%d" -d '1 month ago')
+#         bucket_urls=$(sqlite3 ./scoop_directory.db "select bucket_url from buckets where packages >= 10 and stars >= 5 and updated > '$check_date' and bucket_url not like '%ScoopInstaller/Main%' order by stars desc, updated desc, stars desc")
+#         for bucket_url in ${bucket_urls[@]}; do
+#             bucket_name=$(echo $bucket_url | awk -F'/' '{print $(NF-1)"/"$NF}')
+#             echo "add bucket:$bucket_name"
+#             echo "$bucket_name" >> bucket.config
+#         done
+#     fi
     # bucket remove duplicate
     awk ' !x[$0]++' bucket.config
     # remove bucket-not-recommand.txt
