@@ -1,24 +1,29 @@
 {
-    "version": "6.3.26.1229102",
-    "description": "钉钉",
+    "version": "7.0.20.4119105",
+    "description": "An all-in-one free communication and collaboration platform",
     "homepage": "https://www.dingtalk.com/",
     "license": {
-        "identifier": "Freeware"
+        "identifier": "EULA",
+        "url": "https://tms.dingtalk.com/markets/dingtalk/service-terms-zh"
     },
-    "url": "https://dtapp-pub.dingtalk.com/dingtalk-desktop/win_installer/Release/DingTalk_v6.3.26.1229102.exe#/dl.7z",
-    "pre_install": "Remove-Item -R -Path \"$dir\\uninst.exe.nsis\",\"$dir\\`$PLUGINSDIR\"",
-    "hash": "997567adbe1680a8ae32d228c6bbfef5e3dc6a382e2cff97bc5146c02722dc11",
+    "url": "https://dtapp-pub.dingtalk.com/dingtalk-desktop/win_installer/Release/DingTalk_v7.0.20.4119105.exe#/dl.7z",
+    "hash": "md5:77a267fd2aee9864331ae9e8d630318b",
+    "post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\" -Recurse",
     "shortcuts": [
         [
             "DingtalkLauncher.exe",
-            "钉钉"
+            "DingTalk"
         ]
     ],
     "checkver": {
-        "url": "https://page.dingtalk.com/wow/dingtalk/act/en-download",
-        "regex": "DingTalk_v([\\d\\.]+)\\.exe"
+        "url": "https://im.dingtalk.com/manifest/x64/release_windows_vista_later_gray4.json",
+        "regex": "DingTalk_v([\\d.]+).exe"
     },
     "autoupdate": {
-        "url": "https://dtapp-pub.dingtalk.com/dingtalk-desktop/win_installer/Release/DingTalk_v$version.exe#/dl.7z"
+        "url": "https://dtapp-pub.dingtalk.com/dingtalk-desktop/win_installer/Release/DingTalk_v$version.exe#/dl.7z",
+        "hash": {
+            "url": "https://im.dingtalk.com/manifest/x64/release_windows_vista_later_gray4.json",
+            "jsonpath": "$.win.install.md5"
+        }
     }
 }
