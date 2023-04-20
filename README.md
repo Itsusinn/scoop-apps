@@ -49,7 +49,5 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - kkzzhizhou/scoop-zapps
 - HCLonely/my-scoop-bucket
 - Weidows-projects/scoop-3rd
-- Sliots/scoop-bucket
-- SayCV/scoop-cvp
 - scoopcn/scoopcn
 - Calinou/scoop-games
