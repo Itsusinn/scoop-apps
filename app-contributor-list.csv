@@ -357,6 +357,7 @@ megaglest.json,Calinou/scoop-games
 ppsspp.json,Calinou/scoop-games
 ivan.json,Calinou/scoop-games
 freeorion-test.json,Calinou/scoop-games
+steam-art-manager.json,Calinou/scoop-games
 augmentinel.json,Calinou/scoop-games
 visualboyadvance-m-nightly.json,Calinou/scoop-games
 pychess.json,Calinou/scoop-games
@@ -526,6 +527,7 @@ taisei.json,Calinou/scoop-games
 unrealmodloader.json,Calinou/scoop-games
 amidst.json,Calinou/scoop-games
 snes9x.json,Calinou/scoop-games
+quake-injector.json,Calinou/scoop-games
 mame.json,Calinou/scoop-games
 yquake2-ref-vk.json,Calinou/scoop-games
 legendary.json,Calinou/scoop-games
@@ -804,6 +806,7 @@ gmsh.json,chawyehsu/dorado
 rcon-cli.json,chawyehsu/dorado
 gpac_chawyehsu.json,chawyehsu/dorado
 scrcpy-gui.json,chawyehsu/dorado
+tenderly-cli.json,chawyehsu/dorado
 nbtexplorer_chawyehsu.json,chawyehsu/dorado
 multimc_chawyehsu.json,chawyehsu/dorado
 intellij-idea-ce.json,chawyehsu/dorado
@@ -856,5 +859,6 @@ powershell.json,chawyehsu/dorado
 moonlight.json,chawyehsu/dorado
 minify.json,chawyehsu/dorado
 hmcl_chawyehsu.json,chawyehsu/dorado
+mixin-messenger.json,chawyehsu/dorado
 sunvox.json,chawyehsu/dorado
 esbuild.json,chawyehsu/dorado
