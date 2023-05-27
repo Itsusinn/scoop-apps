@@ -453,6 +453,7 @@ crewchief.json,Calinou/scoop-games
 eduke32.json,Calinou/scoop-games
 ecwolf.json,Calinou/scoop-games
 dolphin.json,Calinou/scoop-games
+xivlauncher.json,Calinou/scoop-games
 supertuxkart.json,Calinou/scoop-games
 cemu.json,Calinou/scoop-games
 vkquake2.json,Calinou/scoop-games
@@ -667,7 +668,7 @@ git_chawyehsu.json,chawyehsu/dorado
 obs-classic.json,chawyehsu/dorado
 feishu_chawyehsu.json,chawyehsu/dorado
 tradingview.json,chawyehsu/dorado
-bypass.json,chawyehsu/dorado
+bypass_chawyehsu.json,chawyehsu/dorado
 virgo.json,chawyehsu/dorado
 nvm-windows.json,chawyehsu/dorado
 uninstallview.json,chawyehsu/dorado
