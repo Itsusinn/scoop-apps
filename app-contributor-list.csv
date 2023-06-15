@@ -141,7 +141,7 @@ Charles.json,kkzzhizhou/scoop-zapps
 SIW.json,kkzzhizhou/scoop-zapps
 DingTalk.json,kkzzhizhou/scoop-zapps
 KindleUnpack.json,kkzzhizhou/scoop-zapps
-WinSW_kkzzhizhou.json,kkzzhizhou/scoop-zapps
+WinSW.json,kkzzhizhou/scoop-zapps
 TianRuoOCR.json,kkzzhizhou/scoop-zapps
 DeskDock.json,kkzzhizhou/scoop-zapps
 goproxy.json,kkzzhizhou/scoop-zapps
@@ -149,7 +149,7 @@ TreeSize.json,kkzzhizhou/scoop-zapps
 SetACL.json,kkzzhizhou/scoop-zapps
 SogouWubi-Portable.json,kkzzhizhou/scoop-zapps
 magnetW.json,kkzzhizhou/scoop-zapps
-nmap_kkzzhizhou.json,kkzzhizhou/scoop-zapps
+nmap.json,kkzzhizhou/scoop-zapps
 ThunderS.json,kkzzhizhou/scoop-zapps
 Roadkil-DiskImage.json,kkzzhizhou/scoop-zapps
 USBSafelyRemove.json,kkzzhizhou/scoop-zapps
@@ -174,12 +174,12 @@ jjdown.json,HCLonely/my-scoop-bucket
 video-srt-gui.json,HCLonely/my-scoop-bucket
 youku.json,HCLonely/my-scoop-bucket
 copyplusplus.json,HCLonely/my-scoop-bucket
-ossutil_HCLonely.json,HCLonely/my-scoop-bucket
+ossutil.json,HCLonely/my-scoop-bucket
 yy.json,HCLonely/my-scoop-bucket
 oss-browser.json,HCLonely/my-scoop-bucket
 ffmpeg-tools.json,HCLonely/my-scoop-bucket
 hmcl.json,HCLonely/my-scoop-bucket
-openssh_HCLonely.json,HCLonely/my-scoop-bucket
+openssh.json,HCLonely/my-scoop-bucket
 baidudisk.json,HCLonely/my-scoop-bucket
 yuki.json,HCLonely/my-scoop-bucket
 apipost.json,HCLonely/my-scoop-bucket
@@ -199,7 +199,7 @@ trafficmonitor.json,HCLonely/my-scoop-bucket
 contextmenumanager_HCLonely.json,HCLonely/my-scoop-bucket
 embyserver.json,HCLonely/my-scoop-bucket
 rubick.json,HCLonely/my-scoop-bucket
-poetry_Weidows-projects.json,Weidows-projects/scoop-3rd
+poetry.json,Weidows-projects/scoop-3rd
 Synergy-Binaries.json,Weidows-projects/scoop-3rd
 wps-office.json,Weidows-projects/scoop-3rd
 anaconda3.json,Weidows-projects/scoop-3rd
@@ -212,7 +212,7 @@ He3.json,Weidows-projects/scoop-3rd
 ChatBox.json,Weidows-projects/scoop-3rd
 OBSStudio-Portable.json,Weidows-projects/scoop-3rd
 clash.net.json,Weidows-projects/scoop-3rd
-Air_Weidows-projects.json,Weidows-projects/scoop-3rd
+Air.json,Weidows-projects/scoop-3rd
 KitX.json,Weidows-projects/scoop-3rd
 CefDetectorX.json,Weidows-projects/scoop-3rd
 Lively-Wallpaper.json,Weidows-projects/scoop-3rd
@@ -246,7 +246,7 @@ DevEco-Studio.json,Weidows-projects/scoop-3rd
 jianyingpro-with-ffmpeg.json,Weidows-projects/scoop-3rd
 biliup-app.json,Weidows-projects/scoop-3rd
 tbtool.json,Weidows-projects/scoop-3rd
-nvm_Weidows-projects.json,Weidows-projects/scoop-3rd
+nvm.json,Weidows-projects/scoop-3rd
 obs-plugin-auto-subtitle.json,Weidows-projects/scoop-3rd
 gptcommit.json,Weidows-projects/scoop-3rd
 UsbEAm-Hosts-Editor.json,Weidows-projects/scoop-3rd
@@ -263,7 +263,7 @@ Snap.Hutao.json,Weidows-projects/scoop-3rd
 WingetUI.json,Weidows-projects/scoop-3rd
 obs-plugin-droidcam_fixed.json,Weidows-projects/scoop-3rd
 YUMI-UEFIPortable.json,Weidows-projects/scoop-3rd
-pnpm_Weidows-projects.json,Weidows-projects/scoop-3rd
+pnpm.json,Weidows-projects/scoop-3rd
 bongocat-osu.json,Weidows-projects/scoop-3rd
 GitHub520.json,Weidows-projects/scoop-3rd
 vscode-portable-association.json,Weidows-projects/scoop-3rd
@@ -492,6 +492,7 @@ openrct2.json,Calinou/scoop-games
 freedroidrpg.json,Calinou/scoop-games
 redream.json,Calinou/scoop-games
 lzdoom.json,Calinou/scoop-games
+alephone-marathon-trilogy.json,Calinou/scoop-games
 redeclipse.json,Calinou/scoop-games
 tome4.json,Calinou/scoop-games
 freeorion-test.json,Calinou/scoop-games
@@ -621,11 +622,11 @@ netch.json,chawyehsu/dorado
 windowsterminal-np.json,chawyehsu/dorado
 jiduscan.json,chawyehsu/dorado
 winlibs-mingw-snapshot-msvcrt-posix.json,chawyehsu/dorado
-tcping_chawyehsu.json,chawyehsu/dorado
+tcping.json,chawyehsu/dorado
 anaconda2.json,chawyehsu/dorado
 miniconda2.json,chawyehsu/dorado
 trojan-qt5.json,chawyehsu/dorado
-clash_chawyehsu.json,chawyehsu/dorado
+clash.json,chawyehsu/dorado
 wpsoffice-zh-cn.json,chawyehsu/dorado
 translucenttb.json,chawyehsu/dorado
 mpc-be.json,chawyehsu/dorado
@@ -644,14 +645,14 @@ process-explorer.json,chawyehsu/dorado
 minify.json,chawyehsu/dorado
 zap.json,chawyehsu/dorado
 openethereum.json,chawyehsu/dorado
-himalaya_chawyehsu.json,chawyehsu/dorado
+himalaya.json,chawyehsu/dorado
 douyin-ide.json,chawyehsu/dorado
 todesk.json,chawyehsu/dorado
-gpac_chawyehsu.json,chawyehsu/dorado
+gpac.json,chawyehsu/dorado
 microsoftedge.json,chawyehsu/dorado
 phpstudy-lagecy-scoop.json,chawyehsu/dorado
 liko-12.json,chawyehsu/dorado
-r_chawyehsu.json,chawyehsu/dorado
+r.json,chawyehsu/dorado
 bamboo.json,chawyehsu/dorado
 aapt2.json,chawyehsu/dorado
 archive.is.json,chawyehsu/dorado
@@ -677,6 +678,7 @@ moul.json,chawyehsu/dorado
 bypass_chawyehsu.json,chawyehsu/dorado
 clashn.json,chawyehsu/dorado
 waifu2x-caffe.json,chawyehsu/dorado
+lceda-pro.json,chawyehsu/dorado
 winlibs-mingw-msvcrt-snapshot.json,chawyehsu/dorado
 esbuild.json,chawyehsu/dorado
 binance.json,chawyehsu/dorado
@@ -704,7 +706,7 @@ mosdns.json,chawyehsu/dorado
 firefox-zh-cn.json,chawyehsu/dorado
 soundnode.json,chawyehsu/dorado
 musicbrainz-picard.json,chawyehsu/dorado
-volta_chawyehsu.json,chawyehsu/dorado
+volta.json,chawyehsu/dorado
 fu.json,chawyehsu/dorado
 solana.json,chawyehsu/dorado
 adiirc.json,chawyehsu/dorado
@@ -716,7 +718,7 @@ gnupg-np.json,chawyehsu/dorado
 neteaseuu.json,chawyehsu/dorado
 chfs.json,chawyehsu/dorado
 diskgenius-zh.json,chawyehsu/dorado
-wasmer_chawyehsu.json,chawyehsu/dorado
+wasmer.json,chawyehsu/dorado
 nbtexplorer_chawyehsu.json,chawyehsu/dorado
 cctv-ysyy.json,chawyehsu/dorado
 winlibs-mingw-ucrt-snapshot.json,chawyehsu/dorado
@@ -746,8 +748,8 @@ wayback.json,chawyehsu/dorado
 lbry-desktop.json,chawyehsu/dorado
 mubu.json,chawyehsu/dorado
 anaconda3_chawyehsu.json,chawyehsu/dorado
-geth_chawyehsu.json,chawyehsu/dorado
-nano_chawyehsu.json,chawyehsu/dorado
+geth.json,chawyehsu/dorado
+nano.json,chawyehsu/dorado
 processthreadsview.json,chawyehsu/dorado
 obs-classic.json,chawyehsu/dorado
 pstools.json,chawyehsu/dorado
@@ -809,7 +811,7 @@ chinesesubtitleconversiontool.json,chawyehsu/dorado
 jianyingpro.json,chawyehsu/dorado
 activitywatch.json,chawyehsu/dorado
 steampp.json,chawyehsu/dorado
-swift_chawyehsu.json,chawyehsu/dorado
+swift.json,chawyehsu/dorado
 bilibili-livehime.json,chawyehsu/dorado
 chfs-gui.json,chawyehsu/dorado
 orwell-dev-cpp-no-compiler.json,chawyehsu/dorado
@@ -834,7 +836,7 @@ autodarkmode.json,chawyehsu/dorado
 flutter-cn.json,chawyehsu/dorado
 dotnet-install.json,chawyehsu/dorado
 miniconda3.json,chawyehsu/dorado
-speedtest-cli_chawyehsu.json,chawyehsu/dorado
+speedtest-cli.json,chawyehsu/dorado
 ediary.json,chawyehsu/dorado
 qtscrcpy.json,chawyehsu/dorado
 texlive-full.json,chawyehsu/dorado
@@ -848,7 +850,7 @@ firefox-developer-zh-cn.json,chawyehsu/dorado
 milkytracker.json,chawyehsu/dorado
 picgo.json,chawyehsu/dorado
 microsoftedge-dev.json,chawyehsu/dorado
-solidity_chawyehsu.json,chawyehsu/dorado
+solidity.json,chawyehsu/dorado
 unityhub.json,chawyehsu/dorado
 thunderbird-beta-zh-cn.json,chawyehsu/dorado
 nomeiryoui.json,chawyehsu/dorado
@@ -869,7 +871,7 @@ rcon-cli.json,chawyehsu/dorado
 iobit-undelete.json,chawyehsu/dorado
 epicgameslauncher.json,chawyehsu/dorado
 pixitracker.json,chawyehsu/dorado
-git_chawyehsu.json,chawyehsu/dorado
+git.json,chawyehsu/dorado
 centbrowser.json,chawyehsu/dorado
 gmsh.json,chawyehsu/dorado
 beekeeper.json,chawyehsu/dorado
