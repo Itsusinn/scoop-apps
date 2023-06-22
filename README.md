@@ -52,3 +52,4 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 - scoopcn/scoopcn
 - Calinou/scoop-games
 - chawyehsu/dorado
+- hoilc/scoop-lemon
