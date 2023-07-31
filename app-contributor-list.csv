@@ -959,7 +959,7 @@ pointerstick.json,hoilc/scoop-lemon
 jotta-cli-unstable.json,hoilc/scoop-lemon
 drmemory-nightly.json,hoilc/scoop-lemon
 ytdlp.json,hoilc/scoop-lemon
-tssh.json,hoilc/scoop-lemon
+tssh_hoilc.json,hoilc/scoop-lemon
 step.json,hoilc/scoop-lemon
 metabase-ee.json,hoilc/scoop-lemon
 redisfish.json,hoilc/scoop-lemon
@@ -1324,7 +1324,7 @@ vesta.json,hoilc/scoop-lemon
 ryzentuner.json,hoilc/scoop-lemon
 n_m3u8dl-cli_hoilc.json,hoilc/scoop-lemon
 cloudquery.json,hoilc/scoop-lemon
-trzsz.json,hoilc/scoop-lemon
+trzsz_hoilc.json,hoilc/scoop-lemon
 ultrasearch-free.json,hoilc/scoop-lemon
 curlie_hoilc.json,hoilc/scoop-lemon
 go-wol.json,hoilc/scoop-lemon
