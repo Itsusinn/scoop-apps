@@ -218,6 +218,7 @@ Waifu2x-Extension-GUI.json,Weidows-projects/scoop-3rd
 x-studio.json,Weidows-projects/scoop-3rd
 CefDetectorX.json,Weidows-projects/scoop-3rd
 XYplorer.json,Weidows-projects/scoop-3rd
+Motrix-linking-aria2.json,Weidows-projects/scoop-3rd
 ModOrganizer.json,Weidows-projects/scoop-3rd
 KikoPlay.json,Weidows-projects/scoop-3rd
 pipx-poetry.json,Weidows-projects/scoop-3rd
@@ -273,6 +274,7 @@ login_bili_go.json,Weidows-projects/scoop-3rd
 Nyushu-font.json,Weidows-projects/scoop-3rd
 SmartSystemMenu.json,Weidows-projects/scoop-3rd
 Fluent-for-Steam.json,Weidows-projects/scoop-3rd
+MiFlash-with-unlock.json,Weidows-projects/scoop-3rd
 bw_add_sshkeys.json,Weidows-projects/scoop-3rd
 KeySound.json,Weidows-projects/scoop-3rd
 aws-portable.json,Weidows-projects/scoop-3rd
@@ -1155,7 +1157,6 @@ reg.json,hoilc/scoop-lemon
 smiley-sans.json,hoilc/scoop-lemon
 bosh-cli.json,hoilc/scoop-lemon
 soar.json,hoilc/scoop-lemon
-redis-assistant.json,hoilc/scoop-lemon
 vultr-cli.json,hoilc/scoop-lemon
 metabase-ee.json,hoilc/scoop-lemon
 everedit2.json,hoilc/scoop-lemon
@@ -1282,7 +1283,6 @@ container-structure-test.json,hoilc/scoop-lemon
 libportable-iceweasel.json,hoilc/scoop-lemon
 dbgate.json,hoilc/scoop-lemon
 pestudio.json,hoilc/scoop-lemon
-terraform-validator.json,hoilc/scoop-lemon
 cpolar.json,hoilc/scoop-lemon
 rabbit-tcp.json,hoilc/scoop-lemon
 chart-testing.json,hoilc/scoop-lemon
@@ -1347,7 +1347,6 @@ i4tools.json,hoilc/scoop-lemon
 dpkgen.json,hoilc/scoop-lemon
 tickeys_hoilc.json,hoilc/scoop-lemon
 microsoft-error-lookup-tool.json,hoilc/scoop-lemon
-kafka-assistant.json,hoilc/scoop-lemon
 filefriend-cn.json,hoilc/scoop-lemon
 free-color-picker.json,hoilc/scoop-lemon
 electronmail.json,hoilc/scoop-lemon
@@ -1400,6 +1399,7 @@ fanhuaji.json,hoilc/scoop-lemon
 bkviewer-pro.json,hoilc/scoop-lemon
 helio.json,hoilc/scoop-lemon
 mixctl.json,hoilc/scoop-lemon
+readpe.json,hoilc/scoop-lemon
 drmemory-nightly.json,hoilc/scoop-lemon
 another-redis-desktop-manager_hoilc.json,hoilc/scoop-lemon
 stickies_hoilc.json,hoilc/scoop-lemon
@@ -1414,7 +1414,6 @@ iwck.json,hoilc/scoop-lemon
 mbox-viewer.json,hoilc/scoop-lemon
 mdsilo.json,hoilc/scoop-lemon
 pinniped-cli.json,hoilc/scoop-lemon
-data-assistant.json,hoilc/scoop-lemon
 terraformer_hoilc.json,hoilc/scoop-lemon
 deeplx.json,hoilc/scoop-lemon
 biniware-run.json,hoilc/scoop-lemon
@@ -1442,7 +1441,6 @@ treeline.json,hoilc/scoop-lemon
 pure-data.json,hoilc/scoop-lemon
 dnsproxy_hoilc.json,hoilc/scoop-lemon
 whisper-model-ggml-base-en.json,hoilc/scoop-lemon
-zookeeper-assistant.json,hoilc/scoop-lemon
 tdengine-client.json,hoilc/scoop-lemon
 rundeck-cli.json,hoilc/scoop-lemon
 faac.json,hoilc/scoop-lemon
@@ -1580,7 +1578,6 @@ heroic.json,hoilc/scoop-lemon
 supervisord-go.json,hoilc/scoop-lemon
 inlets-pro.json,hoilc/scoop-lemon
 douyin.json,hoilc/scoop-lemon
-rabbitmq-assistant.json,hoilc/scoop-lemon
 osm.json,hoilc/scoop-lemon
 copyplusplus_hoilc.json,hoilc/scoop-lemon
 wgcf_hoilc.json,hoilc/scoop-lemon
@@ -1627,17 +1624,23 @@ jjdown_hoilc.json,hoilc/scoop-lemon
 tdengine-client-beta.json,hoilc/scoop-lemon
 arsenal-image-mounter.json,hoilc/scoop-lemon
 inlets.json,hoilc/scoop-lemon
+redis-assistant.json,hoilc/scoop-lemon
 registry-recon.json,hoilc/scoop-lemon
 snips.json,hoilc/scoop-lemon
+terraform-validator.json,hoilc/scoop-lemon
 dockle.json,hoilc/scoop-lemon
 spline-cn.json,hoilc/scoop-lemon
+kafka-assistant.json,hoilc/scoop-lemon
 cnative.json,hoilc/scoop-lemon
+data-assistant.json,hoilc/scoop-lemon
 brook-gui-lite.json,hoilc/scoop-lemon
+zookeeper-assistant.json,hoilc/scoop-lemon
 hibernation-recon.json,hoilc/scoop-lemon
 comrak.json,hoilc/scoop-lemon
 thorn.json,hoilc/scoop-lemon
 ocis.json,hoilc/scoop-lemon
 zonenetclient.json,hoilc/scoop-lemon
+rabbitmq-assistant.json,hoilc/scoop-lemon
 edgedb-cli-nightly.json,hoilc/scoop-lemon
 nbminer.json,xtonousou/xbucket
 moba-xterm.json,xtonousou/xbucket
