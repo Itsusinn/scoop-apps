@@ -117,6 +117,7 @@ BitTorrent-Portable.json,kkzzhizhou/scoop-zapps
 ManicTime.json,kkzzhizhou/scoop-zapps
 LLFTOOL.json,kkzzhizhou/scoop-zapps
 linux-command.json,kkzzhizhou/scoop-zapps
+utorrent.json,kkzzhizhou/scoop-zapps
 KindleSend.json,kkzzhizhou/scoop-zapps
 lockhunter.json,kkzzhizhou/scoop-zapps
 SecoClient.json,kkzzhizhou/scoop-zapps
@@ -207,6 +208,7 @@ MyJoy.json,Weidows-projects/scoop-3rd
 DevEco-Studio.json,Weidows-projects/scoop-3rd
 pnpm_Weidows-projects.json,Weidows-projects/scoop-3rd
 RM-ATKtools.json,Weidows-projects/scoop-3rd
+scoop-ext.json,Weidows-projects/scoop-3rd
 YoudaoDict-portable.json,Weidows-projects/scoop-3rd
 PanJi-GreenTools.json,Weidows-projects/scoop-3rd
 AdvancedWgetGUI-Portable.json,Weidows-projects/scoop-3rd
@@ -246,7 +248,6 @@ MyDockFinder.json,Weidows-projects/scoop-3rd
 Lively-Wallpaper.json,Weidows-projects/scoop-3rd
 Remix-desktop.json,Weidows-projects/scoop-3rd
 YUMI-UEFIPortable.json,Weidows-projects/scoop-3rd
-7zip-zstd-4scoop.json,Weidows-projects/scoop-3rd
 obs-plugin-scale-to-sound.json,Weidows-projects/scoop-3rd
 utools-persist.json,Weidows-projects/scoop-3rd
 thief.json,Weidows-projects/scoop-3rd
@@ -267,6 +268,7 @@ psmodule-PowerShellAI.json,Weidows-projects/scoop-3rd
 OBSStudio-Portable.json,Weidows-projects/scoop-3rd
 TinyHand.json,Weidows-projects/scoop-3rd
 clash.net.json,Weidows-projects/scoop-3rd
+7zip-zstd-instead.json,Weidows-projects/scoop-3rd
 yas.json,Weidows-projects/scoop-3rd
 Dependency-Walker.json,Weidows-projects/scoop-3rd
 encore.json,Weidows-projects/scoop-3rd
@@ -274,9 +276,9 @@ login_bili_go.json,Weidows-projects/scoop-3rd
 Nyushu-font.json,Weidows-projects/scoop-3rd
 SmartSystemMenu.json,Weidows-projects/scoop-3rd
 Fluent-for-Steam.json,Weidows-projects/scoop-3rd
-MiFlash-with-unlock.json,Weidows-projects/scoop-3rd
 bw_add_sshkeys.json,Weidows-projects/scoop-3rd
 KeySound.json,Weidows-projects/scoop-3rd
+MiFlash-with-BL_Unlocker.json,Weidows-projects/scoop-3rd
 aws-portable.json,Weidows-projects/scoop-3rd
 winxray.json,Weidows-projects/scoop-3rd
 jetbrains-toolbox.json,Weidows-projects/scoop-3rd
@@ -797,6 +799,7 @@ firefox-beta-zh-cn.json,chawyehsu/dorado
 s2cb.json,chawyehsu/dorado
 belautils.json,chawyehsu/dorado
 dotnet-uninstall-tool.json,chawyehsu/dorado
+pixi.json,chawyehsu/dorado
 adiirc.json,chawyehsu/dorado
 gnupg-np.json,chawyehsu/dorado
 neteaseuuvoice.json,chawyehsu/dorado
