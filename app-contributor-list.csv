@@ -837,7 +837,7 @@ musicbrainz-picard.json,chawyehsu/dorado
 clipber.json,chawyehsu/dorado
 iobit-undelete.json,chawyehsu/dorado
 neteaseuu.json,chawyehsu/dorado
-bbdown.json,chawyehsu/dorado
+bbdown_chawyehsu.json,chawyehsu/dorado
 texworks.json,chawyehsu/dorado
 neteasemusic.json,chawyehsu/dorado
 dogecoincore.json,chawyehsu/dorado
@@ -944,7 +944,7 @@ libportable-iceweasel.json,hoilc/scoop-lemon
 garden.json,hoilc/scoop-lemon
 sclient.json,hoilc/scoop-lemon
 hyplayer.json,hoilc/scoop-lemon
-mongodb-atlas-cli.json,hoilc/scoop-lemon
+mongodb-atlas-cli_hoilc.json,hoilc/scoop-lemon
 whisper-ps.json,hoilc/scoop-lemon
 pdgcnteditor.json,hoilc/scoop-lemon
 tencent-transmart.json,hoilc/scoop-lemon
@@ -1084,7 +1084,7 @@ rare_hoilc.json,hoilc/scoop-lemon
 stickies_hoilc.json,hoilc/scoop-lemon
 myqrcodescanner.json,hoilc/scoop-lemon
 noisy-shuttle.json,hoilc/scoop-lemon
-nomeiryoui_hoilc.json,hoilc/scoop-lemon
+nomeiryoui.json,hoilc/scoop-lemon
 imonitor.json,hoilc/scoop-lemon
 evernote2onenote.json,hoilc/scoop-lemon
 kubecm.json,hoilc/scoop-lemon
@@ -1378,7 +1378,7 @@ pinniped-cli.json,hoilc/scoop-lemon
 redis-rdb-cli.json,hoilc/scoop-lemon
 terraformer_hoilc.json,hoilc/scoop-lemon
 mongodb-compass-isolated.json,hoilc/scoop-lemon
-sing-box.json,hoilc/scoop-lemon
+sing-box_hoilc.json,hoilc/scoop-lemon
 arthas_hoilc.json,hoilc/scoop-lemon
 trdsql.json,hoilc/scoop-lemon
 terrascan.json,hoilc/scoop-lemon
