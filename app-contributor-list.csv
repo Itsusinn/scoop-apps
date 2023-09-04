@@ -1084,7 +1084,7 @@ rare_hoilc.json,hoilc/scoop-lemon
 stickies_hoilc.json,hoilc/scoop-lemon
 myqrcodescanner.json,hoilc/scoop-lemon
 noisy-shuttle.json,hoilc/scoop-lemon
-nomeiryoui.json,hoilc/scoop-lemon
+nomeiryoui_hoilc.json,hoilc/scoop-lemon
 imonitor.json,hoilc/scoop-lemon
 evernote2onenote.json,hoilc/scoop-lemon
 kubecm.json,hoilc/scoop-lemon
@@ -1356,6 +1356,7 @@ ikago.json,hoilc/scoop-lemon
 securefs.json,hoilc/scoop-lemon
 shutter.json,hoilc/scoop-lemon
 werf.json,hoilc/scoop-lemon
+besttrace.json,hoilc/scoop-lemon
 yanhuo.json,hoilc/scoop-lemon
 iplookup.json,hoilc/scoop-lemon
 tsmuxer.json,hoilc/scoop-lemon
@@ -1532,7 +1533,6 @@ juju.json,hoilc/scoop-lemon
 tinygui.json,hoilc/scoop-lemon
 zpaq.json,hoilc/scoop-lemon
 vmutils.json,hoilc/scoop-lemon
-best-trace.json,hoilc/scoop-lemon
 jp_hoilc.json,hoilc/scoop-lemon
 falabaac.json,hoilc/scoop-lemon
 dufs_hoilc.json,hoilc/scoop-lemon
