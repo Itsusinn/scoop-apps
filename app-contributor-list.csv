@@ -990,6 +990,7 @@ pacaptr.json,hoilc/scoop-lemon
 good-mitm.json,hoilc/scoop-lemon
 winexit.json,hoilc/scoop-lemon
 projector-client.json,hoilc/scoop-lemon
+alexandria.json,hoilc/scoop-lemon
 pure-data.json,hoilc/scoop-lemon
 colored-text.json,hoilc/scoop-lemon
 a5m2.json,hoilc/scoop-lemon
@@ -1075,6 +1076,7 @@ websocat.json,hoilc/scoop-lemon
 usbeam-hosts-editor_hoilc.json,hoilc/scoop-lemon
 mqtt-cli.json,hoilc/scoop-lemon
 emby.json,hoilc/scoop-lemon
+minirenamer.json,hoilc/scoop-lemon
 caitouyun.json,hoilc/scoop-lemon
 maye.json,hoilc/scoop-lemon
 gbm.json,hoilc/scoop-lemon
@@ -1145,6 +1147,7 @@ jotta-cli.json,hoilc/scoop-lemon
 tockler.json,hoilc/scoop-lemon
 nat-type-tester.json,hoilc/scoop-lemon
 biliuwp-lite.json,hoilc/scoop-lemon
+editrename.json,hoilc/scoop-lemon
 trdl.json,hoilc/scoop-lemon
 leaf.json,hoilc/scoop-lemon
 logcli.json,hoilc/scoop-lemon
@@ -1161,6 +1164,7 @@ autohidemousecursor.json,hoilc/scoop-lemon
 cue_hoilc.json,hoilc/scoop-lemon
 vmutils-enterprise.json,hoilc/scoop-lemon
 acrylic.json,hoilc/scoop-lemon
+mglahk.json,hoilc/scoop-lemon
 4dnat.json,hoilc/scoop-lemon
 litomusic.json,hoilc/scoop-lemon
 strings2.json,hoilc/scoop-lemon
@@ -1277,6 +1281,7 @@ avidemux.json,hoilc/scoop-lemon
 pineapple-pictures.json,hoilc/scoop-lemon
 btrace.json,hoilc/scoop-lemon
 maxthon5.json,hoilc/scoop-lemon
+proxinject.json,hoilc/scoop-lemon
 facebook-delete.json,hoilc/scoop-lemon
 yuzu-ea.json,hoilc/scoop-lemon
 wincontig.json,hoilc/scoop-lemon
@@ -1408,6 +1413,7 @@ nip2.json,hoilc/scoop-lemon
 n_m3u8dl-cli_hoilc.json,hoilc/scoop-lemon
 ballerina.json,hoilc/scoop-lemon
 arpsift.json,hoilc/scoop-lemon
+hysteria2.json,hoilc/scoop-lemon
 kbld.json,hoilc/scoop-lemon
 wiznoteplus.json,hoilc/scoop-lemon
 pictor.json,hoilc/scoop-lemon
@@ -1439,6 +1445,7 @@ whisper-model-ggml-tiny-en.json,hoilc/scoop-lemon
 wincrypt-sshagent.json,hoilc/scoop-lemon
 clickmonitorddc.json,hoilc/scoop-lemon
 avdc.json,hoilc/scoop-lemon
+onenote-md-exporter.json,hoilc/scoop-lemon
 fenrirfs.json,hoilc/scoop-lemon
 tanoshi.json,hoilc/scoop-lemon
 ediary_hoilc.json,hoilc/scoop-lemon
