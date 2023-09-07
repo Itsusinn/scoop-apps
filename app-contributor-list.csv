@@ -1000,6 +1000,7 @@ keepass-plugin-keetheme.json,hoilc/scoop-lemon
 cppcryptfs.json,hoilc/scoop-lemon
 windowtop.json,hoilc/scoop-lemon
 redisfish.json,hoilc/scoop-lemon
+whatsapp-chat-exporter.json,hoilc/scoop-lemon
 portx.json,hoilc/scoop-lemon
 zeno.json,hoilc/scoop-lemon
 stable-diffusion-prompt-reader.json,hoilc/scoop-lemon
@@ -1146,6 +1147,7 @@ blackbox_exporter.json,hoilc/scoop-lemon
 jotta-cli.json,hoilc/scoop-lemon
 tockler.json,hoilc/scoop-lemon
 nat-type-tester.json,hoilc/scoop-lemon
+pot.json,hoilc/scoop-lemon
 biliuwp-lite.json,hoilc/scoop-lemon
 editrename.json,hoilc/scoop-lemon
 trdl.json,hoilc/scoop-lemon
@@ -1443,6 +1445,7 @@ tilt.json,hoilc/scoop-lemon
 asfenhance-cn.json,hoilc/scoop-lemon
 whisper-model-ggml-tiny-en.json,hoilc/scoop-lemon
 wincrypt-sshagent.json,hoilc/scoop-lemon
+piclist.json,hoilc/scoop-lemon
 clickmonitorddc.json,hoilc/scoop-lemon
 avdc.json,hoilc/scoop-lemon
 onenote-md-exporter.json,hoilc/scoop-lemon
@@ -1595,6 +1598,7 @@ oggdropxpd-libvorbis.json,hoilc/scoop-lemon
 bore.json,hoilc/scoop-lemon
 fastly-cli.json,hoilc/scoop-lemon
 fslac.json,hoilc/scoop-lemon
+textlocator.json,hoilc/scoop-lemon
 bbdown_hoilc.json,hoilc/scoop-lemon
 linux-reader.json,hoilc/scoop-lemon
 autok3s.json,hoilc/scoop-lemon
