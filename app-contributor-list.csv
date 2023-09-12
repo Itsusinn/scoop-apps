@@ -1260,6 +1260,7 @@ libvips_hoilc.json,hoilc/scoop-lemon
 balcon.json,hoilc/scoop-lemon
 feishin.json,hoilc/scoop-lemon
 metabase-ee.json,hoilc/scoop-lemon
+clockpod.json,hoilc/scoop-lemon
 cloudflarespeedtest.json,hoilc/scoop-lemon
 astro-cli.json,hoilc/scoop-lemon
 stripe-cli.json,hoilc/scoop-lemon
@@ -1324,6 +1325,7 @@ whisper-model-ggml-tiny.json,hoilc/scoop-lemon
 ja-netfilter.json,hoilc/scoop-lemon
 luaperfect.json,hoilc/scoop-lemon
 maxthon.json,hoilc/scoop-lemon
+dataflare.json,hoilc/scoop-lemon
 lock-cursor-tools.json,hoilc/scoop-lemon
 mi-sans.json,hoilc/scoop-lemon
 another-redis-desktop-manager_hoilc.json,hoilc/scoop-lemon
