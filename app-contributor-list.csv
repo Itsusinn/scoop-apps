@@ -646,6 +646,7 @@ mcloud.json,chawyehsu/dorado
 git-credential-gopass.json,chawyehsu/dorado
 yy.json,chawyehsu/dorado
 clash-for-windows.json,chawyehsu/dorado
+qqnt.json,chawyehsu/dorado
 microsoftedge-canary.json,chawyehsu/dorado
 miniconda3.json,chawyehsu/dorado
 pstools.json,chawyehsu/dorado
@@ -776,7 +777,6 @@ rustup-msvc-np.json,chawyehsu/dorado
 filebrowser.json,chawyehsu/dorado
 qtscrcpy.json,chawyehsu/dorado
 sunvox.json,chawyehsu/dorado
-openai-translator.json,chawyehsu/dorado
 konversation.json,chawyehsu/dorado
 downkyi.json,chawyehsu/dorado
 jmc2obj.json,chawyehsu/dorado
@@ -820,6 +820,7 @@ trash.json,chawyehsu/dorado
 kodi.json,chawyehsu/dorado
 texlive-full.json,chawyehsu/dorado
 tiled.json,chawyehsu/dorado
+affine.json,chawyehsu/dorado
 mcedit.json,chawyehsu/dorado
 binance.json,chawyehsu/dorado
 famitracker.json,chawyehsu/dorado
@@ -891,6 +892,7 @@ translucenttb.json,chawyehsu/dorado
 tor-browser-zh-cn.json,chawyehsu/dorado
 netch.json,chawyehsu/dorado
 docker-cli.json,chawyehsu/dorado
+openai-translator.json,chawyehsu/dorado
 anaconda2.json,chawyehsu/dorado
 trojan-qt5.json,chawyehsu/dorado
 windowsterminal-np.json,chawyehsu/dorado
@@ -932,7 +934,7 @@ zorba.json,hoilc/scoop-lemon
 double-mouse-downloader.json,hoilc/scoop-lemon
 openra_hoilc.json,hoilc/scoop-lemon
 kyverno-cli.json,hoilc/scoop-lemon
-cppcryptfsctl.json,hoilc/scoop-lemon
+cppcryptfsctl_hoilc.json,hoilc/scoop-lemon
 spring-boot-migrator.json,hoilc/scoop-lemon
 cpix.json,hoilc/scoop-lemon
 vocabulary.net.json,hoilc/scoop-lemon
