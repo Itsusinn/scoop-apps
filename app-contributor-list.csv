@@ -249,6 +249,7 @@ Snap.Hutao.json,Weidows-projects/scoop-3rd
 SamToki-pack.json,Weidows-projects/scoop-3rd
 UmaAi.json,Weidows-projects/scoop-3rd
 clash.net.json,Weidows-projects/scoop-3rd
+git-all.json,Weidows-projects/scoop-3rd
 obs-plugin-droidcam_fixed.json,Weidows-projects/scoop-3rd
 YoudaoDict-portable.json,Weidows-projects/scoop-3rd
 360zip.json,Weidows-projects/scoop-3rd
@@ -256,6 +257,7 @@ Remix-desktop.json,Weidows-projects/scoop-3rd
 nvm_Weidows-projects.json,Weidows-projects/scoop-3rd
 XStudio.json,Weidows-projects/scoop-3rd
 Starward.json,Weidows-projects/scoop-3rd
+psmodule-GuiCompletion.json,Weidows-projects/scoop-3rd
 ModOrganizer.json,Weidows-projects/scoop-3rd
 cudnn.json,Weidows-projects/scoop-3rd
 TinyHand.json,Weidows-projects/scoop-3rd
@@ -693,6 +695,7 @@ besttrace.json,chawyehsu/dorado
 anaconda3_chawyehsu.json,chawyehsu/dorado
 yuque.json,chawyehsu/dorado
 dogecoincore.json,chawyehsu/dorado
+kook.json,chawyehsu/dorado
 chfs-gui.json,chawyehsu/dorado
 pixitracker.json,chawyehsu/dorado
 notion.json,chawyehsu/dorado
@@ -762,6 +765,7 @@ thunderbird-beta-zh-cn.json,chawyehsu/dorado
 clashn.json,chawyehsu/dorado
 obs-classic.json,chawyehsu/dorado
 lepton.json,chawyehsu/dorado
+flowus.json,chawyehsu/dorado
 unityhub.json,chawyehsu/dorado
 spdpd-assistant.json,chawyehsu/dorado
 mosdns-cn.json,chawyehsu/dorado
@@ -821,6 +825,7 @@ kodi.json,chawyehsu/dorado
 texlive-full.json,chawyehsu/dorado
 tiled.json,chawyehsu/dorado
 affine.json,chawyehsu/dorado
+crystaldiskinfo-kureikei-edition.json,chawyehsu/dorado
 mcedit.json,chawyehsu/dorado
 binance.json,chawyehsu/dorado
 famitracker.json,chawyehsu/dorado
@@ -848,6 +853,7 @@ wasmer_chawyehsu.json,chawyehsu/dorado
 processthreadsview.json,chawyehsu/dorado
 wechatwork_chawyehsu.json,chawyehsu/dorado
 libarchive.json,chawyehsu/dorado
+qgis.json,chawyehsu/dorado
 chunky.json,chawyehsu/dorado
 activitywatch.json,chawyehsu/dorado
 typos_chawyehsu.json,chawyehsu/dorado
@@ -1075,7 +1081,7 @@ haproxy_exporter.json,hoilc/scoop-lemon
 pint.json,hoilc/scoop-lemon
 imgpkg.json,hoilc/scoop-lemon
 cow.json,hoilc/scoop-lemon
-ediary_hoilc.json,hoilc/scoop-lemon
+ediary.json,hoilc/scoop-lemon
 wintun-libs.json,hoilc/scoop-lemon
 trdsql.json,hoilc/scoop-lemon
 autohidedesktopicons.json,hoilc/scoop-lemon
@@ -1084,7 +1090,7 @@ kcptun_hoilc.json,hoilc/scoop-lemon
 maye.json,hoilc/scoop-lemon
 kubeshark_hoilc.json,hoilc/scoop-lemon
 uptoc.json,hoilc/scoop-lemon
-pot.json,hoilc/scoop-lemon
+pot_hoilc.json,hoilc/scoop-lemon
 mongodb-compass.json,hoilc/scoop-lemon
 mixctl.json,hoilc/scoop-lemon
 ntttcp.json,hoilc/scoop-lemon
@@ -1325,6 +1331,7 @@ nohttp-cli.json,hoilc/scoop-lemon
 wubilex.json,hoilc/scoop-lemon
 remoteapptool_hoilc.json,hoilc/scoop-lemon
 makesfx.json,hoilc/scoop-lemon
+yuveye.json,hoilc/scoop-lemon
 clashn_hoilc.json,hoilc/scoop-lemon
 mstream.json,hoilc/scoop-lemon
 nat-type-tester.json,hoilc/scoop-lemon
@@ -1678,6 +1685,7 @@ lal.json,hoilc/scoop-lemon
 vultr-cli.json,hoilc/scoop-lemon
 maple-mono-nerd.json,hoilc/scoop-lemon
 findstr.json,hoilc/scoop-lemon
+digitalclock4.json,hoilc/scoop-lemon
 maple-mono-sc-nerd.json,hoilc/scoop-lemon
 brook-gui-lite.json,hoilc/scoop-lemon
 cnative.json,hoilc/scoop-lemon
