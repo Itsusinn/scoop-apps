@@ -731,10 +731,10 @@ micromamba.json,chawyehsu/dorado
 dandanplay.json,chawyehsu/dorado
 capcut.json,chawyehsu/dorado
 douyin-ide.json,chawyehsu/dorado
+tockler.json,chawyehsu/dorado
 famistudio.json,chawyehsu/dorado
 lxmusic.json,chawyehsu/dorado
 flutter-cn.json,chawyehsu/dorado
-dzclient.json,chawyehsu/dorado
 pxcook.json,chawyehsu/dorado
 dvm.json,chawyehsu/dorado
 kitch.json,chawyehsu/dorado
@@ -823,7 +823,6 @@ thunderbird-zh-cn.json,chawyehsu/dorado
 trash.json,chawyehsu/dorado
 kodi.json,chawyehsu/dorado
 texlive-full.json,chawyehsu/dorado
-tiled.json,chawyehsu/dorado
 affine.json,chawyehsu/dorado
 crystaldiskinfo-kureikei-edition.json,chawyehsu/dorado
 mcedit.json,chawyehsu/dorado
@@ -843,6 +842,7 @@ firefox-zh-cn.json,chawyehsu/dorado
 umi-ocr.json,chawyehsu/dorado
 nbtexplorer_chawyehsu.json,chawyehsu/dorado
 llvm-mingw.json,chawyehsu/dorado
+kt-connect.json,chawyehsu/dorado
 electerm_chawyehsu.json,chawyehsu/dorado
 baulk.json,chawyehsu/dorado
 lhmouse-gcc-mcf-snapshot-msvcrt.json,chawyehsu/dorado
@@ -871,7 +871,6 @@ nano_chawyehsu.json,chawyehsu/dorado
 phpstudy-lagecy-scoop.json,chawyehsu/dorado
 cosbrowser.json,chawyehsu/dorado
 multimc_chawyehsu.json,chawyehsu/dorado
-himalaya_chawyehsu.json,chawyehsu/dorado
 bamboo.json,chawyehsu/dorado
 whois.json,chawyehsu/dorado
 powershell.json,chawyehsu/dorado
@@ -895,6 +894,7 @@ aegisub-nightly.json,chawyehsu/dorado
 wpsoffice-zh-cn.json,chawyehsu/dorado
 pandownload.json,chawyehsu/dorado
 translucenttb.json,chawyehsu/dorado
+dzclient.json,chawyehsu/dorado
 tor-browser-zh-cn.json,chawyehsu/dorado
 netch.json,chawyehsu/dorado
 docker-cli.json,chawyehsu/dorado
@@ -904,11 +904,13 @@ trojan-qt5.json,chawyehsu/dorado
 windowsterminal-np.json,chawyehsu/dorado
 purewriter.json,chawyehsu/dorado
 dotnet-desktop-runtime.json,chawyehsu/dorado
+tiled.json,chawyehsu/dorado
 scoop-completion.json,chawyehsu/dorado
 clashnet.json,chawyehsu/dorado
 figma.json,chawyehsu/dorado
 mpc-be.json,chawyehsu/dorado
 qq.json,chawyehsu/dorado
+himalaya_chawyehsu.json,chawyehsu/dorado
 opentrace.json,hoilc/scoop-lemon
 anime4kcpp-cli.json,hoilc/scoop-lemon
 lucky.json,hoilc/scoop-lemon
@@ -1081,7 +1083,7 @@ haproxy_exporter.json,hoilc/scoop-lemon
 pint.json,hoilc/scoop-lemon
 imgpkg.json,hoilc/scoop-lemon
 cow.json,hoilc/scoop-lemon
-ediary.json,hoilc/scoop-lemon
+ediary_hoilc.json,hoilc/scoop-lemon
 wintun-libs.json,hoilc/scoop-lemon
 trdsql.json,hoilc/scoop-lemon
 autohidedesktopicons.json,hoilc/scoop-lemon
@@ -1208,7 +1210,7 @@ rare_hoilc.json,hoilc/scoop-lemon
 werf.json,hoilc/scoop-lemon
 cloudquery.json,hoilc/scoop-lemon
 whisper-model-ggml-tiny-en.json,hoilc/scoop-lemon
-tockler.json,hoilc/scoop-lemon
+tockler_hoilc.json,hoilc/scoop-lemon
 experienceindexok.json,hoilc/scoop-lemon
 cdrtfe.json,hoilc/scoop-lemon
 mai.gif.json,hoilc/scoop-lemon
@@ -1671,7 +1673,7 @@ amtool.json,hoilc/scoop-lemon
 chkssl.json,hoilc/scoop-lemon
 wssocks.json,hoilc/scoop-lemon
 crypto-notepad.json,hoilc/scoop-lemon
-cosbrowser.json,hoilc/scoop-lemon
+cosbrowser_hoilc.json,hoilc/scoop-lemon
 bkviewer-pro.json,hoilc/scoop-lemon
 runcat.json,hoilc/scoop-lemon
 mglahk.json,hoilc/scoop-lemon
