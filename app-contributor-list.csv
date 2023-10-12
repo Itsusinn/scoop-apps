@@ -1288,6 +1288,7 @@ metabase-ee.json,hoilc/scoop-lemon
 skytable.json,hoilc/scoop-lemon
 grype_hoilc.json,hoilc/scoop-lemon
 ehco.json,hoilc/scoop-lemon
+imagesearch.json,hoilc/scoop-lemon
 filefriend-cn.json,hoilc/scoop-lemon
 spring-boot-migrator.json,hoilc/scoop-lemon
 nebula-console.json,hoilc/scoop-lemon
@@ -1380,6 +1381,7 @@ keepass-plugin-keepassotp.json,hoilc/scoop-lemon
 gbm.json,hoilc/scoop-lemon
 zotero-beta.json,hoilc/scoop-lemon
 nagstamon.json,hoilc/scoop-lemon
+find.same.images.ok.json,hoilc/scoop-lemon
 mqtt-cli.json,hoilc/scoop-lemon
 oasis.json,hoilc/scoop-lemon
 haproxy_exporter.json,hoilc/scoop-lemon
