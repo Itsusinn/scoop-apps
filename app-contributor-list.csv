@@ -360,6 +360,7 @@ mesen-s.json,Calinou/scoop-games
 rgbds.json,Calinou/scoop-games
 pacmc.json,Calinou/scoop-games
 itch.json,Calinou/scoop-games
+mudlet.json,Calinou/scoop-games
 ufoai.json,Calinou/scoop-games
 romsorter.json,Calinou/scoop-games
 prboom-plus.json,Calinou/scoop-games
@@ -1084,6 +1085,7 @@ mouseinc.json,hoilc/scoop-lemon
 shutter.json,hoilc/scoop-lemon
 container-diff.json,hoilc/scoop-lemon
 whisper-model-ggml-large.json,hoilc/scoop-lemon
+petaclone.json,hoilc/scoop-lemon
 little-tips.json,hoilc/scoop-lemon
 whalebird.json,hoilc/scoop-lemon
 pointerstick.json,hoilc/scoop-lemon
@@ -1148,6 +1150,7 @@ werf.json,hoilc/scoop-lemon
 asfenhance-cn.json,hoilc/scoop-lemon
 zincsearch.json,hoilc/scoop-lemon
 enable-loopback.json,hoilc/scoop-lemon
+feiq.json,hoilc/scoop-lemon
 qsctl.json,hoilc/scoop-lemon
 sidekick.json,hoilc/scoop-lemon
 go-p2ptunnel.json,hoilc/scoop-lemon
@@ -1299,6 +1302,7 @@ goss.json,hoilc/scoop-lemon
 autohidedesktopicons.json,hoilc/scoop-lemon
 diskbench.json,hoilc/scoop-lemon
 uupmediacreator.json,hoilc/scoop-lemon
+proxypin.json,hoilc/scoop-lemon
 whatsapp-chat-exporter.json,hoilc/scoop-lemon
 vcluster_hoilc.json,hoilc/scoop-lemon
 ultrasearch.json,hoilc/scoop-lemon
