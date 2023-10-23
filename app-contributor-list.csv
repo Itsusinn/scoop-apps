@@ -903,6 +903,7 @@ orwell-dev-cpp.json,chawyehsu/dorado
 archive.is.json,chawyehsu/dorado
 imagine.json,chawyehsu/dorado
 hok.json,chawyehsu/dorado
+redpanda-cpp.json,chawyehsu/dorado
 jmc2obj.json,chawyehsu/dorado
 trash.json,chawyehsu/dorado
 mixin-messenger.json,chawyehsu/dorado
@@ -943,6 +944,7 @@ tdengine-client-beta.json,hoilc/scoop-lemon
 jp_hoilc.json,hoilc/scoop-lemon
 zpaq.json,hoilc/scoop-lemon
 findstr.json,hoilc/scoop-lemon
+gickup.json,hoilc/scoop-lemon
 alexandria.json,hoilc/scoop-lemon
 baidupcs-go.json,hoilc/scoop-lemon
 falabaac.json,hoilc/scoop-lemon
@@ -1175,6 +1177,7 @@ grype_hoilc.json,hoilc/scoop-lemon
 mqtt-cli.json,hoilc/scoop-lemon
 djvutoy.json,hoilc/scoop-lemon
 multi-gitter.json,hoilc/scoop-lemon
+hop-cli.json,hoilc/scoop-lemon
 waifu2x-snowshell.json,hoilc/scoop-lemon
 asfenhance.json,hoilc/scoop-lemon
 glooctl-beta.json,hoilc/scoop-lemon
@@ -1608,6 +1611,7 @@ mi-sans.json,hoilc/scoop-lemon
 amtool.json,hoilc/scoop-lemon
 exdupe.json,hoilc/scoop-lemon
 spire.json,hoilc/scoop-lemon
+gosmee.json,hoilc/scoop-lemon
 flashpad.json,hoilc/scoop-lemon
 graphite_exporter.json,hoilc/scoop-lemon
 wind.json,hoilc/scoop-lemon
