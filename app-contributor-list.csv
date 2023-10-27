@@ -944,6 +944,7 @@ arsenal-image-mounter.json,hoilc/scoop-lemon
 priv10.json,hoilc/scoop-lemon
 redis-assistant.json,hoilc/scoop-lemon
 rmedir.json,hoilc/scoop-lemon
+netchat.json,hoilc/scoop-lemon
 realm.json,hoilc/scoop-lemon
 dmpro.json,hoilc/scoop-lemon
 dbgate-beta.json,hoilc/scoop-lemon
@@ -1099,6 +1100,7 @@ gcping.json,hoilc/scoop-lemon
 pazera-free-audio-extractor.json,hoilc/scoop-lemon
 whisper-model-ggml-tiny.json,hoilc/scoop-lemon
 radius.json,hoilc/scoop-lemon
+bedford.json,hoilc/scoop-lemon
 oplus-sans.json,hoilc/scoop-lemon
 quick-change-resolution.json,hoilc/scoop-lemon
 gosmee.json,hoilc/scoop-lemon
@@ -1140,6 +1142,7 @@ haylxon.json,hoilc/scoop-lemon
 cue_hoilc.json,hoilc/scoop-lemon
 reg.json,hoilc/scoop-lemon
 pdfarranger.json,hoilc/scoop-lemon
+bennett.json,hoilc/scoop-lemon
 uupmediacreator.json,hoilc/scoop-lemon
 us3fs.json,hoilc/scoop-lemon
 clickmonitorddc.json,hoilc/scoop-lemon
@@ -1232,6 +1235,7 @@ arthas_hoilc.json,hoilc/scoop-lemon
 nagstamon.json,hoilc/scoop-lemon
 monochrome.json,hoilc/scoop-lemon
 signalbackup-tools.json,hoilc/scoop-lemon
+parkdale.json,hoilc/scoop-lemon
 credhub-cli.json,hoilc/scoop-lemon
 x2goclient.json,hoilc/scoop-lemon
 dataflare.json,hoilc/scoop-lemon
@@ -1469,6 +1473,7 @@ piping-server-rust.json,hoilc/scoop-lemon
 winfi-lite.json,hoilc/scoop-lemon
 another-redis-desktop-manager_hoilc.json,hoilc/scoop-lemon
 tun2brook.json,hoilc/scoop-lemon
+yale.json,hoilc/scoop-lemon
 dufs_hoilc.json,hoilc/scoop-lemon
 system-tray-menu.json,hoilc/scoop-lemon
 nats-cli.json,hoilc/scoop-lemon
@@ -1563,6 +1568,7 @@ rymdport.json,hoilc/scoop-lemon
 maple-mono-nerd.json,hoilc/scoop-lemon
 gidot-typesetter.json,hoilc/scoop-lemon
 tickeys_hoilc.json,hoilc/scoop-lemon
+spyex.json,hoilc/scoop-lemon
 tsmuxer.json,hoilc/scoop-lemon
 m4acut.json,hoilc/scoop-lemon
 vsts-sync-migrator.json,hoilc/scoop-lemon
@@ -1647,6 +1653,7 @@ karma.json,hoilc/scoop-lemon
 whisper-ps.json,hoilc/scoop-lemon
 extractnow.json,hoilc/scoop-lemon
 krr.json,hoilc/scoop-lemon
+store-apps-tool.json,hoilc/scoop-lemon
 colorconsole.json,hoilc/scoop-lemon
 oggdropxpd-libvorbis.json,hoilc/scoop-lemon
 malm.json,hoilc/scoop-lemon
@@ -1704,6 +1711,7 @@ pestudio.json,hoilc/scoop-lemon
 mbox-viewer.json,hoilc/scoop-lemon
 facebook-delete.json,hoilc/scoop-lemon
 tilt.json,hoilc/scoop-lemon
+homedale_hoilc.json,hoilc/scoop-lemon
 1history.json,hoilc/scoop-lemon
 clickshow.json,hoilc/scoop-lemon
 nico.json,hoilc/scoop-lemon
