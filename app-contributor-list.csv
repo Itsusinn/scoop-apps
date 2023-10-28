@@ -1100,6 +1100,7 @@ gcping.json,hoilc/scoop-lemon
 pazera-free-audio-extractor.json,hoilc/scoop-lemon
 whisper-model-ggml-tiny.json,hoilc/scoop-lemon
 radius.json,hoilc/scoop-lemon
+windows-update-blocker.json,hoilc/scoop-lemon
 bedford.json,hoilc/scoop-lemon
 oplus-sans.json,hoilc/scoop-lemon
 quick-change-resolution.json,hoilc/scoop-lemon
@@ -1119,6 +1120,7 @@ ediary_hoilc.json,hoilc/scoop-lemon
 spring-boot-migrator.json,hoilc/scoop-lemon
 guid-generator.json,hoilc/scoop-lemon
 pint.json,hoilc/scoop-lemon
+ferret.json,hoilc/scoop-lemon
 victoria-metrics.json,hoilc/scoop-lemon
 bililive-recorder-cli.json,hoilc/scoop-lemon
 httpx.json,hoilc/scoop-lemon
@@ -1163,12 +1165,13 @@ skytable.json,hoilc/scoop-lemon
 crane.json,hoilc/scoop-lemon
 spleeter-gui.json,hoilc/scoop-lemon
 chfs-gui_hoilc.json,hoilc/scoop-lemon
+simple-vhd-manager.json,hoilc/scoop-lemon
 juicefs_hoilc.json,hoilc/scoop-lemon
 quick-access-popup.json,hoilc/scoop-lemon
 fdkaac.json,hoilc/scoop-lemon
 drmemory_hoilc.json,hoilc/scoop-lemon
 fslac.json,hoilc/scoop-lemon
-jpegoptim.json,hoilc/scoop-lemon
+jpegoptim_hoilc.json,hoilc/scoop-lemon
 mqtt-cli.json,hoilc/scoop-lemon
 metabase-ee.json,hoilc/scoop-lemon
 sirikali.json,hoilc/scoop-lemon
@@ -1235,6 +1238,7 @@ arthas_hoilc.json,hoilc/scoop-lemon
 nagstamon.json,hoilc/scoop-lemon
 monochrome.json,hoilc/scoop-lemon
 signalbackup-tools.json,hoilc/scoop-lemon
+dns-jumper.json,hoilc/scoop-lemon
 parkdale.json,hoilc/scoop-lemon
 credhub-cli.json,hoilc/scoop-lemon
 x2goclient.json,hoilc/scoop-lemon
@@ -1246,6 +1250,7 @@ speex.json,hoilc/scoop-lemon
 avidemux.json,hoilc/scoop-lemon
 nohttp-cli.json,hoilc/scoop-lemon
 sftpgo_hoilc.json,hoilc/scoop-lemon
+custommenu.json,hoilc/scoop-lemon
 lite.json,hoilc/scoop-lemon
 ossutil_hoilc.json,hoilc/scoop-lemon
 jmol.json,hoilc/scoop-lemon
@@ -1404,6 +1409,7 @@ steam-cloud-file-manager.json,hoilc/scoop-lemon
 tanka.json,hoilc/scoop-lemon
 fanctrl.json,hoilc/scoop-lemon
 kubectl-debug.json,hoilc/scoop-lemon
+task-manager-deluxe.json,hoilc/scoop-lemon
 abstreet.json,hoilc/scoop-lemon
 pinniped-cli.json,hoilc/scoop-lemon
 berglas.json,hoilc/scoop-lemon
@@ -1422,6 +1428,7 @@ hostess.json,hoilc/scoop-lemon
 duf_hoilc.json,hoilc/scoop-lemon
 whisper-model-ggml-medium.json,hoilc/scoop-lemon
 balabolka.json,hoilc/scoop-lemon
+bluelife-hosts-editor.json,hoilc/scoop-lemon
 glooctl-beta.json,hoilc/scoop-lemon
 rmaa.json,hoilc/scoop-lemon
 cpix-cn.json,hoilc/scoop-lemon
@@ -1437,6 +1444,7 @@ httpdownloader.json,hoilc/scoop-lemon
 editrename.json,hoilc/scoop-lemon
 nexusfile.json,hoilc/scoop-lemon
 archisteamfarm_hoilc.json,hoilc/scoop-lemon
+wifi-filter-tool.json,hoilc/scoop-lemon
 fenrirfs.json,hoilc/scoop-lemon
 nexttrace-enhanced.json,hoilc/scoop-lemon
 waifu2x-snowshell.json,hoilc/scoop-lemon
