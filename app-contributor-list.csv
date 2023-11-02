@@ -426,6 +426,7 @@ dxvk.json,Calinou/scoop-games
 goggalaxy.json,Calinou/scoop-games
 lzdoom.json,Calinou/scoop-games
 bsnes-hd-beta.json,Calinou/scoop-games
+steam.json,Calinou/scoop-games
 kindandfair.json,Calinou/scoop-games
 openloco.json,Calinou/scoop-games
 vkquake2.json,Calinou/scoop-games
@@ -949,6 +950,7 @@ rmedir.json,hoilc/scoop-lemon
 netchat.json,hoilc/scoop-lemon
 realm.json,hoilc/scoop-lemon
 dmpro.json,hoilc/scoop-lemon
+wau-manager.json,hoilc/scoop-lemon
 dbgate-beta.json,hoilc/scoop-lemon
 evernote2onenote.json,hoilc/scoop-lemon
 xiaolai.json,hoilc/scoop-lemon
@@ -1041,6 +1043,7 @@ consul_exporter.json,hoilc/scoop-lemon
 winmouse.json,hoilc/scoop-lemon
 ppftpd.json,hoilc/scoop-lemon
 usbeam-consoles-dns.json,hoilc/scoop-lemon
+xelitan-pdf-reader.json,hoilc/scoop-lemon
 adobe-creative-cloud-cleaner-tool.json,hoilc/scoop-lemon
 whisper-model-ggml-small.json,hoilc/scoop-lemon
 mi-sans.json,hoilc/scoop-lemon
@@ -1154,6 +1157,7 @@ opentrace.json,hoilc/scoop-lemon
 ark-pixel-font-10px-monospaced.json,hoilc/scoop-lemon
 anime4kcpp-cli.json,hoilc/scoop-lemon
 serialtest.json,hoilc/scoop-lemon
+infobar.json,hoilc/scoop-lemon
 zrok.json,hoilc/scoop-lemon
 gif123.json,hoilc/scoop-lemon
 terrascan.json,hoilc/scoop-lemon
@@ -1165,6 +1169,7 @@ rssguard.json,hoilc/scoop-lemon
 exdupe.json,hoilc/scoop-lemon
 skytable.json,hoilc/scoop-lemon
 crane.json,hoilc/scoop-lemon
+winfindr.json,hoilc/scoop-lemon
 spleeter-gui.json,hoilc/scoop-lemon
 chfs-gui_hoilc.json,hoilc/scoop-lemon
 simple-vhd-manager.json,hoilc/scoop-lemon
@@ -1181,6 +1186,7 @@ trdl.json,hoilc/scoop-lemon
 esheep.json,hoilc/scoop-lemon
 emby-plugin-javscraper.json,hoilc/scoop-lemon
 postgres_exporter.json,hoilc/scoop-lemon
+quick-any2ico.json,hoilc/scoop-lemon
 napptive-playground-cli.json,hoilc/scoop-lemon
 library.net-standard.json,hoilc/scoop-lemon
 library.net.json,hoilc/scoop-lemon
@@ -1192,6 +1198,7 @@ sonixd.json,hoilc/scoop-lemon
 filegogo.json,hoilc/scoop-lemon
 wc3270.json,hoilc/scoop-lemon
 emby-pinyin.json,hoilc/scoop-lemon
+uninstalr.json,hoilc/scoop-lemon
 flysee.json,hoilc/scoop-lemon
 maple-mono-sc-nerd.json,hoilc/scoop-lemon
 qsvenc.json,hoilc/scoop-lemon
@@ -1284,6 +1291,7 @@ whisper-model-ggml-large-v1.json,hoilc/scoop-lemon
 legendary_hoilc.json,hoilc/scoop-lemon
 experienceindexok.json,hoilc/scoop-lemon
 pineapple-pictures.json,hoilc/scoop-lemon
+mynoteskeeper.json,hoilc/scoop-lemon
 spline.json,hoilc/scoop-lemon
 us3browser.json,hoilc/scoop-lemon
 stegify.json,hoilc/scoop-lemon
@@ -1409,6 +1417,7 @@ multidesk-chs.json,hoilc/scoop-lemon
 3proxy.json,hoilc/scoop-lemon
 exeinfo-pe.json,hoilc/scoop-lemon
 gmcurl.json,hoilc/scoop-lemon
+windows-registry-recovery.json,hoilc/scoop-lemon
 steam-cloud-file-manager.json,hoilc/scoop-lemon
 tanka.json,hoilc/scoop-lemon
 fanctrl.json,hoilc/scoop-lemon
@@ -1466,6 +1475,7 @@ scarborough.json,hoilc/scoop-lemon
 jp_hoilc.json,hoilc/scoop-lemon
 redis-rdb-cli.json,hoilc/scoop-lemon
 telepresence.json,hoilc/scoop-lemon
+cmail.json,hoilc/scoop-lemon
 bluetoothle-battery-monitor.json,hoilc/scoop-lemon
 piclist.json,hoilc/scoop-lemon
 azpainter2.json,hoilc/scoop-lemon
@@ -1624,6 +1634,7 @@ keepass-plugin-hibpofflinecheck.json,hoilc/scoop-lemon
 besttrace.json,hoilc/scoop-lemon
 mi-sans-l3.json,hoilc/scoop-lemon
 twexe.json,hoilc/scoop-lemon
+cmailgui.json,hoilc/scoop-lemon
 rav1e-gui.json,hoilc/scoop-lemon
 onenote-md-exporter.json,hoilc/scoop-lemon
 bkviewer.json,hoilc/scoop-lemon
@@ -1772,6 +1783,7 @@ earthly.json,hoilc/scoop-lemon
 portx.json,hoilc/scoop-lemon
 grype_hoilc.json,hoilc/scoop-lemon
 opscan.json,hoilc/scoop-lemon
+bbdown-nightly.json,hoilc/scoop-lemon
 cloudflarespeedtest.json,hoilc/scoop-lemon
 foobox-en.json,hoilc/scoop-lemon
 keyviz.json,hoilc/scoop-lemon
