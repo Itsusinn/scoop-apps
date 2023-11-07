@@ -646,6 +646,7 @@ trafficmonitor_chawyehsu.json,chawyehsu/dorado
 trojan-qt5.json,chawyehsu/dorado
 pandownload.json,chawyehsu/dorado
 wpsoffice-zh-cn.json,chawyehsu/dorado
+clash-for-windows-np.json,chawyehsu/dorado
 qq.json,chawyehsu/dorado
 purewriter.json,chawyehsu/dorado
 anaconda2.json,chawyehsu/dorado
@@ -653,6 +654,7 @@ himalaya_chawyehsu.json,chawyehsu/dorado
 docker-cli.json,chawyehsu/dorado
 dotnet-desktop-runtime.json,chawyehsu/dorado
 figma.json,chawyehsu/dorado
+clash-verge.json,chawyehsu/dorado
 tor-browser-zh-cn.json,chawyehsu/dorado
 tcping_chawyehsu.json,chawyehsu/dorado
 windowsterminal-np.json,chawyehsu/dorado
@@ -660,15 +662,18 @@ mpc-be.json,chawyehsu/dorado
 winlibs-mingw-snapshot-msvcrt-posix.json,chawyehsu/dorado
 dzclient.json,chawyehsu/dorado
 jiduscan.json,chawyehsu/dorado
+clashn.json,chawyehsu/dorado
 littletips.json,chawyehsu/dorado
 tiled.json,chawyehsu/dorado
 scoop-completion.json,chawyehsu/dorado
 miniconda2.json,chawyehsu/dorado
+clashweb.json,chawyehsu/dorado
 aegisub-nightly.json,chawyehsu/dorado
 clash_chawyehsu.json,chawyehsu/dorado
 netch.json,chawyehsu/dorado
 clashnet.json,chawyehsu/dorado
 translucenttb.json,chawyehsu/dorado
+clash-for-windows.json,chawyehsu/dorado
 openai-translator.json,chawyehsu/dorado
 librewolf.json,chawyehsu/dorado
 ledger-live.json,chawyehsu/dorado
@@ -701,7 +706,6 @@ famitracker.json,chawyehsu/dorado
 crystaldiskinfo-shizuku-edition.json,chawyehsu/dorado
 virgo.json,chawyehsu/dorado
 steampp.json,chawyehsu/dorado
-clash-for-windows-np.json,chawyehsu/dorado
 neteaseuu.json,chawyehsu/dorado
 imagine.json,chawyehsu/dorado
 mubu.json,chawyehsu/dorado
@@ -793,7 +797,6 @@ iobit-unlocker.json,chawyehsu/dorado
 llvm-mingw.json,chawyehsu/dorado
 nano_chawyehsu.json,chawyehsu/dorado
 qtscrcpy.json,chawyehsu/dorado
-clash-verge.json,chawyehsu/dorado
 winlibs-mingw-llvm-msvcrt.json,chawyehsu/dorado
 bilibili-livehime.json,chawyehsu/dorado
 mcskin3d.json,chawyehsu/dorado
@@ -848,7 +851,6 @@ rcon-cli.json,chawyehsu/dorado
 flvextract.json,chawyehsu/dorado
 wasmer_chawyehsu.json,chawyehsu/dorado
 todesk.json,chawyehsu/dorado
-clashn.json,chawyehsu/dorado
 dotnet-install.json,chawyehsu/dorado
 runany.json,chawyehsu/dorado
 openethereum.json,chawyehsu/dorado
@@ -879,7 +881,6 @@ kitch.json,chawyehsu/dorado
 winlibs-mingw-msvcrt-snapshot.json,chawyehsu/dorado
 nftup.json,chawyehsu/dorado
 nomeiryoui.json,chawyehsu/dorado
-clashweb.json,chawyehsu/dorado
 hmcl.json,chawyehsu/dorado
 typos_chawyehsu.json,chawyehsu/dorado
 redis-desktop-manager.json,chawyehsu/dorado
@@ -906,7 +907,6 @@ electron-cash.json,chawyehsu/dorado
 mine-imator.json,chawyehsu/dorado
 chia-blockchain.json,chawyehsu/dorado
 bob-wallet.json,chawyehsu/dorado
-clash-for-windows.json,chawyehsu/dorado
 gmsh.json,chawyehsu/dorado
 altserver.json,chawyehsu/dorado
 belautils.json,chawyehsu/dorado
