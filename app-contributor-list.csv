@@ -1173,6 +1173,7 @@ trzsz_hoilc.json,hoilc/scoop-lemon
 gbm.json,hoilc/scoop-lemon
 task-manager-deluxe.json,hoilc/scoop-lemon
 overture.json,hoilc/scoop-lemon
+mcap.json,hoilc/scoop-lemon
 cow.json,hoilc/scoop-lemon
 lucy.json,hoilc/scoop-lemon
 zip2dir.json,hoilc/scoop-lemon
@@ -1364,6 +1365,7 @@ rj-texted.json,hoilc/scoop-lemon
 kanha.json,hoilc/scoop-lemon
 filegogo.json,hoilc/scoop-lemon
 speex.json,hoilc/scoop-lemon
+oda-file-converter.json,hoilc/scoop-lemon
 asfenhance.json,hoilc/scoop-lemon
 remetrics.json,hoilc/scoop-lemon
 hostsx.json,hoilc/scoop-lemon
@@ -1510,6 +1512,7 @@ pacaptr.json,hoilc/scoop-lemon
 mi-sans-l3.json,hoilc/scoop-lemon
 glooctl-beta.json,hoilc/scoop-lemon
 adpcm-xq.json,hoilc/scoop-lemon
+flarectl.json,hoilc/scoop-lemon
 bililive-go.json,hoilc/scoop-lemon
 nip2.json,hoilc/scoop-lemon
 hamsterbase-desktop.json,hoilc/scoop-lemon
@@ -1528,6 +1531,7 @@ avdc.json,hoilc/scoop-lemon
 zhuque-fangsong.json,hoilc/scoop-lemon
 manyverse.json,hoilc/scoop-lemon
 upcloud-cli.json,hoilc/scoop-lemon
+dorion.json,hoilc/scoop-lemon
 oppo-sans.json,hoilc/scoop-lemon
 gif123.json,hoilc/scoop-lemon
 space-cli.json,hoilc/scoop-lemon
@@ -1607,6 +1611,7 @@ invisiwind.json,hoilc/scoop-lemon
 popeye.json,hoilc/scoop-lemon
 vmutils-enterprise.json,hoilc/scoop-lemon
 r3playx.json,hoilc/scoop-lemon
+webmesh.json,hoilc/scoop-lemon
 bililive-recorder-cli.json,hoilc/scoop-lemon
 keyviz.json,hoilc/scoop-lemon
 portx.json,hoilc/scoop-lemon
@@ -1640,6 +1645,7 @@ dufs_hoilc.json,hoilc/scoop-lemon
 qsctl.json,hoilc/scoop-lemon
 textify.json,hoilc/scoop-lemon
 obsutil.json,hoilc/scoop-lemon
+hiddify-next.json,hoilc/scoop-lemon
 kubectl-argo-rollouts.json,hoilc/scoop-lemon
 strings2.json,hoilc/scoop-lemon
 quick-access-popup.json,hoilc/scoop-lemon
@@ -1815,6 +1821,7 @@ vcluster_hoilc.json,hoilc/scoop-lemon
 maple-mono-sc-nerd.json,hoilc/scoop-lemon
 zrok.json,hoilc/scoop-lemon
 dmpro.json,hoilc/scoop-lemon
+deck.json,hoilc/scoop-lemon
 kyverno-cli_hoilc.json,hoilc/scoop-lemon
 terrascan.json,hoilc/scoop-lemon
 windows-registry-recovery.json,hoilc/scoop-lemon
