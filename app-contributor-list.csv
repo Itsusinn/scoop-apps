@@ -1289,6 +1289,7 @@ simple-vhd-manager.json,hoilc/scoop-lemon
 redis-rdb-cli.json,hoilc/scoop-lemon
 kui.json,hoilc/scoop-lemon
 pinniped-cli.json,hoilc/scoop-lemon
+odbc2parquet.json,hoilc/scoop-lemon
 sandboxdiff.json,hoilc/scoop-lemon
 douyin.json,hoilc/scoop-lemon
 feiq.json,hoilc/scoop-lemon
@@ -1459,6 +1460,7 @@ quick-change-resolution.json,hoilc/scoop-lemon
 esheep.json,hoilc/scoop-lemon
 verycapture.json,hoilc/scoop-lemon
 pulumictl.json,hoilc/scoop-lemon
+hap-viewer.json,hoilc/scoop-lemon
 vivetool-gui.json,hoilc/scoop-lemon
 flyhotkey.json,hoilc/scoop-lemon
 curlie_hoilc.json,hoilc/scoop-lemon
