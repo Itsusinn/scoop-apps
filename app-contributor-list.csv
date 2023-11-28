@@ -927,6 +927,7 @@ dzclient.json,chawyehsu/dorado
 clash-verge.json,chawyehsu/dorado
 netch.json,chawyehsu/dorado
 trojan-qt5.json,chawyehsu/dorado
+schema.json,hoilc/scoop-lemon
 64gram.json,hoilc/scoop-lemon
 mi-sans-l3.json,hoilc/scoop-lemon
 jmx_exporter.json,hoilc/scoop-lemon
@@ -1197,6 +1198,7 @@ m4acut.json,hoilc/scoop-lemon
 legendary_hoilc.json,hoilc/scoop-lemon
 ismylcdok.json,hoilc/scoop-lemon
 quick-change-resolution.json,hoilc/scoop-lemon
+ficus.json,hoilc/scoop-lemon
 zeno.json,hoilc/scoop-lemon
 kubectl-argo-rollouts.json,hoilc/scoop-lemon
 extractnow.json,hoilc/scoop-lemon
@@ -1386,6 +1388,7 @@ meepo.json,hoilc/scoop-lemon
 coscli.json,hoilc/scoop-lemon
 opentofu.json,hoilc/scoop-lemon
 flyhotkey.json,hoilc/scoop-lemon
+switchfin.json,hoilc/scoop-lemon
 bkviewer-pro.json,hoilc/scoop-lemon
 jellycli.json,hoilc/scoop-lemon
 wing-personal.json,hoilc/scoop-lemon
@@ -1498,6 +1501,7 @@ minirenamer.json,hoilc/scoop-lemon
 uplink.json,hoilc/scoop-lemon
 rawsniff.json,hoilc/scoop-lemon
 mdsilo.json,hoilc/scoop-lemon
+pipette.json,hoilc/scoop-lemon
 bbdown-nightly.json,hoilc/scoop-lemon
 douyin.json,hoilc/scoop-lemon
 pagebypage.json,hoilc/scoop-lemon
