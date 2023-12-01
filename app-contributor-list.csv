@@ -1024,12 +1024,14 @@ highlight-text.json,hoilc/scoop-lemon
 pinniped-cli.json,hoilc/scoop-lemon
 imagesearch.json,hoilc/scoop-lemon
 1history.json,hoilc/scoop-lemon
+thesage.json,hoilc/scoop-lemon
 libportable-floorp-lightning.json,hoilc/scoop-lemon
 autohidedesktopicons.json,hoilc/scoop-lemon
 rmedir.json,hoilc/scoop-lemon
 whisper-model-ggml-base.json,hoilc/scoop-lemon
 httpdownloader.json,hoilc/scoop-lemon
 kubeconform_hoilc.json,hoilc/scoop-lemon
+alephnote.json,hoilc/scoop-lemon
 rj-texted.json,hoilc/scoop-lemon
 mi-sans.json,hoilc/scoop-lemon
 gidot-typesetter.json,hoilc/scoop-lemon
@@ -1053,6 +1055,7 @@ firealpaca.json,hoilc/scoop-lemon
 comicsviewer-eng.json,hoilc/scoop-lemon
 regclient.json,hoilc/scoop-lemon
 blb2txt.json,hoilc/scoop-lemon
+magnifixer.json,hoilc/scoop-lemon
 cmailgui.json,hoilc/scoop-lemon
 tiny-rdm.json,hoilc/scoop-lemon
 snmp_exporter.json,hoilc/scoop-lemon
@@ -1185,6 +1188,7 @@ rssguard.json,hoilc/scoop-lemon
 biniware-run.json,hoilc/scoop-lemon
 step.json,hoilc/scoop-lemon
 postgres_exporter.json,hoilc/scoop-lemon
+seppdf.json,hoilc/scoop-lemon
 iplookup.json,hoilc/scoop-lemon
 qshell.json,hoilc/scoop-lemon
 moonbit.json,hoilc/scoop-lemon
@@ -1197,6 +1201,7 @@ pcap2socks.json,hoilc/scoop-lemon
 simple-vhd-manager.json,hoilc/scoop-lemon
 m4acut.json,hoilc/scoop-lemon
 legendary_hoilc.json,hoilc/scoop-lemon
+agent-ransack.json,hoilc/scoop-lemon
 ismylcdok.json,hoilc/scoop-lemon
 quick-change-resolution.json,hoilc/scoop-lemon
 zeno.json,hoilc/scoop-lemon
@@ -1784,6 +1789,7 @@ manyverse.json,hoilc/scoop-lemon
 imtip.json,hoilc/scoop-lemon
 kubecm.json,hoilc/scoop-lemon
 mycomputermanager.json,hoilc/scoop-lemon
+ppee.json,hoilc/scoop-lemon
 infracost.json,hoilc/scoop-lemon
 koyeb-cli.json,hoilc/scoop-lemon
 pointerstick.json,hoilc/scoop-lemon
@@ -1817,6 +1823,7 @@ xplorer.json,hoilc/scoop-lemon
 shntool.json,hoilc/scoop-lemon
 mqtt-cli.json,hoilc/scoop-lemon
 sleep.json,hoilc/scoop-lemon
+artweaver-free.json,hoilc/scoop-lemon
 credhub-cli.json,hoilc/scoop-lemon
 twolame.json,hoilc/scoop-lemon
 nexttrace-enhanced.json,hoilc/scoop-lemon
