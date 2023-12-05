@@ -562,7 +562,6 @@ unrealmodloader.json,Calinou/scoop-games
 pcsx2.json,Calinou/scoop-games
 nester.json,Calinou/scoop-games
 zdbsp.json,Calinou/scoop-games
-multimc.json,Calinou/scoop-games
 wfinfo.json,Calinou/scoop-games
 project64.json,Calinou/scoop-games
 itch.json,Calinou/scoop-games
@@ -808,7 +807,7 @@ qqplayer.json,chawyehsu/dorado
 pxcook.json,chawyehsu/dorado
 flutter-cn.json,chawyehsu/dorado
 beekeeper.json,chawyehsu/dorado
-multimc_chawyehsu.json,chawyehsu/dorado
+multimc.json,chawyehsu/dorado
 winlibs-mingw-ucrt-snapshot.json,chawyehsu/dorado
 anaconda3_chawyehsu.json,chawyehsu/dorado
 cctv-ysyy.json,chawyehsu/dorado
