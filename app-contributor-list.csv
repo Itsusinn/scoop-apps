@@ -1224,6 +1224,7 @@ greptime.json,hoilc/scoop-lemon
 docker-ls.json,hoilc/scoop-lemon
 dmpro.json,hoilc/scoop-lemon
 jmx_exporter.json,hoilc/scoop-lemon
+cybr-cli.json,hoilc/scoop-lemon
 nexttrace-enhanced.json,hoilc/scoop-lemon
 mcap.json,hoilc/scoop-lemon
 ossutil_hoilc.json,hoilc/scoop-lemon
@@ -1305,7 +1306,7 @@ securefs.json,hoilc/scoop-lemon
 qbittorrent-enhanced.json,hoilc/scoop-lemon
 artweaver-free.json,hoilc/scoop-lemon
 helmify.json,hoilc/scoop-lemon
-jj.json,hoilc/scoop-lemon
+jj_hoilc.json,hoilc/scoop-lemon
 start-reader.json,hoilc/scoop-lemon
 falabaac.json,hoilc/scoop-lemon
 ileapp.json,hoilc/scoop-lemon
@@ -1429,10 +1430,12 @@ reg.json,hoilc/scoop-lemon
 flyhotkey.json,hoilc/scoop-lemon
 projclean.json,hoilc/scoop-lemon
 amass_hoilc.json,hoilc/scoop-lemon
+summon.json,hoilc/scoop-lemon
 desktopnoteok.json,hoilc/scoop-lemon
 keepass-plugin-keepassotp.json,hoilc/scoop-lemon
 scarborough.json,hoilc/scoop-lemon
 library.net.json,hoilc/scoop-lemon
+jaeger.json,hoilc/scoop-lemon
 rdb-cli.json,hoilc/scoop-lemon
 vmutils-enterprise.json,hoilc/scoop-lemon
 zotero-beta.json,hoilc/scoop-lemon
@@ -1527,6 +1530,7 @@ alixby.json,hoilc/scoop-lemon
 window-switcher.json,hoilc/scoop-lemon
 collectd_exporter.json,hoilc/scoop-lemon
 gidot-typesetter.json,hoilc/scoop-lemon
+spooky-view.json,hoilc/scoop-lemon
 kyverno-cli_hoilc.json,hoilc/scoop-lemon
 redis-rdb-cli.json,hoilc/scoop-lemon
 rhit.json,hoilc/scoop-lemon
@@ -1647,6 +1651,7 @@ wind.json,hoilc/scoop-lemon
 fpm.json,hoilc/scoop-lemon
 legendary_hoilc.json,hoilc/scoop-lemon
 live777.json,hoilc/scoop-lemon
+ffrename.json,hoilc/scoop-lemon
 libportable-floorp-lightning.json,hoilc/scoop-lemon
 homedale_hoilc.json,hoilc/scoop-lemon
 bililive-go.json,hoilc/scoop-lemon
