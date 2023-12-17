@@ -242,6 +242,7 @@ WondershareUniconverter.json,Weidows-projects/scoop-3rd
 N0vaDesktop.json,Weidows-projects/scoop-3rd
 obs-plugin-backgroundremoval.json,Weidows-projects/scoop-3rd
 obs-plugin-scale-to-sound.json,Weidows-projects/scoop-3rd
+osu-lazer.json,Weidows-projects/scoop-3rd
 SteamOK.json,Weidows-projects/scoop-3rd
 Lively-Wallpaper.json,Weidows-projects/scoop-3rd
 psmodule-PowerShellAI.json,Weidows-projects/scoop-3rd
@@ -250,6 +251,7 @@ Clash-for-Windows_Chinese.json,Weidows-projects/scoop-3rd
 SourceTree.json,Weidows-projects/scoop-3rd
 Dependency-Walker.json,Weidows-projects/scoop-3rd
 Starward.json,Weidows-projects/scoop-3rd
+jvms.json,Weidows-projects/scoop-3rd
 pnpm_Weidows-projects.json,Weidows-projects/scoop-3rd
 Nyushu-font.json,Weidows-projects/scoop-3rd
 cygwin-libs-hentai.json,Weidows-projects/scoop-3rd
@@ -961,6 +963,7 @@ multi-gitter.json,hoilc/scoop-lemon
 snova-asio.json,hoilc/scoop-lemon
 minihex.json,hoilc/scoop-lemon
 emby-plugin-javscraper.json,hoilc/scoop-lemon
+dtlspipe.json,hoilc/scoop-lemon
 phrase-cli.json,hoilc/scoop-lemon
 snctl.json,hoilc/scoop-lemon
 redumper.json,hoilc/scoop-lemon
@@ -1578,6 +1581,7 @@ trzsz_hoilc.json,hoilc/scoop-lemon
 lossywav.json,hoilc/scoop-lemon
 double-entry-generator.json,hoilc/scoop-lemon
 mdsilo.json,hoilc/scoop-lemon
+pixpin.json,hoilc/scoop-lemon
 stegify.json,hoilc/scoop-lemon
 biniware-run.json,hoilc/scoop-lemon
 deeplx.json,hoilc/scoop-lemon
@@ -1810,6 +1814,7 @@ libvips_hoilc.json,hoilc/scoop-lemon
 pinniped-cli.json,hoilc/scoop-lemon
 arpsift.json,hoilc/scoop-lemon
 oggdropxpd-libvorbis.json,hoilc/scoop-lemon
+swgp-go.json,hoilc/scoop-lemon
 go-wol.json,hoilc/scoop-lemon
 dapr.json,hoilc/scoop-lemon
 nps-server.json,hoilc/scoop-lemon
