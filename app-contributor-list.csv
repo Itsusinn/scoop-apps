@@ -941,6 +941,7 @@ assetripper.json,hoilc/scoop-lemon
 tinysetup.json,hoilc/scoop-lemon
 hiddify-next.json,hoilc/scoop-lemon
 cdsctl.json,hoilc/scoop-lemon
+policy.json,hoilc/scoop-lemon
 us3cli.json,hoilc/scoop-lemon
 cryptoknife.json,hoilc/scoop-lemon
 oggenc2-libvorbis-aotuv.json,hoilc/scoop-lemon
@@ -993,6 +994,7 @@ musictag.json,hoilc/scoop-lemon
 steascree.json,hoilc/scoop-lemon
 simple-vhd-manager.json,hoilc/scoop-lemon
 oggdropxpd-libvorbis-aotuv-lancer.json,hoilc/scoop-lemon
+tone.json,hoilc/scoop-lemon
 oda-file-converter.json,hoilc/scoop-lemon
 diskbench.json,hoilc/scoop-lemon
 another-redis-desktop-manager_hoilc.json,hoilc/scoop-lemon
@@ -1015,12 +1017,14 @@ redis_exporter.json,hoilc/scoop-lemon
 bookget.json,hoilc/scoop-lemon
 piclist.json,hoilc/scoop-lemon
 xdown.json,hoilc/scoop-lemon
+iiscrypto.json,hoilc/scoop-lemon
 inlets-pro.json,hoilc/scoop-lemon
 us3browser.json,hoilc/scoop-lemon
 kubeconform_hoilc.json,hoilc/scoop-lemon
 lucy.json,hoilc/scoop-lemon
 library.net-standard.json,hoilc/scoop-lemon
 zorba.json,hoilc/scoop-lemon
+s3scanner.json,hoilc/scoop-lemon
 keepass-plugin-kpenhentryview.json,hoilc/scoop-lemon
 textlocator.json,hoilc/scoop-lemon
 lpvpn.json,hoilc/scoop-lemon
@@ -1165,6 +1169,7 @@ windows_exporter.json,hoilc/scoop-lemon
 lredit.json,hoilc/scoop-lemon
 3body-lang.json,hoilc/scoop-lemon
 lal.json,hoilc/scoop-lemon
+cs-script.json,hoilc/scoop-lemon
 wingetui_hoilc.json,hoilc/scoop-lemon
 cpix.json,hoilc/scoop-lemon
 anime4kcpp-cli.json,hoilc/scoop-lemon
@@ -1187,6 +1192,7 @@ balcon.json,hoilc/scoop-lemon
 iplookup.json,hoilc/scoop-lemon
 switchfin.json,hoilc/scoop-lemon
 ark-pixel-font-10px-monospaced.json,hoilc/scoop-lemon
+ipe.json,hoilc/scoop-lemon
 cassowary.json,hoilc/scoop-lemon
 noisy-shuttle.json,hoilc/scoop-lemon
 dnsx.json,hoilc/scoop-lemon
@@ -1341,6 +1347,7 @@ whisper-model-ggml-small-en.json,hoilc/scoop-lemon
 bedford.json,hoilc/scoop-lemon
 chfs-gui_hoilc.json,hoilc/scoop-lemon
 pointerstick.json,hoilc/scoop-lemon
+notation.json,hoilc/scoop-lemon
 capture.net.json,hoilc/scoop-lemon
 jpegoptim_hoilc.json,hoilc/scoop-lemon
 microsoft-error-lookup-tool.json,hoilc/scoop-lemon
@@ -1484,6 +1491,7 @@ osm.json,hoilc/scoop-lemon
 ccode.json,hoilc/scoop-lemon
 whisper-model-ggml-base-en.json,hoilc/scoop-lemon
 gtk-sharp-libs.json,hoilc/scoop-lemon
+minder.json,hoilc/scoop-lemon
 clashn_hoilc.json,hoilc/scoop-lemon
 tcptunnel.json,hoilc/scoop-lemon
 spring-boot-migrator.json,hoilc/scoop-lemon
@@ -1493,6 +1501,7 @@ whynotwin11.json,hoilc/scoop-lemon
 wgcf_hoilc.json,hoilc/scoop-lemon
 cdrtfe.json,hoilc/scoop-lemon
 graphite_exporter.json,hoilc/scoop-lemon
+msstyleeditor.json,hoilc/scoop-lemon
 kbcli.json,hoilc/scoop-lemon
 thesage.json,hoilc/scoop-lemon
 riftshare.json,hoilc/scoop-lemon
@@ -1503,6 +1512,7 @@ kcl.json,hoilc/scoop-lemon
 pointofix.json,hoilc/scoop-lemon
 drmemory-nightly.json,hoilc/scoop-lemon
 websocat.json,hoilc/scoop-lemon
+pipe-rename.json,hoilc/scoop-lemon
 oggenc2-libvorbis-aotuv-lancer.json,hoilc/scoop-lemon
 64gram.json,hoilc/scoop-lemon
 fvm.json,hoilc/scoop-lemon
@@ -1516,6 +1526,7 @@ capnproto.json,hoilc/scoop-lemon
 amazon-ec2-instance-selector.json,hoilc/scoop-lemon
 ppftpd.json,hoilc/scoop-lemon
 jardiff.json,hoilc/scoop-lemon
+bflat.json,hoilc/scoop-lemon
 srtedit.json,hoilc/scoop-lemon
 tsuru.json,hoilc/scoop-lemon
 spyex.json,hoilc/scoop-lemon
@@ -1533,6 +1544,7 @@ alixby.json,hoilc/scoop-lemon
 window-switcher.json,hoilc/scoop-lemon
 collectd_exporter.json,hoilc/scoop-lemon
 gidot-typesetter.json,hoilc/scoop-lemon
+openobserve.json,hoilc/scoop-lemon
 spooky-view.json,hoilc/scoop-lemon
 kyverno-cli_hoilc.json,hoilc/scoop-lemon
 redis-rdb-cli.json,hoilc/scoop-lemon
@@ -1684,6 +1696,7 @@ pshash.json,hoilc/scoop-lemon
 dpkgen.json,hoilc/scoop-lemon
 kosli.json,hoilc/scoop-lemon
 faac.json,hoilc/scoop-lemon
+scryer-prolog.json,hoilc/scoop-lemon
 tdengine-client.json,hoilc/scoop-lemon
 credhub-cli.json,hoilc/scoop-lemon
 nebula-importer.json,hoilc/scoop-lemon
@@ -1815,6 +1828,7 @@ pinniped-cli.json,hoilc/scoop-lemon
 arpsift.json,hoilc/scoop-lemon
 oggdropxpd-libvorbis.json,hoilc/scoop-lemon
 swgp-go.json,hoilc/scoop-lemon
+vscli.json,hoilc/scoop-lemon
 go-wol.json,hoilc/scoop-lemon
 dapr.json,hoilc/scoop-lemon
 nps-server.json,hoilc/scoop-lemon
