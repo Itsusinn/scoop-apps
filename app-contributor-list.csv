@@ -211,6 +211,7 @@ KitX.json,Weidows-projects/scoop-3rd
 WingetUI.json,Weidows-projects/scoop-3rd
 winxray.json,Weidows-projects/scoop-3rd
 utools-persist.json,Weidows-projects/scoop-3rd
+UltraUXThemePatcher.json,Weidows-projects/scoop-3rd
 DevEco-Studio.json,Weidows-projects/scoop-3rd
 KikoPlay.json,Weidows-projects/scoop-3rd
 YoudaoDict-portable.json,Weidows-projects/scoop-3rd
@@ -237,6 +238,7 @@ ChatBox.json,Weidows-projects/scoop-3rd
 xiangtian-workbench.json,Weidows-projects/scoop-3rd
 pcstory.json,Weidows-projects/scoop-3rd
 scoop-ext.json,Weidows-projects/scoop-3rd
+WSABuild.json,Weidows-projects/scoop-3rd
 Air_Weidows-projects.json,Weidows-projects/scoop-3rd
 WondershareUniconverter.json,Weidows-projects/scoop-3rd
 N0vaDesktop.json,Weidows-projects/scoop-3rd
@@ -941,6 +943,7 @@ assetripper.json,hoilc/scoop-lemon
 tinysetup.json,hoilc/scoop-lemon
 hiddify-next.json,hoilc/scoop-lemon
 cdsctl.json,hoilc/scoop-lemon
+windowsgsm.json,hoilc/scoop-lemon
 policy.json,hoilc/scoop-lemon
 us3cli.json,hoilc/scoop-lemon
 cryptoknife.json,hoilc/scoop-lemon
@@ -1199,9 +1202,11 @@ dnsx.json,hoilc/scoop-lemon
 packetsender.json,hoilc/scoop-lemon
 comicsviewer.json,hoilc/scoop-lemon
 webmesh.json,hoilc/scoop-lemon
+xpipe.json,hoilc/scoop-lemon
 uwscr.json,hoilc/scoop-lemon
 upgit.json,hoilc/scoop-lemon
 pictor-cn.json,hoilc/scoop-lemon
+tlrc.json,hoilc/scoop-lemon
 gitlab-release-cli.json,hoilc/scoop-lemon
 filefriend.json,hoilc/scoop-lemon
 exdupe.json,hoilc/scoop-lemon
@@ -1255,6 +1260,7 @@ redisfish.json,hoilc/scoop-lemon
 tanka.json,hoilc/scoop-lemon
 whalebird.json,hoilc/scoop-lemon
 anime4kcpp-gui.json,hoilc/scoop-lemon
+talisman.json,hoilc/scoop-lemon
 guid-generator.json,hoilc/scoop-lemon
 shutter.json,hoilc/scoop-lemon
 whisper-model-ggml-tiny-en.json,hoilc/scoop-lemon
@@ -1325,12 +1331,14 @@ wintun-libs.json,hoilc/scoop-lemon
 fdkaac.json,hoilc/scoop-lemon
 fuso.json,hoilc/scoop-lemon
 winexit.json,hoilc/scoop-lemon
+ncmdump.json,hoilc/scoop-lemon
 keepass-plugin-keetheme.json,hoilc/scoop-lemon
 findstr-eng.json,hoilc/scoop-lemon
 readpe.json,hoilc/scoop-lemon
 cpix-cn.json,hoilc/scoop-lemon
 win11syscheck.json,hoilc/scoop-lemon
 bazelisk.json,hoilc/scoop-lemon
+kubectl-cert-manager.json,hoilc/scoop-lemon
 bluetoothle-battery-monitor.json,hoilc/scoop-lemon
 yuzu-ea.json,hoilc/scoop-lemon
 naabu.json,hoilc/scoop-lemon
@@ -1385,6 +1393,7 @@ ark-pixel-font-16px-monospaced.json,hoilc/scoop-lemon
 maye-lite.json,hoilc/scoop-lemon
 double-mouse-downloader.json,hoilc/scoop-lemon
 supervisord-go.json,hoilc/scoop-lemon
+actions-usage.json,hoilc/scoop-lemon
 jujutsu.json,hoilc/scoop-lemon
 pulsarctl.json,hoilc/scoop-lemon
 kubedb-cli.json,hoilc/scoop-lemon
@@ -1599,6 +1608,7 @@ mdsilo.json,hoilc/scoop-lemon
 pixpin.json,hoilc/scoop-lemon
 stegify.json,hoilc/scoop-lemon
 biniware-run.json,hoilc/scoop-lemon
+cmctl.json,hoilc/scoop-lemon
 deeplx.json,hoilc/scoop-lemon
 glider.json,hoilc/scoop-lemon
 gosmee.json,hoilc/scoop-lemon
@@ -1747,6 +1757,7 @@ img-convert.json,hoilc/scoop-lemon
 sing-box_hoilc.json,hoilc/scoop-lemon
 foldermonitor.json,hoilc/scoop-lemon
 kubeseal_hoilc.json,hoilc/scoop-lemon
+timoni.json,hoilc/scoop-lemon
 bluelife-hosts-editor.json,hoilc/scoop-lemon
 swagger-codegen-cli.json,hoilc/scoop-lemon
 wing-personal.json,hoilc/scoop-lemon
