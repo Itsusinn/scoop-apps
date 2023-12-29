@@ -194,6 +194,7 @@ openssh_HCLonely.json,HCLonely/my-scoop-bucket
 ffmpeg-tools.json,HCLonely/my-scoop-bucket
 KeySound.json,Weidows-projects/scoop-3rd
 obs-plugin-auto-subtitle.json,Weidows-projects/scoop-3rd
+vscode.json,Weidows-projects/scoop-3rd
 cudnn.json,Weidows-projects/scoop-3rd
 Iobitdriverbooster.json,Weidows-projects/scoop-3rd
 thief.json,Weidows-projects/scoop-3rd
@@ -283,7 +284,6 @@ Motrix-linking-aria2.json,Weidows-projects/scoop-3rd
 SFP.json,Weidows-projects/scoop-3rd
 Adwaita-for-Steam.json,Weidows-projects/scoop-3rd
 XStudio.json,Weidows-projects/scoop-3rd
-vscode-portable-association.json,Weidows-projects/scoop-3rd
 Jeenpi.json,Weidows-projects/scoop-3rd
 CefDetectorX.json,Weidows-projects/scoop-3rd
 Jvedio.json,Weidows-projects/scoop-3rd
@@ -316,6 +316,7 @@ wps-photoplus.json,Weidows-projects/scoop-3rd
 Fluent-for-Steam.json,Weidows-projects/scoop-3rd
 poetry_Weidows-projects.json,Weidows-projects/scoop-3rd
 anaconda3.json,Weidows-projects/scoop-3rd
+vscode-portable-association.json,Weidows-projects/scoop-3rd
 UsbEAm-Hosts-Editor.json,Weidows-projects/scoop-3rd
 Synergy-Binaries.json,Weidows-projects/scoop-3rd
 todesk.json,scoopcn/scoopcn
