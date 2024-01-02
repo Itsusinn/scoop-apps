@@ -1515,7 +1515,7 @@ ccode.json,hoilc/scoop-lemon
 whisper-model-ggml-base-en.json,hoilc/scoop-lemon
 gtk-sharp-libs.json,hoilc/scoop-lemon
 minder.json,hoilc/scoop-lemon
-clashn_hoilc.json,hoilc/scoop-lemon
+clashn.json,hoilc/scoop-lemon
 tcptunnel.json,hoilc/scoop-lemon
 spring-boot-migrator.json,hoilc/scoop-lemon
 pcap2socks.json,hoilc/scoop-lemon
