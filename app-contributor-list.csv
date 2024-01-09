@@ -1026,7 +1026,6 @@ piclist.json,hoilc/scoop-lemon
 xdown.json,hoilc/scoop-lemon
 iiscrypto.json,hoilc/scoop-lemon
 inlets-pro.json,hoilc/scoop-lemon
-us3browser.json,hoilc/scoop-lemon
 kubeconform_hoilc.json,hoilc/scoop-lemon
 lucy.json,hoilc/scoop-lemon
 library.net-standard.json,hoilc/scoop-lemon
@@ -1059,7 +1058,6 @@ signalbackup-tools.json,hoilc/scoop-lemon
 hostsx.json,hoilc/scoop-lemon
 extractnow.json,hoilc/scoop-lemon
 oggenc2-libvorbis.json,hoilc/scoop-lemon
-vtun.json,hoilc/scoop-lemon
 linux-reader.json,hoilc/scoop-lemon
 metabase.json,hoilc/scoop-lemon
 victoria-logs.json,hoilc/scoop-lemon
@@ -1220,6 +1218,7 @@ little-tips.json,hoilc/scoop-lemon
 moonbit.json,hoilc/scoop-lemon
 ballerina.json,hoilc/scoop-lemon
 burrow.json,hoilc/scoop-lemon
+k8sgpt.json,hoilc/scoop-lemon
 staxrip.json,hoilc/scoop-lemon
 fupx.json,hoilc/scoop-lemon
 lyricify.json,hoilc/scoop-lemon
@@ -1241,7 +1240,6 @@ virtctl.json,hoilc/scoop-lemon
 djvutoy-eng.json,hoilc/scoop-lemon
 cpolar.json,hoilc/scoop-lemon
 stickies_hoilc.json,hoilc/scoop-lemon
-sandboxie-plus.json,hoilc/scoop-lemon
 greptime.json,hoilc/scoop-lemon
 docker-ls.json,hoilc/scoop-lemon
 dmpro.json,hoilc/scoop-lemon
@@ -1476,6 +1474,7 @@ xsnip.json,hoilc/scoop-lemon
 trellis-cli.json,hoilc/scoop-lemon
 lightnovel-crawler.json,hoilc/scoop-lemon
 whisper-model-ggml-large-v1.json,hoilc/scoop-lemon
+realm-studio.json,hoilc/scoop-lemon
 rekor-cli.json,hoilc/scoop-lemon
 ediary3.json,hoilc/scoop-lemon
 karma.json,hoilc/scoop-lemon
@@ -1727,6 +1726,7 @@ kosli.json,hoilc/scoop-lemon
 faac.json,hoilc/scoop-lemon
 scryer-prolog.json,hoilc/scoop-lemon
 tdengine-client.json,hoilc/scoop-lemon
+xplist.json,hoilc/scoop-lemon
 credhub-cli.json,hoilc/scoop-lemon
 nebula-importer.json,hoilc/scoop-lemon
 alisthelper.json,hoilc/scoop-lemon
@@ -1868,7 +1868,6 @@ nps-server.json,hoilc/scoop-lemon
 freepic2pdf.json,hoilc/scoop-lemon
 vsts-sync-migrator.json,hoilc/scoop-lemon
 trdl.json,hoilc/scoop-lemon
-go-proxy-checker.json,hoilc/scoop-lemon
 av_data_capture.json,hoilc/scoop-lemon
 fdf.json,hoilc/scoop-lemon
 soar.json,hoilc/scoop-lemon
@@ -1928,10 +1927,13 @@ r3playx.json,hoilc/scoop-lemon
 ocis.json,hoilc/scoop-lemon
 coodesker.json,hoilc/scoop-lemon
 data-assistant.json,hoilc/scoop-lemon
+us3browser.json,hoilc/scoop-lemon
 dockle.json,hoilc/scoop-lemon
 brook-gui-lite.json,hoilc/scoop-lemon
+vtun.json,hoilc/scoop-lemon
 arsenal-image-mounter.json,hoilc/scoop-lemon
 rabbitmq-assistant.json,hoilc/scoop-lemon
+sandboxie-plus.json,hoilc/scoop-lemon
 registry-recon.json,hoilc/scoop-lemon
 zookeeper-assistant.json,hoilc/scoop-lemon
 redis-assistant.json,hoilc/scoop-lemon
@@ -1950,6 +1952,7 @@ kangaroo.json,hoilc/scoop-lemon
 hibernation-recon.json,hoilc/scoop-lemon
 edgedb-cli-nightly.json,hoilc/scoop-lemon
 cnative.json,hoilc/scoop-lemon
+go-proxy-checker.json,hoilc/scoop-lemon
 cs2-server-picker.json,xtonousou/xbucket
 moba-xterm.json,xtonousou/xbucket
 nbminer.json,xtonousou/xbucket
