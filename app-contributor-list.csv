@@ -214,6 +214,7 @@ utools-persist.json,Weidows-projects/scoop-3rd
 UltraUXThemePatcher.json,Weidows-projects/scoop-3rd
 DevEco-Studio.json,Weidows-projects/scoop-3rd
 KikoPlay.json,Weidows-projects/scoop-3rd
+TagUI.json,Weidows-projects/scoop-3rd
 YoudaoDict-portable.json,Weidows-projects/scoop-3rd
 UmamusumeResponseAnalyzer.json,Weidows-projects/scoop-3rd
 aws-portable.json,Weidows-projects/scoop-3rd
@@ -286,6 +287,7 @@ Jeenpi.json,Weidows-projects/scoop-3rd
 CefDetectorX.json,Weidows-projects/scoop-3rd
 Jvedio.json,Weidows-projects/scoop-3rd
 RunCat-zhiyin.json,Weidows-projects/scoop-3rd
+BADownloaderUI.json,Weidows-projects/scoop-3rd
 bw_add_sshkeys.json,Weidows-projects/scoop-3rd
 AIO-Boot.json,Weidows-projects/scoop-3rd
 intel-one-mono.json,Weidows-projects/scoop-3rd
@@ -1099,7 +1101,7 @@ vorbis-tools.json,hoilc/scoop-lemon
 uncover.json,hoilc/scoop-lemon
 clash-speedtest.json,hoilc/scoop-lemon
 topaz.json,hoilc/scoop-lemon
-opentofu.json,hoilc/scoop-lemon
+opentofu_hoilc.json,hoilc/scoop-lemon
 textify.json,hoilc/scoop-lemon
 classviewer.json,hoilc/scoop-lemon
 4dnat.json,hoilc/scoop-lemon
