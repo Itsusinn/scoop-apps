@@ -1236,6 +1236,7 @@ spacectl.json,hoilc/scoop-lemon
 pdfarranger.json,hoilc/scoop-lemon
 speex.json,hoilc/scoop-lemon
 faad2.json,hoilc/scoop-lemon
+xrun.json,hoilc/scoop-lemon
 airpodsdesktop.json,hoilc/scoop-lemon
 tun2brook.json,hoilc/scoop-lemon
 mysqld_exporter.json,hoilc/scoop-lemon
@@ -1277,6 +1278,7 @@ zoro.json,hoilc/scoop-lemon
 clash2singbox.json,hoilc/scoop-lemon
 autohidemousecursor.json,hoilc/scoop-lemon
 lame-front-end.json,hoilc/scoop-lemon
+wxautoexim.json,hoilc/scoop-lemon
 luaperfect.json,hoilc/scoop-lemon
 spleeter-gui.json,hoilc/scoop-lemon
 pe-anatomist.json,hoilc/scoop-lemon
@@ -1316,6 +1318,7 @@ azdrawing2.json,hoilc/scoop-lemon
 skytable.json,hoilc/scoop-lemon
 emby-pinyin.json,hoilc/scoop-lemon
 rj-texted.json,hoilc/scoop-lemon
+wxdatviewer.json,hoilc/scoop-lemon
 rabbit-tcp.json,hoilc/scoop-lemon
 haproxy_exporter.json,hoilc/scoop-lemon
 pictor.json,hoilc/scoop-lemon
@@ -1371,6 +1374,7 @@ chfs-gui_hoilc.json,hoilc/scoop-lemon
 pointerstick.json,hoilc/scoop-lemon
 notation.json,hoilc/scoop-lemon
 capture.net.json,hoilc/scoop-lemon
+ysmood.whisper.json,hoilc/scoop-lemon
 jpegoptim_hoilc.json,hoilc/scoop-lemon
 microsoft-error-lookup-tool.json,hoilc/scoop-lemon
 webd.json,hoilc/scoop-lemon
@@ -1459,6 +1463,7 @@ pulovers-macro-creator.json,hoilc/scoop-lemon
 gogdl.json,hoilc/scoop-lemon
 comicsviewer-eng.json,hoilc/scoop-lemon
 drmemory_hoilc.json,hoilc/scoop-lemon
+sclock.json,hoilc/scoop-lemon
 antidupl.net.json,hoilc/scoop-lemon
 reg.json,hoilc/scoop-lemon
 flyhotkey.json,hoilc/scoop-lemon
@@ -1858,6 +1863,7 @@ cyanrip.json,hoilc/scoop-lemon
 lucky.json,hoilc/scoop-lemon
 kubecm.json,hoilc/scoop-lemon
 tlsx.json,hoilc/scoop-lemon
+javsp.json,hoilc/scoop-lemon
 kcptun_hoilc.json,hoilc/scoop-lemon
 libvips_hoilc.json,hoilc/scoop-lemon
 tclkit.json,hoilc/scoop-lemon
