@@ -320,6 +320,7 @@ anaconda3.json,Weidows-projects/scoop-3rd
 obs-plugin-droidcam_fixed.json,Weidows-projects/scoop-3rd
 vscode-portable-association.json,Weidows-projects/scoop-3rd
 UsbEAm-Hosts-Editor.json,Weidows-projects/scoop-3rd
+Auto_Bangumi.json,Weidows-projects/scoop-3rd
 Synergy-Binaries.json,Weidows-projects/scoop-3rd
 todesk.json,scoopcn/scoopcn
 unity3d.json,scoopcn/scoopcn
@@ -647,6 +648,7 @@ augmentinel.json,Calinou/scoop-games
 openclonk.json,Calinou/scoop-games
 twitchdropsminer.json,Calinou/scoop-games
 autodarkmode.json,chawyehsu/dorado
+browsh.json,chawyehsu/dorado
 beyondcompare-zh-cn.json,chawyehsu/dorado
 milton.json,chawyehsu/dorado
 powershell.json,chawyehsu/dorado
@@ -1324,6 +1326,7 @@ haproxy_exporter.json,hoilc/scoop-lemon
 pictor.json,hoilc/scoop-lemon
 7zip-zs.json,hoilc/scoop-lemon
 btrace.json,hoilc/scoop-lemon
+fusion-lang.json,hoilc/scoop-lemon
 blackbox_exporter.json,hoilc/scoop-lemon
 chkssl.json,hoilc/scoop-lemon
 grafana-agent.json,hoilc/scoop-lemon
@@ -1476,6 +1479,7 @@ desktopnoteok.json,hoilc/scoop-lemon
 keepass-plugin-keepassotp.json,hoilc/scoop-lemon
 scarborough.json,hoilc/scoop-lemon
 library.net.json,hoilc/scoop-lemon
+png2qoi.json,hoilc/scoop-lemon
 jaeger.json,hoilc/scoop-lemon
 ksign.json,hoilc/scoop-lemon
 rdb-cli.json,hoilc/scoop-lemon
@@ -1714,6 +1718,7 @@ bililive-go.json,hoilc/scoop-lemon
 rmedir.json,hoilc/scoop-lemon
 psgen.json,hoilc/scoop-lemon
 chirp-next.json,hoilc/scoop-lemon
+keepassxc-snapshot.json,hoilc/scoop-lemon
 ikago.json,hoilc/scoop-lemon
 soundswitch.json,hoilc/scoop-lemon
 container-structure-test.json,hoilc/scoop-lemon
@@ -1778,6 +1783,7 @@ localstack.json,hoilc/scoop-lemon
 toxiproxy.json,hoilc/scoop-lemon
 zeno.json,hoilc/scoop-lemon
 waifu2x-snowshell.json,hoilc/scoop-lemon
+privacy-eraser.json,hoilc/scoop-lemon
 mongodb-atlas-cli_hoilc.json,hoilc/scoop-lemon
 clickmonitorddc.json,hoilc/scoop-lemon
 nuclei.json,hoilc/scoop-lemon
