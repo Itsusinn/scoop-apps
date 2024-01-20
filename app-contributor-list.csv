@@ -771,7 +771,6 @@ gpac_chawyehsu.json,chawyehsu/dorado
 texlive-full.json,chawyehsu/dorado
 picgo.json,chawyehsu/dorado
 gnupg-np.json,chawyehsu/dorado
-miniconda3.json,chawyehsu/dorado
 itch_chawyehsu.json,chawyehsu/dorado
 kt-connect.json,chawyehsu/dorado
 process-monitor.json,chawyehsu/dorado
@@ -786,6 +785,7 @@ bitcoinknots.json,chawyehsu/dorado
 aapt2.json,chawyehsu/dorado
 redis-desktop-manager.json,chawyehsu/dorado
 besttrace.json,chawyehsu/dorado
+miniconda.json,chawyehsu/dorado
 winlibs-mingw-msvcrt-snapshot.json,chawyehsu/dorado
 qtscrcpy.json,chawyehsu/dorado
 qgis.json,chawyehsu/dorado
@@ -818,7 +818,6 @@ wechatdevtools.json,chawyehsu/dorado
 konversation.json,chawyehsu/dorado
 nattypetester.json,chawyehsu/dorado
 milkytracker.json,chawyehsu/dorado
-anaconda3_chawyehsu.json,chawyehsu/dorado
 microsoftedge-canary.json,chawyehsu/dorado
 snipaste-beta.json,chawyehsu/dorado
 unityhub.json,chawyehsu/dorado
@@ -918,6 +917,7 @@ docker-cli.json,chawyehsu/dorado
 trafficmonitor_chawyehsu.json,chawyehsu/dorado
 clashn.json,chawyehsu/dorado
 littletips.json,chawyehsu/dorado
+anaconda3_chawyehsu.json,chawyehsu/dorado
 himalaya_chawyehsu.json,chawyehsu/dorado
 clashweb.json,chawyehsu/dorado
 miniconda2.json,chawyehsu/dorado
@@ -1240,6 +1240,7 @@ speex.json,hoilc/scoop-lemon
 faad2.json,hoilc/scoop-lemon
 xrun.json,hoilc/scoop-lemon
 airpodsdesktop.json,hoilc/scoop-lemon
+suwellofd.json,hoilc/scoop-lemon
 tun2brook.json,hoilc/scoop-lemon
 mysqld_exporter.json,hoilc/scoop-lemon
 virtctl.json,hoilc/scoop-lemon
