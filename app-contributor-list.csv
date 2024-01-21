@@ -1261,6 +1261,7 @@ oplus-sans.json,hoilc/scoop-lemon
 filefriend-cn.json,hoilc/scoop-lemon
 amazon-ec2-metadata-mock.json,hoilc/scoop-lemon
 opentrace.json,hoilc/scoop-lemon
+picturecleaner.json,hoilc/scoop-lemon
 portx.json,hoilc/scoop-lemon
 craftlaunch.json,hoilc/scoop-lemon
 infracost.json,hoilc/scoop-lemon
@@ -1502,6 +1503,7 @@ gickup.json,hoilc/scoop-lemon
 bctextencoder.json,hoilc/scoop-lemon
 obsutil.json,hoilc/scoop-lemon
 ja-netfilter.json,hoilc/scoop-lemon
+stduviewer.json,hoilc/scoop-lemon
 autok3s.json,hoilc/scoop-lemon
 imgpkg.json,hoilc/scoop-lemon
 mouseinc.json,hoilc/scoop-lemon
@@ -1532,6 +1534,7 @@ whisper-model-ggml-base-en.json,hoilc/scoop-lemon
 gtk-sharp-libs.json,hoilc/scoop-lemon
 minder.json,hoilc/scoop-lemon
 clashn.json,hoilc/scoop-lemon
+arrowdl.json,hoilc/scoop-lemon
 tcptunnel.json,hoilc/scoop-lemon
 spring-boot-migrator.json,hoilc/scoop-lemon
 pcap2socks.json,hoilc/scoop-lemon
