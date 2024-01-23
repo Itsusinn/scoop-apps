@@ -1336,6 +1336,7 @@ chkssl.json,hoilc/scoop-lemon
 grafana-agent.json,hoilc/scoop-lemon
 azd.json,hoilc/scoop-lemon
 pot_hoilc.json,hoilc/scoop-lemon
+imbatch.json,hoilc/scoop-lemon
 catsxp.json,hoilc/scoop-lemon
 bookxnote.json,hoilc/scoop-lemon
 sdx.json,hoilc/scoop-lemon
@@ -1399,6 +1400,7 @@ whisper-model-ggml-medium-en.json,hoilc/scoop-lemon
 asnmap.json,hoilc/scoop-lemon
 edgedb-cli.json,hoilc/scoop-lemon
 jellycli.json,hoilc/scoop-lemon
+mdx-editor.json,hoilc/scoop-lemon
 rundeck-cli.json,hoilc/scoop-lemon
 cmail.json,hoilc/scoop-lemon
 mycomputermanager.json,hoilc/scoop-lemon
@@ -1722,6 +1724,7 @@ libportable-floorp-lightning.json,hoilc/scoop-lemon
 homedale_hoilc.json,hoilc/scoop-lemon
 bililive-go.json,hoilc/scoop-lemon
 rmedir.json,hoilc/scoop-lemon
+woterm.json,hoilc/scoop-lemon
 psgen.json,hoilc/scoop-lemon
 chirp-next.json,hoilc/scoop-lemon
 keepassxc-snapshot.json,hoilc/scoop-lemon
