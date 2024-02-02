@@ -588,6 +588,7 @@ dolphin-dev.json,Calinou/scoop-games
 rbdoom-3-bfg.json,Calinou/scoop-games
 duckstation.json,Calinou/scoop-games
 cnc-ddraw.json,Calinou/scoop-games
+tmaze.json,Calinou/scoop-games
 sil.json,Calinou/scoop-games
 hedgewars.json,Calinou/scoop-games
 ryujinx-ava.json,Calinou/scoop-games
@@ -1605,7 +1606,7 @@ fontmod.json,hoilc/scoop-lemon
 resource.net.json,hoilc/scoop-lemon
 arthas_hoilc.json,hoilc/scoop-lemon
 victoria-logs.json,hoilc/scoop-lemon
-another-redis-desktop-manager_hoilc.json,hoilc/scoop-lemon
+another-redis-desktop-manager.json,hoilc/scoop-lemon
 k0sctl.json,hoilc/scoop-lemon
 tockler_hoilc.json,hoilc/scoop-lemon
 arrowdl.json,hoilc/scoop-lemon
@@ -1678,7 +1679,7 @@ bazelisk.json,hoilc/scoop-lemon
 tsuru.json,hoilc/scoop-lemon
 processdump.json,hoilc/scoop-lemon
 websocat.json,hoilc/scoop-lemon
-ediary.json,hoilc/scoop-lemon
+ediary_hoilc.json,hoilc/scoop-lemon
 monochrome.json,hoilc/scoop-lemon
 mouseinc.json,hoilc/scoop-lemon
 ballerina.json,hoilc/scoop-lemon
