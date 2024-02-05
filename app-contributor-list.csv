@@ -1026,6 +1026,7 @@ jujutsu.json,hoilc/scoop-lemon
 dorion.json,hoilc/scoop-lemon
 rymdport.json,hoilc/scoop-lemon
 rustdesk_hoilc.json,hoilc/scoop-lemon
+rimage_gui.json,hoilc/scoop-lemon
 skytable.json,hoilc/scoop-lemon
 zoro.json,hoilc/scoop-lemon
 bctextencoder.json,hoilc/scoop-lemon
@@ -1825,6 +1826,7 @@ keepass-plugin-kpenhentryview.json,hoilc/scoop-lemon
 windctl.json,hoilc/scoop-lemon
 trellis-cli.json,hoilc/scoop-lemon
 verysimple.json,hoilc/scoop-lemon
+pinwin.json,hoilc/scoop-lemon
 wc3270.json,hoilc/scoop-lemon
 werf.json,hoilc/scoop-lemon
 hamsterbase-desktop.json,hoilc/scoop-lemon
