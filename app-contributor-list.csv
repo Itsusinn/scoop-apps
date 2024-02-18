@@ -827,6 +827,7 @@ rustup-msvc-np.json,chawyehsu/dorado
 bilibili.json,chawyehsu/dorado
 beyondcompare-zh-cn.json,chawyehsu/dorado
 belautils.json,chawyehsu/dorado
+cargo-zigbuild.json,chawyehsu/dorado
 chfs.json,chawyehsu/dorado
 pixitracker.json,chawyehsu/dorado
 texlive.json,chawyehsu/dorado
@@ -1001,7 +1002,6 @@ doublekiller.json,hoilc/scoop-lemon
 dnsproxy_hoilc.json,hoilc/scoop-lemon
 cpix.json,hoilc/scoop-lemon
 brook-gui.json,hoilc/scoop-lemon
-avdc.json,hoilc/scoop-lemon
 strings2.json,hoilc/scoop-lemon
 bleconsole.json,hoilc/scoop-lemon
 makesfx.json,hoilc/scoop-lemon
@@ -1571,7 +1571,6 @@ sylpheed.json,hoilc/scoop-lemon
 lazykube.json,hoilc/scoop-lemon
 keepass-plugin-keetheme.json,hoilc/scoop-lemon
 tweakpdf.json,hoilc/scoop-lemon
-av_data_capture.json,hoilc/scoop-lemon
 nitroshare.json,hoilc/scoop-lemon
 dictionary.net.json,hoilc/scoop-lemon
 nagstamon.json,hoilc/scoop-lemon
@@ -1976,6 +1975,7 @@ cue_hoilc.json,hoilc/scoop-lemon
 fenrirfs.json,hoilc/scoop-lemon
 sandboxie-plus.json,hoilc/scoop-lemon
 inlets.json,hoilc/scoop-lemon
+avdc.json,hoilc/scoop-lemon
 comrak.json,hoilc/scoop-lemon
 brook-gui-lite.json,hoilc/scoop-lemon
 go-proxy-checker.json,hoilc/scoop-lemon
@@ -1993,6 +1993,7 @@ zookeeper-assistant.json,hoilc/scoop-lemon
 kangaroo.json,hoilc/scoop-lemon
 coodesker.json,hoilc/scoop-lemon
 cnative.json,hoilc/scoop-lemon
+av_data_capture.json,hoilc/scoop-lemon
 rabbitmq-assistant.json,hoilc/scoop-lemon
 hibernation-recon.json,hoilc/scoop-lemon
 jjdown_hoilc.json,hoilc/scoop-lemon
