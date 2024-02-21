@@ -802,6 +802,7 @@ real-esrgan.json,chawyehsu/dorado
 hfs.json,chawyehsu/dorado
 lxmusic.json,chawyehsu/dorado
 ediary.json,chawyehsu/dorado
+perfectworldarena.json,chawyehsu/dorado
 bamboo.json,chawyehsu/dorado
 officetoolplus.json,chawyehsu/dorado
 rustup-np.json,chawyehsu/dorado
@@ -1260,6 +1261,7 @@ kail.json,hoilc/scoop-lemon
 garden.json,hoilc/scoop-lemon
 perfview.json,hoilc/scoop-lemon
 dbgate.json,hoilc/scoop-lemon
+uv.json,hoilc/scoop-lemon
 wx3270.json,hoilc/scoop-lemon
 subfinder.json,hoilc/scoop-lemon
 clash-speedtest.json,hoilc/scoop-lemon
@@ -1607,6 +1609,7 @@ arend.json,hoilc/scoop-lemon
 wincontig.json,hoilc/scoop-lemon
 tanka.json,hoilc/scoop-lemon
 4dnat.json,hoilc/scoop-lemon
+httpmaster-express.json,hoilc/scoop-lemon
 uplink.json,hoilc/scoop-lemon
 blb2txt.json,hoilc/scoop-lemon
 bitrock-unpacker.json,hoilc/scoop-lemon
@@ -1896,6 +1899,7 @@ task-explorer.json,hoilc/scoop-lemon
 nps-client_hoilc.json,hoilc/scoop-lemon
 lredit.json,hoilc/scoop-lemon
 cloudquery.json,hoilc/scoop-lemon
+freerdp.json,hoilc/scoop-lemon
 tinyimageprocessor.json,hoilc/scoop-lemon
 autok3s.json,hoilc/scoop-lemon
 collectd_exporter.json,hoilc/scoop-lemon
@@ -1906,7 +1910,7 @@ tencent-transmart.json,hoilc/scoop-lemon
 qbittorrent-enhanced.json,hoilc/scoop-lemon
 cow.json,hoilc/scoop-lemon
 arp-ping.json,hoilc/scoop-lemon
-archisteamfarm_hoilc.json,hoilc/scoop-lemon
+archisteamfarm.json,hoilc/scoop-lemon
 skylark.json,hoilc/scoop-lemon
 tun2brook.json,hoilc/scoop-lemon
 videoduplicatefinder.json,hoilc/scoop-lemon

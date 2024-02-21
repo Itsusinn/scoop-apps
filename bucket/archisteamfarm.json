@@ -1,30 +1,43 @@
 {
+    "version": "5.5.3.4",
+    "description": "C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.",
     "homepage": "https://github.com/JustArchiNET/ArchiSteamFarm",
-    "description": "Idling Steam cards from multiple accounts simultaneously.",
-    "version": "5.5.2.3",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/5.5.2.3/ASF-win-x64.zip",
-            "hash": "35ad9e986d4e4ff0579f425ff742ed1c68b3f7536e34efadbae99ff970aa37d5"
+            "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/5.5.3.4/ASF-win-x64.zip",
+            "hash": "sha512:fc17344da7522d9d92b0199339b8fe34cd3e9668ff68da07efbe2f5bd0f04dbb6e9369d88e92839fc010f9d3486a1085fd6a24940bad80339efa8dbcef10348a"
         }
     },
     "suggest": {
-        ".NET Desktop Runtime": "dotnet-desktop-runtime",
-        "Visual C++ Redistributable": "extras/vcredist2019"
+        "dotnet-runtime": "windowsdesktop-runtime"
     },
+    "bin": [
+        "ArchiSteamFarm.exe",
+        [
+            "ArchiSteamFarm.exe",
+            "ASF"
+        ]
+    ],
     "shortcuts": [
         [
             "ArchiSteamFarm.exe",
             "ArchiSteamFarm"
         ]
     ],
-    "persist": "config",
+    "persist": [
+        "plugins",
+        "config"
+    ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/$version/ASF-win-x64.zip"
+                "url": "https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/$version/ASF-win-x64.zip",
+                "hash": {
+                    "url": "$baseurl/SHA512SUMS",
+                    "regex": "$sha512\\s*$basename"
+                }
             }
         }
     }
