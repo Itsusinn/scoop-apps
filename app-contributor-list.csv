@@ -1114,6 +1114,7 @@ esheep.json,hoilc/scoop-lemon
 karma.json,hoilc/scoop-lemon
 desktopnoteok.json,hoilc/scoop-lemon
 nip2.json,hoilc/scoop-lemon
+am-deadlink.json,hoilc/scoop-lemon
 elasticsearch_exporter.json,hoilc/scoop-lemon
 goss.json,hoilc/scoop-lemon
 katana.json,hoilc/scoop-lemon
@@ -1263,6 +1264,7 @@ perfview.json,hoilc/scoop-lemon
 dbgate.json,hoilc/scoop-lemon
 uv.json,hoilc/scoop-lemon
 wx3270.json,hoilc/scoop-lemon
+kvirc.json,hoilc/scoop-lemon
 subfinder.json,hoilc/scoop-lemon
 clash-speedtest.json,hoilc/scoop-lemon
 xpipe.json,hoilc/scoop-lemon
@@ -1666,6 +1668,7 @@ timevertor.json,hoilc/scoop-lemon
 webmesh.json,hoilc/scoop-lemon
 ibeverythingext.json,hoilc/scoop-lemon
 tdengine-client.json,hoilc/scoop-lemon
+am-notebook.json,hoilc/scoop-lemon
 filefriend-cn.json,hoilc/scoop-lemon
 djvutoy.json,hoilc/scoop-lemon
 windowtop.json,hoilc/scoop-lemon
@@ -1910,7 +1913,7 @@ tencent-transmart.json,hoilc/scoop-lemon
 qbittorrent-enhanced.json,hoilc/scoop-lemon
 cow.json,hoilc/scoop-lemon
 arp-ping.json,hoilc/scoop-lemon
-archisteamfarm.json,hoilc/scoop-lemon
+archisteamfarm_hoilc.json,hoilc/scoop-lemon
 skylark.json,hoilc/scoop-lemon
 tun2brook.json,hoilc/scoop-lemon
 videoduplicatefinder.json,hoilc/scoop-lemon
