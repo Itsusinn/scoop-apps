@@ -1655,6 +1655,7 @@ shutter.json,hoilc/scoop-lemon
 memcached_exporter.json,hoilc/scoop-lemon
 alexandria.json,hoilc/scoop-lemon
 kubedb-cli.json,hoilc/scoop-lemon
+goose.json,hoilc/scoop-lemon
 vgrep.json,hoilc/scoop-lemon
 syft_hoilc.json,hoilc/scoop-lemon
 zhudou-sans.json,hoilc/scoop-lemon
