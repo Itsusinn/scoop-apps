@@ -193,7 +193,6 @@ zy-player_HCLonely.json,HCLonely/my-scoop-bucket
 video-srt-gui.json,HCLonely/my-scoop-bucket
 pixivbiu.json,HCLonely/my-scoop-bucket
 WSABuild.json,Weidows-projects/scoop-3rd
-Motrix-linking-aria2.json,Weidows-projects/scoop-3rd
 KikoPlay.json,Weidows-projects/scoop-3rd
 x-studio.json,Weidows-projects/scoop-3rd
 steam-theme-Zehn.json,Weidows-projects/scoop-3rd
@@ -228,6 +227,7 @@ KugouMusic.json,Weidows-projects/scoop-3rd
 psmodule-PowerShellAI.json,Weidows-projects/scoop-3rd
 webbrain.json,Weidows-projects/scoop-3rd
 DevEco-Studio.json,Weidows-projects/scoop-3rd
+psmodule-7Zip4Powershell.json,Weidows-projects/scoop-3rd
 KitX.json,Weidows-projects/scoop-3rd
 AdvancedWgetGUI-Portable.json,Weidows-projects/scoop-3rd
 biliup-app.json,Weidows-projects/scoop-3rd
@@ -263,6 +263,7 @@ XStudio.json,Weidows-projects/scoop-3rd
 EasySpider.json,Weidows-projects/scoop-3rd
 KeySound.json,Weidows-projects/scoop-3rd
 Jvedio.json,Weidows-projects/scoop-3rd
+MicrosoftEdge-dev-portable.json,Weidows-projects/scoop-3rd
 obs-plugin-scale-to-sound.json,Weidows-projects/scoop-3rd
 He3.json,Weidows-projects/scoop-3rd
 PartAssist.json,Weidows-projects/scoop-3rd
@@ -316,6 +317,7 @@ ModOrganizer.json,Weidows-projects/scoop-3rd
 login_bili_go.json,Weidows-projects/scoop-3rd
 wps-photo-plus.json,Weidows-projects/scoop-3rd
 anaconda3.json,Weidows-projects/scoop-3rd
+Motrix-linking-aria2.json,Weidows-projects/scoop-3rd
 Synergy-Binaries.json,Weidows-projects/scoop-3rd
 wps-office.json,Weidows-projects/scoop-3rd
 CAJViewer.json,Weidows-projects/scoop-3rd
@@ -469,12 +471,10 @@ taisei.json,Calinou/scoop-games
 tic-80.json,Calinou/scoop-games
 evemon.json,Calinou/scoop-games
 osulazer.json,Calinou/scoop-games
-citra-canary.json,Calinou/scoop-games
 pkhex.json,Calinou/scoop-games
 assaultcube.json,Calinou/scoop-games
 cnc-ddraw.json,Calinou/scoop-games
 mednafen.json,Calinou/scoop-games
-yuzu.json,Calinou/scoop-games
 mednafen-dev.json,Calinou/scoop-games
 advanced-combat-tracker.json,Calinou/scoop-games
 chiaki4deck.json,Calinou/scoop-games
@@ -611,7 +611,6 @@ sokoban.json,Calinou/scoop-games
 freeorion.json,Calinou/scoop-games
 crispy-doom.json,Calinou/scoop-games
 openmw-nightly.json,Calinou/scoop-games
-citra.json,Calinou/scoop-games
 xonotic.json,Calinou/scoop-games
 yquake2.json,Calinou/scoop-games
 simple64.json,Calinou/scoop-games
@@ -645,7 +644,6 @@ duelyst.json,Calinou/scoop-games
 mindustry-server.json,Calinou/scoop-games
 cdogs-sdl.json,Calinou/scoop-games
 rbxfpsunlocker.json,Calinou/scoop-games
-yuzu-pineapple.json,Calinou/scoop-games
 ps3-system-software.json,Calinou/scoop-games
 ascii-sector.json,Calinou/scoop-games
 doom-retro.json,Calinou/scoop-games
@@ -1059,7 +1057,7 @@ fuso.json,hoilc/scoop-lemon
 hostess.json,hoilc/scoop-lemon
 kubeshark_hoilc.json,hoilc/scoop-lemon
 winfi-lite.json,hoilc/scoop-lemon
-cosbrowser.json,hoilc/scoop-lemon
+cosbrowser_hoilc.json,hoilc/scoop-lemon
 jj_hoilc.json,hoilc/scoop-lemon
 fusion-lang.json,hoilc/scoop-lemon
 nvenc.json,hoilc/scoop-lemon
