@@ -713,6 +713,7 @@ douyin-ide.json,chawyehsu/dorado
 openethereum.json,chawyehsu/dorado
 adiirc.json,chawyehsu/dorado
 ledger-live.json,chawyehsu/dorado
+crystaldiskmark-aoi-edition.json,chawyehsu/dorado
 flvextract.json,chawyehsu/dorado
 waifu2x-caffe.json,chawyehsu/dorado
 mycrypto.json,chawyehsu/dorado
@@ -1670,6 +1671,7 @@ steascree.json,hoilc/scoop-lemon
 wincrypt-sshagent.json,hoilc/scoop-lemon
 arend.json,hoilc/scoop-lemon
 lpvpn.json,hoilc/scoop-lemon
+x-spider.json,hoilc/scoop-lemon
 dnsproxy_hoilc.json,hoilc/scoop-lemon
 sirikali.json,hoilc/scoop-lemon
 proxify.json,hoilc/scoop-lemon
@@ -1826,7 +1828,7 @@ maxthon.json,hoilc/scoop-lemon
 window-sharing-hider.json,hoilc/scoop-lemon
 luaperfect.json,hoilc/scoop-lemon
 rhit.json,hoilc/scoop-lemon
-radius.json,hoilc/scoop-lemon
+radius_hoilc.json,hoilc/scoop-lemon
 janereader.json,hoilc/scoop-lemon
 capnproto.json,hoilc/scoop-lemon
 zip2dir-eng.json,hoilc/scoop-lemon
