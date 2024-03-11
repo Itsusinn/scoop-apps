@@ -1401,7 +1401,7 @@ wintun-libs.json,hoilc/scoop-lemon
 nps-server.json,hoilc/scoop-lemon
 uplink.json,hoilc/scoop-lemon
 picard.json,hoilc/scoop-lemon
-uv.json,hoilc/scoop-lemon
+uv_hoilc.json,hoilc/scoop-lemon
 pointerstick.json,hoilc/scoop-lemon
 jib-cli.json,hoilc/scoop-lemon
 oplus-sans.json,hoilc/scoop-lemon
@@ -1492,7 +1492,7 @@ consul_exporter.json,hoilc/scoop-lemon
 terrascan.json,hoilc/scoop-lemon
 oppo-sans.json,hoilc/scoop-lemon
 mahou.json,hoilc/scoop-lemon
-realm.json,hoilc/scoop-lemon
+realm_hoilc.json,hoilc/scoop-lemon
 lyricify.json,hoilc/scoop-lemon
 usbeam-hosts-editor_hoilc.json,hoilc/scoop-lemon
 dmpro.json,hoilc/scoop-lemon
@@ -1780,7 +1780,7 @@ alexandria.json,hoilc/scoop-lemon
 snova-asio.json,hoilc/scoop-lemon
 dug.json,hoilc/scoop-lemon
 biniware-run.json,hoilc/scoop-lemon
-autocorrect.json,hoilc/scoop-lemon
+autocorrect_hoilc.json,hoilc/scoop-lemon
 interactsh.json,hoilc/scoop-lemon
 pode.json,hoilc/scoop-lemon
 ts-dns.json,hoilc/scoop-lemon
@@ -2015,7 +2015,7 @@ skywalking-cli_hoilc.json,hoilc/scoop-lemon
 img-convert.json,hoilc/scoop-lemon
 fork-cleaner.json,hoilc/scoop-lemon
 fvm.json,hoilc/scoop-lemon
-bflat.json,hoilc/scoop-lemon
+bflat_hoilc.json,hoilc/scoop-lemon
 bitrock-unpacker.json,hoilc/scoop-lemon
 dtlspipe.json,hoilc/scoop-lemon
 i4tools.json,hoilc/scoop-lemon
