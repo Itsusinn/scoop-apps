@@ -673,6 +673,7 @@ librewolf.json,chawyehsu/dorado
 tiled.json,chawyehsu/dorado
 clashweb.json,chawyehsu/dorado
 clash-for-windows.json,chawyehsu/dorado
+pxcook.json,chawyehsu/dorado
 trafficmonitor_chawyehsu.json,chawyehsu/dorado
 tor-browser-zh-cn.json,chawyehsu/dorado
 himalaya_chawyehsu.json,chawyehsu/dorado
@@ -819,7 +820,6 @@ firefox-zh-cn.json,chawyehsu/dorado
 fu.json,chawyehsu/dorado
 mixin-messenger.json,chawyehsu/dorado
 waifu2x-caffe.json,chawyehsu/dorado
-pxcook.json,chawyehsu/dorado
 centbrowser.json,chawyehsu/dorado
 dingtalk.json,chawyehsu/dorado
 nattypetester.json,chawyehsu/dorado
@@ -962,7 +962,9 @@ hibernation-recon.json,hoilc/scoop-lemon
 data-assistant.json,hoilc/scoop-lemon
 jjdown_hoilc.json,hoilc/scoop-lemon
 avdc.json,hoilc/scoop-lemon
+napptive-playground-cli.json,hoilc/scoop-lemon
 redis-assistant.json,hoilc/scoop-lemon
+gogdl.json,hoilc/scoop-lemon
 kangaroo.json,hoilc/scoop-lemon
 coodesker.json,hoilc/scoop-lemon
 arsenal-image-mounter.json,hoilc/scoop-lemon
@@ -1320,7 +1322,6 @@ fanhuaji.json,hoilc/scoop-lemon
 trzsz_hoilc.json,hoilc/scoop-lemon
 qshell.json,hoilc/scoop-lemon
 windows-update-blocker.json,hoilc/scoop-lemon
-napptive-playground-cli.json,hoilc/scoop-lemon
 duf_hoilc.json,hoilc/scoop-lemon
 access.json,hoilc/scoop-lemon
 task-explorer.json,hoilc/scoop-lemon
@@ -1358,7 +1359,6 @@ agent-ransack.json,hoilc/scoop-lemon
 radius_hoilc.json,hoilc/scoop-lemon
 deeplx.json,hoilc/scoop-lemon
 garden.json,hoilc/scoop-lemon
-gogdl.json,hoilc/scoop-lemon
 run-job.json,hoilc/scoop-lemon
 waifu2x-snowshell.json,hoilc/scoop-lemon
 swagger-codegen-cli@2.json,hoilc/scoop-lemon
@@ -1581,6 +1581,7 @@ n3dr.json,hoilc/scoop-lemon
 elasticsearch_exporter.json,hoilc/scoop-lemon
 airdcpp.json,hoilc/scoop-lemon
 copy-translator-rust.json,hoilc/scoop-lemon
+dblab.json,hoilc/scoop-lemon
 fanctrl.json,hoilc/scoop-lemon
 picard.json,hoilc/scoop-lemon
 zip2dir-eng.json,hoilc/scoop-lemon
