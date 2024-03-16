@@ -970,11 +970,13 @@ coodesker.json,hoilc/scoop-lemon
 arsenal-image-mounter.json,hoilc/scoop-lemon
 dockle.json,hoilc/scoop-lemon
 tdengine-client-beta.json,hoilc/scoop-lemon
+brook-gui.json,hoilc/scoop-lemon
 registry-recon.json,hoilc/scoop-lemon
 kafka-assistant.json,hoilc/scoop-lemon
 zookeeper-assistant.json,hoilc/scoop-lemon
 brook-gui-lite.json,hoilc/scoop-lemon
 sandboxie-plus.json,hoilc/scoop-lemon
+rustdesk_hoilc.json,hoilc/scoop-lemon
 inlets.json,hoilc/scoop-lemon
 terraform-validator.json,hoilc/scoop-lemon
 av_data_capture.json,hoilc/scoop-lemon
@@ -987,6 +989,7 @@ go-proxy-checker.json,hoilc/scoop-lemon
 cnative.json,hoilc/scoop-lemon
 us3browser.json,hoilc/scoop-lemon
 edgedb-cli-nightly.json,hoilc/scoop-lemon
+zally.json,hoilc/scoop-lemon
 vtun.json,hoilc/scoop-lemon
 spline-cn.json,hoilc/scoop-lemon
 zonenetclient.json,hoilc/scoop-lemon
@@ -1537,7 +1540,6 @@ insomnium.json,hoilc/scoop-lemon
 vocabulary.net.json,hoilc/scoop-lemon
 64gram.json,hoilc/scoop-lemon
 cosbrowser_hoilc.json,hoilc/scoop-lemon
-brook-gui.json,hoilc/scoop-lemon
 pode.json,hoilc/scoop-lemon
 autohidedesktopicons.json,hoilc/scoop-lemon
 gickup.json,hoilc/scoop-lemon
@@ -1698,7 +1700,6 @@ chirp-next.json,hoilc/scoop-lemon
 worsttrace.json,hoilc/scoop-lemon
 container-diff.json,hoilc/scoop-lemon
 simple-vhd-manager.json,hoilc/scoop-lemon
-rustdesk_hoilc.json,hoilc/scoop-lemon
 royalts.json,hoilc/scoop-lemon
 goss.json,hoilc/scoop-lemon
 go-wol.json,hoilc/scoop-lemon
@@ -1951,7 +1952,6 @@ rav1e-gui.json,hoilc/scoop-lemon
 upcloud-cli.json,hoilc/scoop-lemon
 viper.json,hoilc/scoop-lemon
 foobox6-cn.json,hoilc/scoop-lemon
-zally.json,hoilc/scoop-lemon
 slimpdfreader.json,hoilc/scoop-lemon
 zoro.json,hoilc/scoop-lemon
 flysee.json,hoilc/scoop-lemon
