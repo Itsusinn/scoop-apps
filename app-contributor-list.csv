@@ -1441,6 +1441,7 @@ vesta.json,hoilc/scoop-lemon
 whisper-model-ggml-large.json,hoilc/scoop-lemon
 logcli.json,hoilc/scoop-lemon
 shutter-encoder.json,hoilc/scoop-lemon
+peerguard.json,hoilc/scoop-lemon
 kubecm.json,hoilc/scoop-lemon
 emby-plugin-javscraper.json,hoilc/scoop-lemon
 tray-monitor.json,hoilc/scoop-lemon
