@@ -1088,7 +1088,6 @@ imonitor.json,hoilc/scoop-lemon
 windows_exporter.json,hoilc/scoop-lemon
 bbdown_hoilc.json,hoilc/scoop-lemon
 minihex.json,hoilc/scoop-lemon
-hiddify-next.json,hoilc/scoop-lemon
 snctl.json,hoilc/scoop-lemon
 xdown.json,hoilc/scoop-lemon
 nvenc.json,hoilc/scoop-lemon
@@ -1703,6 +1702,7 @@ chirp-next.json,hoilc/scoop-lemon
 worsttrace.json,hoilc/scoop-lemon
 container-diff.json,hoilc/scoop-lemon
 simple-vhd-manager.json,hoilc/scoop-lemon
+hiddify.json,hoilc/scoop-lemon
 royalts.json,hoilc/scoop-lemon
 goss.json,hoilc/scoop-lemon
 go-wol.json,hoilc/scoop-lemon
