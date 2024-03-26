@@ -363,6 +363,7 @@ wps.json,scoopcn/scoopcn
 3dtile.json,scoopcn/scoopcn
 twitchdropsminer.json,Calinou/scoop-games
 tooniversal.json,Calinou/scoop-games
+ddnet.json,Calinou/scoop-games
 naev.json,Calinou/scoop-games
 openclonk.json,Calinou/scoop-games
 cemu-dev.json,Calinou/scoop-games
@@ -1681,6 +1682,7 @@ legendary_hoilc.json,hoilc/scoop-lemon
 minipad2.json,hoilc/scoop-lemon
 keepass-plugin-kpscript.json,hoilc/scoop-lemon
 cozo.json,hoilc/scoop-lemon
+opensearch-cli.json,hoilc/scoop-lemon
 skylark.json,hoilc/scoop-lemon
 autocorrect_hoilc.json,hoilc/scoop-lemon
 sakurafrp-launcher.json,hoilc/scoop-lemon
