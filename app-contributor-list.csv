@@ -997,6 +997,7 @@ bbdown_hoilc.json,hoilc/scoop-lemon
 lal.json,hoilc/scoop-lemon
 fork-cleaner.json,hoilc/scoop-lemon
 go-wol.json,hoilc/scoop-lemon
+cosmo-rsync.json,hoilc/scoop-lemon
 enigma-virtual-box.json,hoilc/scoop-lemon
 clockpod.json,hoilc/scoop-lemon
 influxdb_exporter.json,hoilc/scoop-lemon
@@ -1115,6 +1116,7 @@ cs-script.json,hoilc/scoop-lemon
 libportable-iceweasel-zh-cn.json,hoilc/scoop-lemon
 uplink.json,hoilc/scoop-lemon
 complete-internet-repair.json,hoilc/scoop-lemon
+cosmos.json,hoilc/scoop-lemon
 equinix-metal-cli.json,hoilc/scoop-lemon
 bililive-go.json,hoilc/scoop-lemon
 rmedir.json,hoilc/scoop-lemon
@@ -1191,6 +1193,7 @@ pineapple-pictures.json,hoilc/scoop-lemon
 javsp.json,hoilc/scoop-lemon
 pacaptr.json,hoilc/scoop-lemon
 shoutrrr.json,hoilc/scoop-lemon
+tsac.json,hoilc/scoop-lemon
 pshash.json,hoilc/scoop-lemon
 cmailgui.json,hoilc/scoop-lemon
 piclist.json,hoilc/scoop-lemon
@@ -1256,6 +1259,7 @@ nico.json,hoilc/scoop-lemon
 riemann.json,hoilc/scoop-lemon
 rspleeter.json,hoilc/scoop-lemon
 comicenhancepro-eng.json,hoilc/scoop-lemon
+proxyfor.json,hoilc/scoop-lemon
 amazon-ec2-instance-selector.json,hoilc/scoop-lemon
 nexttrace-enhanced.json,hoilc/scoop-lemon
 autohidemousecursor.json,hoilc/scoop-lemon
@@ -1482,6 +1486,7 @@ bkviewer-pro.json,hoilc/scoop-lemon
 keepass-plugin-kpenhentryview.json,hoilc/scoop-lemon
 imgdrive.json,hoilc/scoop-lemon
 localxpose.json,hoilc/scoop-lemon
+cosmo-pigz.json,hoilc/scoop-lemon
 bore.json,hoilc/scoop-lemon
 diskbench.json,hoilc/scoop-lemon
 whisper-model-ggml-large-v1.json,hoilc/scoop-lemon
@@ -1531,7 +1536,7 @@ wpinternals.json,hoilc/scoop-lemon
 soundswitch.json,hoilc/scoop-lemon
 myqrcodescanner.json,hoilc/scoop-lemon
 trzsz_hoilc.json,hoilc/scoop-lemon
-another-redis-desktop-manager_hoilc.json,hoilc/scoop-lemon
+another-redis-desktop-manager.json,hoilc/scoop-lemon
 nebula-importer.json,hoilc/scoop-lemon
 jellyfin-media-player.json,hoilc/scoop-lemon
 oggenc2-libvorbis.json,hoilc/scoop-lemon
@@ -1627,6 +1632,7 @@ wssocks.json,hoilc/scoop-lemon
 exeinfo-pe.json,hoilc/scoop-lemon
 ediary_hoilc.json,hoilc/scoop-lemon
 policy.json,hoilc/scoop-lemon
+cosmo-redbean.json,hoilc/scoop-lemon
 timevertor.json,hoilc/scoop-lemon
 strarc.json,hoilc/scoop-lemon
 amtool.json,hoilc/scoop-lemon
@@ -1744,6 +1750,7 @@ jpegoptim_hoilc.json,hoilc/scoop-lemon
 ffrename.json,hoilc/scoop-lemon
 arend.json,hoilc/scoop-lemon
 zip2dir-eng.json,hoilc/scoop-lemon
+cosmo-emacs.json,hoilc/scoop-lemon
 metabase.json,hoilc/scoop-lemon
 wininfo.json,hoilc/scoop-lemon
 smuxi.json,hoilc/scoop-lemon
@@ -1904,6 +1911,7 @@ freevk.json,hoilc/scoop-lemon
 flashpad.json,hoilc/scoop-lemon
 wsl-ssh-agent.json,hoilc/scoop-lemon
 skylark.json,hoilc/scoop-lemon
+quickjs.json,hoilc/scoop-lemon
 wxautoexim.json,hoilc/scoop-lemon
 fslac.json,hoilc/scoop-lemon
 rssguard.json,hoilc/scoop-lemon
