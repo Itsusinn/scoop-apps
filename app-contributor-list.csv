@@ -1667,7 +1667,6 @@ radius_hoilc.json,hoilc/scoop-lemon
 verysimple.json,hoilc/scoop-lemon
 little-tips.json,hoilc/scoop-lemon
 winfrgui.json,hoilc/scoop-lemon
-worsttrace.json,hoilc/scoop-lemon
 keepass-plugin-hibpofflinecheck.json,hoilc/scoop-lemon
 a5m2.json,hoilc/scoop-lemon
 tanoshi.json,hoilc/scoop-lemon
@@ -1747,6 +1746,7 @@ appfire-cli.json,hoilc/scoop-lemon
 alexandria.json,hoilc/scoop-lemon
 stegify.json,hoilc/scoop-lemon
 oggdropxpd-libvorbis.json,hoilc/scoop-lemon
+echosync.json,hoilc/scoop-lemon
 windows-terminal-quake.json,hoilc/scoop-lemon
 dns-jumper.json,hoilc/scoop-lemon
 aardio.json,hoilc/scoop-lemon
@@ -2044,6 +2044,7 @@ priv10.json,hoilc/scoop-lemon
 terraform-validator.json,hoilc/scoop-lemon
 hibernation-recon.json,hoilc/scoop-lemon
 arsenal-image-mounter.json,hoilc/scoop-lemon
+worsttrace.json,hoilc/scoop-lemon
 avdc.json,hoilc/scoop-lemon
 av_data_capture.json,hoilc/scoop-lemon
 redis-assistant.json,hoilc/scoop-lemon
