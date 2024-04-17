@@ -10,7 +10,7 @@ scoop bucket add apps https://github.com/Itsusinn/scoop-apps
 
 ## 感谢
 
-- [scoop-directory](https://github.com/rasa/scoop-directory)
+- [kkzzhizhou/scoop-apps](https://github.com/kkzzhizhou/scoop-apps)
 
 ## 合并仓库列表
 
