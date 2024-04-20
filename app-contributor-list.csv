@@ -1132,6 +1132,7 @@ fixcue.json,hoilc/scoop-lemon
 lunatranslator.json,hoilc/scoop-lemon
 k8sgpt.json,hoilc/scoop-lemon
 exhale.json,hoilc/scoop-lemon
+metatogger.json,hoilc/scoop-lemon
 winfindr.json,hoilc/scoop-lemon
 windows_exporter.json,hoilc/scoop-lemon
 skywalking-cli_hoilc.json,hoilc/scoop-lemon
@@ -1166,6 +1167,7 @@ terminus-player.json,hoilc/scoop-lemon
 mstream.json,hoilc/scoop-lemon
 multidesk-chs.json,hoilc/scoop-lemon
 complete-internet-repair.json,hoilc/scoop-lemon
+yolx.json,hoilc/scoop-lemon
 blb2txt.json,hoilc/scoop-lemon
 whisper-model-ggml-base.json,hoilc/scoop-lemon
 uupmediacreator.json,hoilc/scoop-lemon
@@ -1698,6 +1700,7 @@ keepass-plugin-kpscript.json,hoilc/scoop-lemon
 qsctl.json,hoilc/scoop-lemon
 asfenhance.json,hoilc/scoop-lemon
 neat-reader.json,hoilc/scoop-lemon
+qmmp.json,hoilc/scoop-lemon
 peerguard.json,hoilc/scoop-lemon
 overture.json,hoilc/scoop-lemon
 lucky.json,hoilc/scoop-lemon
