@@ -195,6 +195,7 @@ copyplusplus.json,HCLonely/my-scoop-bucket
 MyDockFinder.json,Weidows-projects/scoop-3rd
 LM-Studio.json,Weidows-projects/scoop-3rd
 UltraUXThemePatcher.json,Weidows-projects/scoop-3rd
+shion.json,Weidows-projects/scoop-3rd
 Game-Cheats-Manager.json,Weidows-projects/scoop-3rd
 obs-plugin-scale-to-sound.json,Weidows-projects/scoop-3rd
 MiFlash-with-BL_Unlocker.json,Weidows-projects/scoop-3rd
@@ -218,6 +219,7 @@ BADownloaderUI.json,Weidows-projects/scoop-3rd
 Windows-Theme-HighContract-Tokyo-Night.json,Weidows-projects/scoop-3rd
 AutumnBox.json,Weidows-projects/scoop-3rd
 x-studio.json,Weidows-projects/scoop-3rd
+lan-mouse.json,Weidows-projects/scoop-3rd
 SourceTree.json,Weidows-projects/scoop-3rd
 Lively-Wallpaper.json,Weidows-projects/scoop-3rd
 Jeenpi.json,Weidows-projects/scoop-3rd
@@ -1362,6 +1364,7 @@ pcap2socks.json,hoilc/scoop-lemon
 suwellofd.json,hoilc/scoop-lemon
 evernote2onenote.json,hoilc/scoop-lemon
 cosbrowser_hoilc.json,hoilc/scoop-lemon
+novelwriter.json,hoilc/scoop-lemon
 monkeysaudio.json,hoilc/scoop-lemon
 rnacos.json,hoilc/scoop-lemon
 redumper.json,hoilc/scoop-lemon
@@ -1572,6 +1575,7 @@ arrowdl.json,hoilc/scoop-lemon
 pineapple-pictures.json,hoilc/scoop-lemon
 cmix.json,hoilc/scoop-lemon
 usbeam-consoles-dns.json,hoilc/scoop-lemon
+plebbit-cli.json,hoilc/scoop-lemon
 sendme.json,hoilc/scoop-lemon
 clash-speedtest.json,hoilc/scoop-lemon
 find.same.images.ok.json,hoilc/scoop-lemon
@@ -1655,7 +1659,7 @@ wincrypt-sshagent.json,hoilc/scoop-lemon
 pipe-rename.json,hoilc/scoop-lemon
 echosync.json,hoilc/scoop-lemon
 fluent-bit.json,hoilc/scoop-lemon
-tlrc.json,hoilc/scoop-lemon
+tlrc_hoilc.json,hoilc/scoop-lemon
 glow_hoilc.json,hoilc/scoop-lemon
 flac_hoilc.json,hoilc/scoop-lemon
 redis-shake.json,hoilc/scoop-lemon
@@ -1721,6 +1725,7 @@ openobserve.json,hoilc/scoop-lemon
 skytable.json,hoilc/scoop-lemon
 netchat.json,hoilc/scoop-lemon
 dooit.json,hoilc/scoop-lemon
+wechatbaktool.json,hoilc/scoop-lemon
 keepass-plugin-kpscript.json,hoilc/scoop-lemon
 qsctl.json,hoilc/scoop-lemon
 asfenhance.json,hoilc/scoop-lemon
