@@ -1039,6 +1039,7 @@ kubecm.json,hoilc/scoop-lemon
 pshash.json,hoilc/scoop-lemon
 terraformer_hoilc.json,hoilc/scoop-lemon
 vscli.json,hoilc/scoop-lemon
+bangumi-renamer.json,hoilc/scoop-lemon
 ink-canvas.json,hoilc/scoop-lemon
 yanhuo.json,hoilc/scoop-lemon
 stranslate.json,hoilc/scoop-lemon
@@ -1378,6 +1379,7 @@ subfinder.json,hoilc/scoop-lemon
 run-job.json,hoilc/scoop-lemon
 maxthon6.json,hoilc/scoop-lemon
 invisiwind.json,hoilc/scoop-lemon
+clash-rs.json,hoilc/scoop-lemon
 dtlspipe.json,hoilc/scoop-lemon
 libportable.json,hoilc/scoop-lemon
 ytdlp.json,hoilc/scoop-lemon
@@ -1407,6 +1409,7 @@ k3sup_hoilc.json,hoilc/scoop-lemon
 store-apps-tool.json,hoilc/scoop-lemon
 ark-pixel-font-16px-proportional.json,hoilc/scoop-lemon
 riemann.json,hoilc/scoop-lemon
+hotswap.json,hoilc/scoop-lemon
 textlocator.json,hoilc/scoop-lemon
 tilt.json,hoilc/scoop-lemon
 pixpin.json,hoilc/scoop-lemon
@@ -1482,6 +1485,7 @@ us3cli.json,hoilc/scoop-lemon
 tinygui.json,hoilc/scoop-lemon
 syft_hoilc.json,hoilc/scoop-lemon
 osm.json,hoilc/scoop-lemon
+qbittorrent-clientblocker.json,hoilc/scoop-lemon
 kbcli.json,hoilc/scoop-lemon
 cefflashbrowser.json,hoilc/scoop-lemon
 fusion-lang.json,hoilc/scoop-lemon
@@ -1556,6 +1560,7 @@ wxwork.json,hoilc/scoop-lemon
 comicsviewer-eng.json,hoilc/scoop-lemon
 lazykube.json,hoilc/scoop-lemon
 droppoint.json,hoilc/scoop-lemon
+suyu.json,hoilc/scoop-lemon
 danmaku-factory.json,hoilc/scoop-lemon
 pictor-cn.json,hoilc/scoop-lemon
 radius_hoilc.json,hoilc/scoop-lemon
@@ -1933,7 +1938,6 @@ jellycli.json,hoilc/scoop-lemon
 pestudio.json,hoilc/scoop-lemon
 staxrip.json,hoilc/scoop-lemon
 pointofix.json,hoilc/scoop-lemon
-yuzu-ea.json,hoilc/scoop-lemon
 canal2sql.json,hoilc/scoop-lemon
 ytt_hoilc.json,hoilc/scoop-lemon
 jan.json,hoilc/scoop-lemon
@@ -2028,6 +2032,7 @@ opentofu_hoilc.json,hoilc/scoop-lemon
 qpress.json,hoilc/scoop-lemon
 cat-cli.json,hoilc/scoop-lemon
 freepic2pdf.json,hoilc/scoop-lemon
+ainiee.json,hoilc/scoop-lemon
 pixi_hoilc.json,hoilc/scoop-lemon
 gcping.json,hoilc/scoop-lemon
 fork-cleaner.json,hoilc/scoop-lemon
@@ -2104,5 +2109,6 @@ vtun.json,hoilc/scoop-lemon
 hibernation-recon.json,hoilc/scoop-lemon
 double-mouse-downloader.json,hoilc/scoop-lemon
 cnative.json,hoilc/scoop-lemon
+yuzu-ea.json,hoilc/scoop-lemon
 comrak.json,hoilc/scoop-lemon
 kangaroo.json,hoilc/scoop-lemon
