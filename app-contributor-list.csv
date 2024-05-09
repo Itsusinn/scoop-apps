@@ -1296,6 +1296,7 @@ mysqld_exporter.json,hoilc/scoop-lemon
 tdengine-server.json,hoilc/scoop-lemon
 myqrcodescanner.json,hoilc/scoop-lemon
 riftshare.json,hoilc/scoop-lemon
+openbao.json,hoilc/scoop-lemon
 3proxy.json,hoilc/scoop-lemon
 picturecleaner.json,hoilc/scoop-lemon
 mixctl.json,hoilc/scoop-lemon
@@ -1759,7 +1760,6 @@ shutter-encoder.json,hoilc/scoop-lemon
 copy-translator-rust.json,hoilc/scoop-lemon
 glooctl-beta.json,hoilc/scoop-lemon
 lredit.json,hoilc/scoop-lemon
-emby-plugin-javscraper.json,hoilc/scoop-lemon
 antidupl.net.json,hoilc/scoop-lemon
 sclient.json,hoilc/scoop-lemon
 srtedit.json,hoilc/scoop-lemon
