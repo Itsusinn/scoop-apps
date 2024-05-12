@@ -741,6 +741,7 @@ winlibs-mingw-msvcrt.json,chawyehsu/dorado
 activitywatch.json,chawyehsu/dorado
 zap.json,chawyehsu/dorado
 chunky.json,chawyehsu/dorado
+extism.json,chawyehsu/dorado
 aliyundrive.json,chawyehsu/dorado
 firefox-developer-zh-cn.json,chawyehsu/dorado
 lbry-desktop.json,chawyehsu/dorado
@@ -917,6 +918,7 @@ firefox-nightly-zh-cn.json,chawyehsu/dorado
 real-esrgan.json,chawyehsu/dorado
 git-credential-gopass.json,chawyehsu/dorado
 mine-imator.json,chawyehsu/dorado
+plain-craft-launcher.json,chawyehsu/dorado
 winlibs-mingw-llvm-msvcrt.json,chawyehsu/dorado
 diskgenius-zh.json,chawyehsu/dorado
 firefox-zh-cn.json,chawyehsu/dorado
