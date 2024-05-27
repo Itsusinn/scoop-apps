@@ -681,6 +681,7 @@ translucenttb.json,chawyehsu/dorado
 pandownload.json,chawyehsu/dorado
 trojan-qt5.json,chawyehsu/dorado
 jiduscan.json,chawyehsu/dorado
+affine.json,chawyehsu/dorado
 tiled.json,chawyehsu/dorado
 umi-ocr.json,chawyehsu/dorado
 himalaya_chawyehsu.json,chawyehsu/dorado
@@ -780,7 +781,6 @@ processthreadsview.json,chawyehsu/dorado
 firefox-beta-zh-cn.json,chawyehsu/dorado
 autodarkmode.json,chawyehsu/dorado
 pixitracker-1bit.json,chawyehsu/dorado
-affine.json,chawyehsu/dorado
 moul.json,chawyehsu/dorado
 ftnn.json,chawyehsu/dorado
 triangula.json,chawyehsu/dorado
@@ -908,6 +908,7 @@ feishu_chawyehsu.json,chawyehsu/dorado
 libarchive.json,chawyehsu/dorado
 mosdns-cn.json,chawyehsu/dorado
 winlibs-mingw-msvcrt.json,chawyehsu/dorado
+deveco-studio.json,chawyehsu/dorado
 firefox-nightly-zh-cn.json,chawyehsu/dorado
 utools.json,chawyehsu/dorado
 dotnet-uninstall-tool.json,chawyehsu/dorado
