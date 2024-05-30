@@ -339,6 +339,7 @@ Air_Weidows-projects.json,Weidows-projects/scoop-3rd
 psmodule-7Zip4Powershell.json,Weidows-projects/scoop-3rd
 SmartSystemMenu.json,Weidows-projects/scoop-3rd
 AIO-Boot.json,Weidows-projects/scoop-3rd
+hfd.json,Weidows-projects/scoop-3rd
 yas.json,Weidows-projects/scoop-3rd
 N0vaDesktop.json,Weidows-projects/scoop-3rd
 psmodule-PowerShellAI.json,Weidows-projects/scoop-3rd
@@ -1300,6 +1301,7 @@ pazera-free-audio-extractor.json,hoilc/scoop-lemon
 zhconv-rs.json,hoilc/scoop-lemon
 yida.json,hoilc/scoop-lemon
 hostsx.json,hoilc/scoop-lemon
+oblivion-desktop.json,hoilc/scoop-lemon
 dblab.json,hoilc/scoop-lemon
 keycastow.json,hoilc/scoop-lemon
 rav1e.json,hoilc/scoop-lemon
