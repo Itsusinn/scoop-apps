@@ -590,6 +590,7 @@ openrct2.json,Calinou/scoop-games
 0ad.json,Calinou/scoop-games
 simple64.json,Calinou/scoop-games
 minetest.json,Calinou/scoop-games
+bedrockupdater.json,Calinou/scoop-games
 ufoai.json,Calinou/scoop-games
 snes9x.json,Calinou/scoop-games
 mame.json,Calinou/scoop-games
@@ -1156,6 +1157,7 @@ shutter-encoder.json,hoilc/scoop-lemon
 zpaq.json,hoilc/scoop-lemon
 jardiff.json,hoilc/scoop-lemon
 wininfo.json,hoilc/scoop-lemon
+whisper-cpp-blas-nightly.json,hoilc/scoop-lemon
 aya.json,hoilc/scoop-lemon
 hop-cli.json,hoilc/scoop-lemon
 ppee.json,hoilc/scoop-lemon
@@ -1235,6 +1237,7 @@ miniserve_hoilc.json,hoilc/scoop-lemon
 exescope-ha.json,hoilc/scoop-lemon
 canal2sql.json,hoilc/scoop-lemon
 weron.json,hoilc/scoop-lemon
+whisper-cpp-nightly.json,hoilc/scoop-lemon
 vgmstream-cli.json,hoilc/scoop-lemon
 downkyi_hoilc.json,hoilc/scoop-lemon
 zip2dir-eng.json,hoilc/scoop-lemon
@@ -1460,6 +1463,7 @@ remnote.json,hoilc/scoop-lemon
 dnscontrol.json,hoilc/scoop-lemon
 cfiler.json,hoilc/scoop-lemon
 redis_exporter.json,hoilc/scoop-lemon
+whisper-cpp-cuda-nightly.json,hoilc/scoop-lemon
 libportable-floorp-lightning.json,hoilc/scoop-lemon
 cpix.json,hoilc/scoop-lemon
 tidgi.json,hoilc/scoop-lemon
