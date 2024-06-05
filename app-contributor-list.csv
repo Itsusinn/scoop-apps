@@ -1165,6 +1165,7 @@ rimage_gui.json,hoilc/scoop-lemon
 linux-reader.json,hoilc/scoop-lemon
 whisper-model-ggml-medium-en.json,hoilc/scoop-lemon
 cloudflarespeedtest.json,hoilc/scoop-lemon
+nbtscan.json,hoilc/scoop-lemon
 redis-rdb-cli.json,hoilc/scoop-lemon
 heroic.json,hoilc/scoop-lemon
 cs-script.json,hoilc/scoop-lemon
@@ -1472,6 +1473,7 @@ strings2.json,hoilc/scoop-lemon
 txedu.json,hoilc/scoop-lemon
 rj-texted.json,hoilc/scoop-lemon
 krr.json,hoilc/scoop-lemon
+syndicationd.json,hoilc/scoop-lemon
 hiddify.json,hoilc/scoop-lemon
 mongodb-atlas-cli_hoilc.json,hoilc/scoop-lemon
 hyplayer.json,hoilc/scoop-lemon
