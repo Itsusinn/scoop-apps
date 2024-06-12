@@ -1727,7 +1727,7 @@ fanctrl.json,hoilc/scoop-lemon
 ismylcdok.json,hoilc/scoop-lemon
 kcptun_hoilc.json,hoilc/scoop-lemon
 3body-lang.json,hoilc/scoop-lemon
-another-redis-desktop-manager.json,hoilc/scoop-lemon
+another-redis-desktop-manager_hoilc.json,hoilc/scoop-lemon
 devtunnel.json,hoilc/scoop-lemon
 privexec.json,hoilc/scoop-lemon
 caitouyun.json,hoilc/scoop-lemon
@@ -2098,6 +2098,7 @@ arrowdl.json,hoilc/scoop-lemon
 binjr.json,hoilc/scoop-lemon
 werf.json,hoilc/scoop-lemon
 alixby.json,hoilc/scoop-lemon
+sheas-cealer.json,hoilc/scoop-lemon
 whatsapp-chat-exporter.json,hoilc/scoop-lemon
 png2qoi.json,hoilc/scoop-lemon
 pe-anatomist.json,hoilc/scoop-lemon
