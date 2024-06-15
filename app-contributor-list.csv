@@ -1715,6 +1715,7 @@ lite.json,hoilc/scoop-lemon
 echosync.json,hoilc/scoop-lemon
 dbmigration.net.json,hoilc/scoop-lemon
 maye.json,hoilc/scoop-lemon
+mimirtool.json,hoilc/scoop-lemon
 keepass-plugin-keepasswinhello.json,hoilc/scoop-lemon
 minder.json,hoilc/scoop-lemon
 twexe.json,hoilc/scoop-lemon
@@ -1946,7 +1947,6 @@ ikago.json,hoilc/scoop-lemon
 flyedit.json,hoilc/scoop-lemon
 zincsearch.json,hoilc/scoop-lemon
 httpx.json,hoilc/scoop-lemon
-cortex-tools.json,hoilc/scoop-lemon
 kubectl-argo-rollouts.json,hoilc/scoop-lemon
 gsutil.json,hoilc/scoop-lemon
 tssh_hoilc.json,hoilc/scoop-lemon
@@ -1957,6 +1957,7 @@ gidot-typesetter.json,hoilc/scoop-lemon
 textlocator.json,hoilc/scoop-lemon
 equinix-metal-cli.json,hoilc/scoop-lemon
 flac_hoilc.json,hoilc/scoop-lemon
+cortextool.json,hoilc/scoop-lemon
 influxdb_exporter.json,hoilc/scoop-lemon
 feiq.json,hoilc/scoop-lemon
 ferret.json,hoilc/scoop-lemon
