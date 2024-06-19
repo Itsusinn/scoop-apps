@@ -1297,6 +1297,7 @@ voice.json,hoilc/scoop-lemon
 pacaptr.json,hoilc/scoop-lemon
 minbrowser.json,hoilc/scoop-lemon
 imgdrivecmd.json,hoilc/scoop-lemon
+chsrc.json,hoilc/scoop-lemon
 cosmo-emacs.json,hoilc/scoop-lemon
 wing-personal.json,hoilc/scoop-lemon
 edgedb-cli.json,hoilc/scoop-lemon
@@ -1385,6 +1386,7 @@ lyricease.json,hoilc/scoop-lemon
 meilisearch_hoilc.json,hoilc/scoop-lemon
 koyeb-cli.json,hoilc/scoop-lemon
 cilium-cli.json,hoilc/scoop-lemon
+seabird.json,hoilc/scoop-lemon
 fixcue.json,hoilc/scoop-lemon
 mixctl.json,hoilc/scoop-lemon
 pint.json,hoilc/scoop-lemon
@@ -1545,6 +1547,7 @@ videoduplicatefinder.json,hoilc/scoop-lemon
 risoheditor.json,hoilc/scoop-lemon
 evernote2onenote.json,hoilc/scoop-lemon
 catsxp.json,hoilc/scoop-lemon
+static-php-cli.json,hoilc/scoop-lemon
 chanify.json,hoilc/scoop-lemon
 chirp.json,hoilc/scoop-lemon
 pagebypage.json,hoilc/scoop-lemon
@@ -1914,6 +1917,7 @@ craftbasic.json,hoilc/scoop-lemon
 milvus_cli.json,hoilc/scoop-lemon
 kube-capacity.json,hoilc/scoop-lemon
 dmpro.json,hoilc/scoop-lemon
+cjk-romanizer.json,hoilc/scoop-lemon
 malm.json,hoilc/scoop-lemon
 clockpod.json,hoilc/scoop-lemon
 crypto-notepad.json,hoilc/scoop-lemon
