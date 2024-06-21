@@ -265,6 +265,7 @@ Starward.json,Weidows-projects/scoop-3rd
 Edge-Webdriver.json,Weidows-projects/scoop-3rd
 psmodule-GuiCompletion.json,Weidows-projects/scoop-3rd
 KeySound.json,Weidows-projects/scoop-3rd
+DnsTools.json,Weidows-projects/scoop-3rd
 UltraUXThemePatcher.json,Weidows-projects/scoop-3rd
 Waifu2x-Extension-GUI.json,Weidows-projects/scoop-3rd
 aws-portable.json,Weidows-projects/scoop-3rd
@@ -396,6 +397,7 @@ extremetuxracer.json,Calinou/scoop-games
 bsnes-mt.json,Calinou/scoop-games
 prismlauncher.json,Calinou/scoop-games
 raine.json,Calinou/scoop-games
+twitchdropsminer.json,Calinou/scoop-games
 lf2.json,Calinou/scoop-games
 mesen.json,Calinou/scoop-games
 golly.json,Calinou/scoop-games
@@ -683,7 +685,6 @@ snes9x.json,Calinou/scoop-games
 jazz2-resurrection.json,Calinou/scoop-games
 opendungeons.json,Calinou/scoop-games
 zdbsp.json,Calinou/scoop-games
-twitchdropsminer.json,Calinou/scoop-games
 yy.json,chawyehsu/dorado
 r_chawyehsu.json,chawyehsu/dorado
 tenderly-cli.json,chawyehsu/dorado
@@ -1364,6 +1365,7 @@ terminus-player.json,hoilc/scoop-lemon
 freepic2pdf.json,hoilc/scoop-lemon
 odfe-cli.json,hoilc/scoop-lemon
 tcping-go.json,hoilc/scoop-lemon
+sqlite-studio.json,hoilc/scoop-lemon
 comicsviewer-eng.json,hoilc/scoop-lemon
 wincontig.json,hoilc/scoop-lemon
 stable-diffusion-prompt-reader.json,hoilc/scoop-lemon
@@ -2103,7 +2105,7 @@ airdcpp.json,hoilc/scoop-lemon
 another-redis-desktop-manager_hoilc.json,hoilc/scoop-lemon
 ts-dns.json,hoilc/scoop-lemon
 tanka.json,hoilc/scoop-lemon
-cosbrowser_hoilc.json,hoilc/scoop-lemon
+cosbrowser.json,hoilc/scoop-lemon
 xsnip.json,hoilc/scoop-lemon
 betterbird.json,hoilc/scoop-lemon
 exhale.json,hoilc/scoop-lemon
