@@ -1365,7 +1365,6 @@ terminus-player.json,hoilc/scoop-lemon
 freepic2pdf.json,hoilc/scoop-lemon
 odfe-cli.json,hoilc/scoop-lemon
 tcping-go.json,hoilc/scoop-lemon
-sqlite-studio.json,hoilc/scoop-lemon
 comicsviewer-eng.json,hoilc/scoop-lemon
 wincontig.json,hoilc/scoop-lemon
 stable-diffusion-prompt-reader.json,hoilc/scoop-lemon
@@ -1376,6 +1375,7 @@ vmutils-enterprise.json,hoilc/scoop-lemon
 wintousb-free.json,hoilc/scoop-lemon
 hap-viewer.json,hoilc/scoop-lemon
 proxify.json,hoilc/scoop-lemon
+sql-studio.json,hoilc/scoop-lemon
 asnmap.json,hoilc/scoop-lemon
 go-wol.json,hoilc/scoop-lemon
 windctl.json,hoilc/scoop-lemon
@@ -1427,6 +1427,7 @@ ntttcp.json,hoilc/scoop-lemon
 qshell.json,hoilc/scoop-lemon
 ppftpd.json,hoilc/scoop-lemon
 autok3s.json,hoilc/scoop-lemon
+dockit.json,hoilc/scoop-lemon
 foldermonitor.json,hoilc/scoop-lemon
 tencent-transmart.json,hoilc/scoop-lemon
 tinysetup.json,hoilc/scoop-lemon
@@ -2105,7 +2106,7 @@ airdcpp.json,hoilc/scoop-lemon
 another-redis-desktop-manager_hoilc.json,hoilc/scoop-lemon
 ts-dns.json,hoilc/scoop-lemon
 tanka.json,hoilc/scoop-lemon
-cosbrowser.json,hoilc/scoop-lemon
+cosbrowser_hoilc.json,hoilc/scoop-lemon
 xsnip.json,hoilc/scoop-lemon
 betterbird.json,hoilc/scoop-lemon
 exhale.json,hoilc/scoop-lemon
