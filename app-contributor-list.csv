@@ -292,6 +292,7 @@ WSABuild.json,Weidows-projects/scoop-3rd
 Windows-Theme-HighContract-Tokyo-Night.json,Weidows-projects/scoop-3rd
 N0vaDesktop.json,Weidows-projects/scoop-3rd
 wps-photo-plus.json,Weidows-projects/scoop-3rd
+BrutalityExtractor.json,Weidows-projects/scoop-3rd
 MicrosoftEdge-dev-portable.json,Weidows-projects/scoop-3rd
 animation-garden-desktop.json,Weidows-projects/scoop-3rd
 audius.json,Weidows-projects/scoop-3rd
@@ -1333,6 +1334,7 @@ spire.json,hoilc/scoop-lemon
 4dnat.json,hoilc/scoop-lemon
 sftpgo_hoilc.json,hoilc/scoop-lemon
 serialtest.json,hoilc/scoop-lemon
+bendsql.json,hoilc/scoop-lemon
 proxinject.json,hoilc/scoop-lemon
 ferret.json,hoilc/scoop-lemon
 mycomputermanager.json,hoilc/scoop-lemon
@@ -1695,7 +1697,8 @@ lunatranslator.json,hoilc/scoop-lemon
 becky.json,hoilc/scoop-lemon
 snctl.json,hoilc/scoop-lemon
 kbcli.json,hoilc/scoop-lemon
-bazelisk.json,hoilc/scoop-lemon
+bazelisk_hoilc.json,hoilc/scoop-lemon
+terranetes-cli.json,hoilc/scoop-lemon
 enigma-virtual-box.json,hoilc/scoop-lemon
 readysunvalley.json,hoilc/scoop-lemon
 msmbps.json,hoilc/scoop-lemon
