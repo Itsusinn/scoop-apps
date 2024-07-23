@@ -1457,6 +1457,7 @@ pode.json,hoilc/scoop-lemon
 oggenc2-libvorbis.json,hoilc/scoop-lemon
 wxautoexim.json,hoilc/scoop-lemon
 assetripper.json,hoilc/scoop-lemon
+flash-collector.json,hoilc/scoop-lemon
 nebula-console.json,hoilc/scoop-lemon
 clickmonitorddc.json,hoilc/scoop-lemon
 terminus-player.json,hoilc/scoop-lemon
@@ -1751,6 +1752,7 @@ whisper-model-ggml-tiny-en.json,hoilc/scoop-lemon
 pulumictl.json,hoilc/scoop-lemon
 trzsz_hoilc.json,hoilc/scoop-lemon
 swagger-codegen-cli.json,hoilc/scoop-lemon
+technitium-dns-server.json,hoilc/scoop-lemon
 privaxy-nogui.json,hoilc/scoop-lemon
 httpx.json,hoilc/scoop-lemon
 pilotedit-lite.json,hoilc/scoop-lemon
