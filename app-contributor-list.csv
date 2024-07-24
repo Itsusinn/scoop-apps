@@ -1062,7 +1062,7 @@ lazykube.json,hoilc/scoop-lemon
 pictor.json,hoilc/scoop-lemon
 s3scanner.json,hoilc/scoop-lemon
 rj-texted.json,hoilc/scoop-lemon
-chsrc.json,hoilc/scoop-lemon
+chsrc_hoilc.json,hoilc/scoop-lemon
 nip2.json,hoilc/scoop-lemon
 gosmee.json,hoilc/scoop-lemon
 bendsql.json,hoilc/scoop-lemon
@@ -2128,7 +2128,7 @@ kubeshark_hoilc.json,hoilc/scoop-lemon
 fixcue.json,hoilc/scoop-lemon
 sunny.json,hoilc/scoop-lemon
 viper.json,hoilc/scoop-lemon
-iroh.json,hoilc/scoop-lemon
+iroh_hoilc.json,hoilc/scoop-lemon
 pdgthumbviewer.json,hoilc/scoop-lemon
 rawcopy.json,hoilc/scoop-lemon
 wxwork.json,hoilc/scoop-lemon
