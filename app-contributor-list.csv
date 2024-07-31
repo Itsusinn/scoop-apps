@@ -259,6 +259,7 @@ aws-portable.json,Weidows-projects/scoop-3rd
 TinyHand.json,Weidows-projects/scoop-3rd
 GUI.for.SingBox.json,Weidows-projects/scoop-3rd
 CefDetectorX.json,Weidows-projects/scoop-3rd
+sshpass.json,Weidows-projects/scoop-3rd
 ja-netfilter-modified.json,Weidows-projects/scoop-3rd
 MicrosoftEdge-dev-portable.json,Weidows-projects/scoop-3rd
 lan-mouse.json,Weidows-projects/scoop-3rd
@@ -272,6 +273,7 @@ N0vaDesktop.json,Weidows-projects/scoop-3rd
 Starward.json,Weidows-projects/scoop-3rd
 Adwaita-for-Steam.json,Weidows-projects/scoop-3rd
 ApiPost_Weidows-projects.json,Weidows-projects/scoop-3rd
+windows-defender-remover.json,Weidows-projects/scoop-3rd
 360zip.json,Weidows-projects/scoop-3rd
 SmartSystemMenu.json,Weidows-projects/scoop-3rd
 BrutalityExtractor.json,Weidows-projects/scoop-3rd
@@ -1932,6 +1934,7 @@ minder.json,hoilc/scoop-lemon
 mstream.json,hoilc/scoop-lemon
 system-tray-menu.json,hoilc/scoop-lemon
 sonixd.json,hoilc/scoop-lemon
+lsmash-muxer-gui.json,hoilc/scoop-lemon
 n_m3u8dl-cli_hoilc.json,hoilc/scoop-lemon
 uwscr.json,hoilc/scoop-lemon
 uplink.json,hoilc/scoop-lemon
