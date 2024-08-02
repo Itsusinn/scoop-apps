@@ -695,6 +695,7 @@ fbneo.json,Calinou/scoop-games
 cemu-dev.json,Calinou/scoop-games
 osulazer.json,Calinou/scoop-games
 freeciv.json,Calinou/scoop-games
+stonecutter.json,Calinou/scoop-games
 zandronum.json,Calinou/scoop-games
 openttd.json,Calinou/scoop-games
 steam-rom-manager.json,Calinou/scoop-games
@@ -1747,6 +1748,7 @@ nbtscan.json,hoilc/scoop-lemon
 oggenc2-libvorbis-aotuv.json,hoilc/scoop-lemon
 hitomi-downloader.json,hoilc/scoop-lemon
 tunnelmole.json,hoilc/scoop-lemon
+rqlite.json,hoilc/scoop-lemon
 metabase-ee.json,hoilc/scoop-lemon
 earthly_hoilc.json,hoilc/scoop-lemon
 ailz80asm.json,hoilc/scoop-lemon
