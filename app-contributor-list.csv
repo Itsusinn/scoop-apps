@@ -1032,6 +1032,7 @@ priv10.json,hoilc/scoop-lemon
 gogdl.json,hoilc/scoop-lemon
 arsenal-image-mounter.json,hoilc/scoop-lemon
 jjdown_hoilc.json,hoilc/scoop-lemon
+zeno.json,hoilc/scoop-lemon
 zally.json,hoilc/scoop-lemon
 zookeeper-assistant.json,hoilc/scoop-lemon
 yuzu-ea.json,hoilc/scoop-lemon
@@ -1293,6 +1294,7 @@ karma.json,hoilc/scoop-lemon
 elasticsearch_exporter.json,hoilc/scoop-lemon
 postgres_exporter.json,hoilc/scoop-lemon
 mediainfo.net.json,hoilc/scoop-lemon
+ossutil@2.json,hoilc/scoop-lemon
 kubeaudit.json,hoilc/scoop-lemon
 alephnote.json,hoilc/scoop-lemon
 cloudflarespeedtest.json,hoilc/scoop-lemon
@@ -1870,6 +1872,7 @@ scarborough.json,hoilc/scoop-lemon
 proxypin.json,hoilc/scoop-lemon
 ediary3.json,hoilc/scoop-lemon
 loophole-desktop.json,hoilc/scoop-lemon
+syncclipboard.json,hoilc/scoop-lemon
 libportable.json,hoilc/scoop-lemon
 autohidedesktopicons.json,hoilc/scoop-lemon
 airpodsdesktop.json,hoilc/scoop-lemon
@@ -1890,7 +1893,6 @@ kvirc.json,hoilc/scoop-lemon
 biniware-run.json,hoilc/scoop-lemon
 droppoint.json,hoilc/scoop-lemon
 fanhuaji.json,hoilc/scoop-lemon
-zeno.json,hoilc/scoop-lemon
 double-entry-generator.json,hoilc/scoop-lemon
 ytdlp.json,hoilc/scoop-lemon
 tinyimageprocessor.json,hoilc/scoop-lemon
@@ -1911,6 +1913,7 @@ sarasa-term-sc-nerd.json,hoilc/scoop-lemon
 quick-access-popup.json,hoilc/scoop-lemon
 cdsctl.json,hoilc/scoop-lemon
 windctl.json,hoilc/scoop-lemon
+oss-browser.json,hoilc/scoop-lemon
 biliuwp-lite.json,hoilc/scoop-lemon
 qshell.json,hoilc/scoop-lemon
 snctl.json,hoilc/scoop-lemon
@@ -1977,6 +1980,7 @@ xrun.json,hoilc/scoop-lemon
 glooctl.json,hoilc/scoop-lemon
 switchfin.json,hoilc/scoop-lemon
 us3cli.json,hoilc/scoop-lemon
+ns-emu-tools.json,hoilc/scoop-lemon
 rare_hoilc.json,hoilc/scoop-lemon
 xplist.json,hoilc/scoop-lemon
 dbmigration.net.json,hoilc/scoop-lemon

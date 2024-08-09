@@ -1,32 +1,35 @@
 {
-    "version": "1.16.0",
-    "description": "OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。",
+    "version": "1.19.0",
+    "description": "ossbrowser is a graphical management tool for Alibaba Cloud OSS.",
     "homepage": "https://github.com/aliyun/oss-browser",
-    "license": {
-        "identifier": "https://github.com/aliyun/oss-browser/blob/develop/LICENSE"
-    },
+    "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://oss-attachment.cn-hangzhou.oss.aliyun-inc.com/oss-browser/1.16.0/oss-browser-win32-x64.zip",
-            "hash": "4cd64ebefd78a7a905ff637664118dce4f6966a011e440576e821db0da501eee"
+            "url": "https://gosspublic.alicdn.com/ossbrowser/1.19.0/oss-browser-win32-x64.zip",
+            "hash": "bd6311c50051966c8b165e52c7729b518df5f09f51d8c05a4552efb3cc72ebba"
+        },
+        "32bit": {
+            "url": "https://gosspublic.alicdn.com/ossbrowser/1.19.0/oss-browser-win32-ia32.zip",
+            "hash": "12cf2fe7d08878e5c54db97b8dcd18e404b3f8c2bec5f657f15ae747d228813c"
         }
     },
-    "extract_dir": "oss-browser-win32-x64",
-    "bin": "oss-browser.exe",
     "shortcuts": [
         [
             "oss-browser.exe",
-            "oss-browser"
+            "OSS Browser"
         ]
     ],
     "checkver": {
-        "url": "https://github.com/aliyun/oss-browser",
-        "regex": "\\/oss-browser\\/(?<version>[\\d.]+)/oss-browser-win32-x64.zip"
+        "url": "https://raw.githubusercontent.com/aliyun/oss-browser/develop/upgrade.json",
+        "jsonpath": "$.version"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://oss-attachment.cn-hangzhou.oss.aliyun-inc.com/oss-browser/$matchVersion/oss-browser-win32-x64.zip"
+                "url": "https://gosspublic.alicdn.com/ossbrowser/$version/oss-browser-win32-x64.zip"
+            },
+            "32bit": {
+                "url": "https://gosspublic.alicdn.com/ossbrowser/$version/oss-browser-win32-ia32.zip"
             }
         }
     }
