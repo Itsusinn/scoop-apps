@@ -1304,6 +1304,7 @@ cloudflarespeedtest.json,hoilc/scoop-lemon
 container-structure-test.json,hoilc/scoop-lemon
 cassowary.json,hoilc/scoop-lemon
 sleep.json,hoilc/scoop-lemon
+score-k8s.json,hoilc/scoop-lemon
 rickrack.json,hoilc/scoop-lemon
 psgen.json,hoilc/scoop-lemon
 cppcryptfs.json,hoilc/scoop-lemon
@@ -1425,6 +1426,7 @@ nat-type-tester.json,hoilc/scoop-lemon
 yolx.json,hoilc/scoop-lemon
 n3dr.json,hoilc/scoop-lemon
 radius_hoilc.json,hoilc/scoop-lemon
+keepass-plugin-keeuiext.json,hoilc/scoop-lemon
 splunk-acs-cli.json,hoilc/scoop-lemon
 ips.json,hoilc/scoop-lemon
 victoria-logs.json,hoilc/scoop-lemon
@@ -1479,6 +1481,7 @@ lanthora.candy.json,hoilc/scoop-lemon
 qsctl.json,hoilc/scoop-lemon
 clashn.json,hoilc/scoop-lemon
 qsftpd.json,hoilc/scoop-lemon
+snipsvg.json,hoilc/scoop-lemon
 tickeys_hoilc.json,hoilc/scoop-lemon
 minbrowser.json,hoilc/scoop-lemon
 clockpod.json,hoilc/scoop-lemon
@@ -1734,6 +1737,7 @@ qscamel.json,hoilc/scoop-lemon
 avidemux.json,hoilc/scoop-lemon
 lsmash-muxer-gui.json,hoilc/scoop-lemon
 rrdtool.json,hoilc/scoop-lemon
+score-compose.json,hoilc/scoop-lemon
 nps-client_hoilc.json,hoilc/scoop-lemon
 wxwork.json,hoilc/scoop-lemon
 agent-ransack.json,hoilc/scoop-lemon
@@ -2030,6 +2034,7 @@ balabolka.json,hoilc/scoop-lemon
 imtip.json,hoilc/scoop-lemon
 bluelife-hosts-editor.json,hoilc/scoop-lemon
 garden.json,hoilc/scoop-lemon
+keepass-plugin-keeresize.json,hoilc/scoop-lemon
 quardcrt.json,hoilc/scoop-lemon
 kubevpn.json,hoilc/scoop-lemon
 simplejavamail-cli.json,hoilc/scoop-lemon
@@ -2111,6 +2116,7 @@ win11syscheck.json,hoilc/scoop-lemon
 tlrc_hoilc.json,hoilc/scoop-lemon
 bleconsole.json,hoilc/scoop-lemon
 kindle-comic-creator.json,hoilc/scoop-lemon
+pm-lite.json,hoilc/scoop-lemon
 exhale.json,hoilc/scoop-lemon
 goss.json,hoilc/scoop-lemon
 freedv.json,hoilc/scoop-lemon
@@ -2184,6 +2190,7 @@ hysteria.json,hoilc/scoop-lemon
 window-sharing-hider.json,hoilc/scoop-lemon
 nebula-importer.json,hoilc/scoop-lemon
 primesieve.json,hoilc/scoop-lemon
+keepass-plugin-keepassrdp.json,hoilc/scoop-lemon
 niconvert.json,hoilc/scoop-lemon
 whisper-model-ggml-tiny.json,hoilc/scoop-lemon
 sheas-cealer_hoilc.json,hoilc/scoop-lemon
