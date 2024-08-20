@@ -661,7 +661,6 @@ nanosaur.json,Calinou/scoop-games
 pathofbuilding-community.json,Calinou/scoop-games
 wfinfo.json,Calinou/scoop-games
 freeciv.json,Calinou/scoop-games
-dolphin-beta.json,Calinou/scoop-games
 speed-dreams.json,Calinou/scoop-games
 bsnes-hd-beta.json,Calinou/scoop-games
 evemon.json,Calinou/scoop-games
@@ -683,6 +682,7 @@ stonecutter.json,Calinou/scoop-games
 csauto.json,Calinou/scoop-games
 project64.json,Calinou/scoop-games
 openrct2.json,Calinou/scoop-games
+chunker.json,Calinou/scoop-games
 pso2-tweaker.json,Calinou/scoop-games
 tic-80.json,Calinou/scoop-games
 angband.json,Calinou/scoop-games
@@ -2188,6 +2188,7 @@ r3playx.json,hoilc/scoop-lemon
 cavif.json,hoilc/scoop-lemon
 wpd.json,hoilc/scoop-lemon
 swgp-go.json,hoilc/scoop-lemon
+cosmo-berry.json,hoilc/scoop-lemon
 rmedir.json,hoilc/scoop-lemon
 ink-canvas.json,hoilc/scoop-lemon
 chirp.json,hoilc/scoop-lemon
