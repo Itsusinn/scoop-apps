@@ -1145,6 +1145,7 @@ aws-auth.json,hoilc/scoop-lemon
 x-spider.json,hoilc/scoop-lemon
 stickies_hoilc.json,hoilc/scoop-lemon
 klog.json,hoilc/scoop-lemon
+winbin2iso.json,hoilc/scoop-lemon
 dictionary.net.json,hoilc/scoop-lemon
 k8sgpt.json,hoilc/scoop-lemon
 jpexs-decompiler.json,hoilc/scoop-lemon
@@ -1154,6 +1155,7 @@ windowsgsm.json,hoilc/scoop-lemon
 arthas_hoilc.json,hoilc/scoop-lemon
 rav1e.json,hoilc/scoop-lemon
 splayer-legacy.json,hoilc/scoop-lemon
+outwiker.json,hoilc/scoop-lemon
 portx.json,hoilc/scoop-lemon
 piclist.json,hoilc/scoop-lemon
 cloudquery.json,hoilc/scoop-lemon
@@ -1297,6 +1299,7 @@ readpe.json,hoilc/scoop-lemon
 kusionup.json,hoilc/scoop-lemon
 cosmo-rsync.json,hoilc/scoop-lemon
 asnmap.json,hoilc/scoop-lemon
+rainlendar-lite.json,hoilc/scoop-lemon
 k3sup_hoilc.json,hoilc/scoop-lemon
 task-explorer.json,hoilc/scoop-lemon
 errorlookup.json,hoilc/scoop-lemon
@@ -1482,6 +1485,7 @@ maple-mono-nerd.json,hoilc/scoop-lemon
 docker-ls.json,hoilc/scoop-lemon
 duckling.json,hoilc/scoop-lemon
 us3fs.json,hoilc/scoop-lemon
+tablacus-explorer.json,hoilc/scoop-lemon
 wx3270.json,hoilc/scoop-lemon
 windows-update-blocker.json,hoilc/scoop-lemon
 kcl.json,hoilc/scoop-lemon
@@ -1796,6 +1800,7 @@ ztm.json,hoilc/scoop-lemon
 jaeger.json,hoilc/scoop-lemon
 ark-pixel-font-10px-proportional.json,hoilc/scoop-lemon
 colored-text.json,hoilc/scoop-lemon
+oneloupe.json,hoilc/scoop-lemon
 sirikali.json,hoilc/scoop-lemon
 tinygui.json,hoilc/scoop-lemon
 mglahk.json,hoilc/scoop-lemon
@@ -2217,6 +2222,7 @@ craftbasic.json,hoilc/scoop-lemon
 magnifixer.json,hoilc/scoop-lemon
 hap-viewer.json,hoilc/scoop-lemon
 moonbit.json,hoilc/scoop-lemon
+sideslide.json,hoilc/scoop-lemon
 hostess.json,hoilc/scoop-lemon
 etcder.json,hoilc/scoop-lemon
 dooit.json,hoilc/scoop-lemon
@@ -2237,8 +2243,10 @@ tabula-cli.json,hoilc/scoop-lemon
 jar-analyzer.json,hoilc/scoop-lemon
 tsmuxer.json,hoilc/scoop-lemon
 inlets-pro.json,hoilc/scoop-lemon
+unicodia.json,hoilc/scoop-lemon
 shoutrrr.json,hoilc/scoop-lemon
 lossywav.json,hoilc/scoop-lemon
+dnscat2-client.json,hoilc/scoop-lemon
 tencent-transmart.json,hoilc/scoop-lemon
 mahou.json,hoilc/scoop-lemon
 msstyleeditor.json,hoilc/scoop-lemon
@@ -2247,3 +2255,4 @@ luaperfect.json,hoilc/scoop-lemon
 cue_hoilc.json,hoilc/scoop-lemon
 categraf.json,hoilc/scoop-lemon
 serverbox.json,hoilc/scoop-lemon
+schema.intellij.json,hoilc/scoop-lemon
