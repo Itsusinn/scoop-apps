@@ -1151,6 +1151,7 @@ dictionary.net.json,hoilc/scoop-lemon
 k8sgpt.json,hoilc/scoop-lemon
 jpexs-decompiler.json,hoilc/scoop-lemon
 kubeconform_hoilc.json,hoilc/scoop-lemon
+mparallel.json,hoilc/scoop-lemon
 arrowdl.json,hoilc/scoop-lemon
 windowsgsm.json,hoilc/scoop-lemon
 arthas_hoilc.json,hoilc/scoop-lemon
@@ -1392,6 +1393,7 @@ integer-scaler.json,hoilc/scoop-lemon
 chfs-gui_hoilc.json,hoilc/scoop-lemon
 excalidraw-converter.json,hoilc/scoop-lemon
 echosync.json,hoilc/scoop-lemon
+slsa-verifier.json,hoilc/scoop-lemon
 realm_hoilc.json,hoilc/scoop-lemon
 pdfgear.json,hoilc/scoop-lemon
 osm.json,hoilc/scoop-lemon
@@ -1970,6 +1972,7 @@ vtfedit-reloaded.json,hoilc/scoop-lemon
 tiny-rdm.json,hoilc/scoop-lemon
 orange.json,hoilc/scoop-lemon
 malm.json,hoilc/scoop-lemon
+slunkcrypt.json,hoilc/scoop-lemon
 tidgi.json,hoilc/scoop-lemon
 flydav.json,hoilc/scoop-lemon
 beaver-notes.json,hoilc/scoop-lemon
@@ -1983,6 +1986,7 @@ ipe.json,hoilc/scoop-lemon
 jmol.json,hoilc/scoop-lemon
 removable-access-tool.json,hoilc/scoop-lemon
 minipad2.json,hoilc/scoop-lemon
+exiftoolgui.json,hoilc/scoop-lemon
 benthos.json,hoilc/scoop-lemon
 kui.json,hoilc/scoop-lemon
 nextssh.json,hoilc/scoop-lemon
