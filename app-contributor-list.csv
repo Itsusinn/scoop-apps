@@ -1279,6 +1279,7 @@ infobar.json,hoilc/scoop-lemon
 winfi-lite.json,hoilc/scoop-lemon
 steascree.json,hoilc/scoop-lemon
 vfox_hoilc.json,hoilc/scoop-lemon
+gost@2.json,hoilc/scoop-lemon
 bkviewer-pro.json,hoilc/scoop-lemon
 wininfo.json,hoilc/scoop-lemon
 waifu2x-snowshell.json,hoilc/scoop-lemon
@@ -1742,6 +1743,7 @@ avidemux-nightly.json,hoilc/scoop-lemon
 rspleeter.json,hoilc/scoop-lemon
 findstr-eng.json,hoilc/scoop-lemon
 mysqld_exporter.json,hoilc/scoop-lemon
+gost.json,hoilc/scoop-lemon
 bctextencoder.json,hoilc/scoop-lemon
 emby-plugin-metatube.json,hoilc/scoop-lemon
 scryer-prolog.json,hoilc/scoop-lemon
@@ -2137,6 +2139,7 @@ glooctl-beta.json,hoilc/scoop-lemon
 duf_hoilc.json,hoilc/scoop-lemon
 windows-registry-recovery.json,hoilc/scoop-lemon
 mixctl.json,hoilc/scoop-lemon
+noteme.json,hoilc/scoop-lemon
 fluent-bit.json,hoilc/scoop-lemon
 vgmstream-cli.json,hoilc/scoop-lemon
 am-deadlink.json,hoilc/scoop-lemon
@@ -2251,6 +2254,7 @@ rav1e-gui.json,hoilc/scoop-lemon
 videofusion.json,hoilc/scoop-lemon
 biliup-rs.json,hoilc/scoop-lemon
 starter.json,hoilc/scoop-lemon
+gostctl.json,hoilc/scoop-lemon
 ppftpd.json,hoilc/scoop-lemon
 cmail.json,hoilc/scoop-lemon
 proxinject.json,hoilc/scoop-lemon
