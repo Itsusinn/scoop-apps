@@ -1172,6 +1172,7 @@ toxiproxy.json,hoilc/scoop-lemon
 pulumictl.json,hoilc/scoop-lemon
 vsts-sync-migrator.json,hoilc/scoop-lemon
 tts-vue.json,hoilc/scoop-lemon
+steganographiergui.json,hoilc/scoop-lemon
 tunnelto.json,hoilc/scoop-lemon
 capnproto.json,hoilc/scoop-lemon
 nomeiryoui_hoilc.json,hoilc/scoop-lemon
@@ -1317,6 +1318,7 @@ elasticsearch_exporter.json,hoilc/scoop-lemon
 postgres_exporter.json,hoilc/scoop-lemon
 mediainfo.net.json,hoilc/scoop-lemon
 ossutil@2.json,hoilc/scoop-lemon
+yasocut.json,hoilc/scoop-lemon
 kubeaudit.json,hoilc/scoop-lemon
 alephnote.json,hoilc/scoop-lemon
 cloudflarespeedtest.json,hoilc/scoop-lemon
