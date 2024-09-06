@@ -13,7 +13,19 @@
             "hash": "33289a7a2cc369831ae8384f0113f30c614a6be333ebef6abfc487decd50cf95"
         }
     },
-    "bin": "uv.exe",
+    "bin": [
+        "uv.exe",
+        "uvx.exe"
+    ],
+    "persist": "data",
+    "env_set": {
+        "UV_INDEX_URL": "https://pypi.tuna.tsinghua.edu.cn/simple",
+        "UV_CACHE_DIR": "$dir\\data\\cache",
+        "UV_TOOL_DIR": "$dir\\data\\tool",
+        "UV_TOOL_BIN_DIR": "$dir\\data\\bin",
+        "UV_PYTHON_INSTALL_DIR": "$dir\\data\\python"
+    },
+    "env_add_path": "data\\bin",
     "checkver": "github",
     "autoupdate": {
         "architecture": {

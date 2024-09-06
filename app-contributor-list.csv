@@ -236,6 +236,7 @@ windows-defender-remover.json,Weidows-projects/scoop-3rd
 BrutalityExtractor.json,Weidows-projects/scoop-3rd
 7zip-zstd-instead.json,Weidows-projects/scoop-3rd
 TinyHand.json,Weidows-projects/scoop-3rd
+uv-portable-cn.json,Weidows-projects/scoop-3rd
 adspower.json,Weidows-projects/scoop-3rd
 AIStarter.json,Weidows-projects/scoop-3rd
 ja-netfilter-modified.json,Weidows-projects/scoop-3rd
@@ -300,6 +301,7 @@ warp-cloudflare.json,Weidows-projects/scoop-3rd
 Edge-Webdriver.json,Weidows-projects/scoop-3rd
 LM-Studio.json,Weidows-projects/scoop-3rd
 Jeenpi.json,Weidows-projects/scoop-3rd
+ZipCracker.json,Weidows-projects/scoop-3rd
 QuickCut.json,Weidows-projects/scoop-3rd
 nvm_Weidows-projects.json,Weidows-projects/scoop-3rd
 SourceTree.json,Weidows-projects/scoop-3rd
@@ -1178,6 +1180,7 @@ infracost.json,hoilc/scoop-lemon
 rpk.json,hoilc/scoop-lemon
 ytt_hoilc.json,hoilc/scoop-lemon
 zrok.json,hoilc/scoop-lemon
+advanced-portchecker.json,hoilc/scoop-lemon
 shanggu-serif-sc.json,hoilc/scoop-lemon
 bilibili-live-record-downloader.json,hoilc/scoop-lemon
 findstr-eng.json,hoilc/scoop-lemon
@@ -1494,6 +1497,7 @@ facebook-delete.json,hoilc/scoop-lemon
 cryptoknife.json,hoilc/scoop-lemon
 zeta-resource-editor.json,hoilc/scoop-lemon
 upcloud-cli.json,hoilc/scoop-lemon
+mujing.json,hoilc/scoop-lemon
 wifi-filter-tool.json,hoilc/scoop-lemon
 videofusion.json,hoilc/scoop-lemon
 autok3s.json,hoilc/scoop-lemon
@@ -1678,6 +1682,7 @@ uyou-todo.json,hoilc/scoop-lemon
 just-color-picker.json,hoilc/scoop-lemon
 remoteapptool_hoilc.json,hoilc/scoop-lemon
 snap.hutao.json,hoilc/scoop-lemon
+vineflower.json,hoilc/scoop-lemon
 custommenu.json,hoilc/scoop-lemon
 foobox-en.json,hoilc/scoop-lemon
 oggdropxpd-libvorbis-aotuv-lancer.json,hoilc/scoop-lemon
