@@ -1776,6 +1776,7 @@ imagesearch.json,hoilc/scoop-lemon
 pacaptr.json,hoilc/scoop-lemon
 treeline.json,hoilc/scoop-lemon
 pure-data.json,hoilc/scoop-lemon
+slumber.json,hoilc/scoop-lemon
 scarborough.json,hoilc/scoop-lemon
 dbmigration.net.json,hoilc/scoop-lemon
 iplookup.json,hoilc/scoop-lemon
@@ -2156,6 +2157,7 @@ multi-gitter.json,hoilc/scoop-lemon
 osm.json,hoilc/scoop-lemon
 enigma-virtual-box.json,hoilc/scoop-lemon
 us3fs.json,hoilc/scoop-lemon
+maestro-cli.json,hoilc/scoop-lemon
 swagger-codegen-cli.json,hoilc/scoop-lemon
 blb2txt.json,hoilc/scoop-lemon
 timoni_hoilc.json,hoilc/scoop-lemon
