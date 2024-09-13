@@ -1169,6 +1169,7 @@ windows-terminal-quake@1.json,hoilc/scoop-lemon
 subfinder.json,hoilc/scoop-lemon
 helmify.json,hoilc/scoop-lemon
 seabird.json,hoilc/scoop-lemon
+jnv.json,hoilc/scoop-lemon
 bililive-recorder-cli.json,hoilc/scoop-lemon
 stable-diffusion-prompt-reader.json,hoilc/scoop-lemon
 jj_hoilc.json,hoilc/scoop-lemon
@@ -1771,7 +1772,6 @@ anime4kcpp-gui.json,hoilc/scoop-lemon
 yanhuo.json,hoilc/scoop-lemon
 snctl.json,hoilc/scoop-lemon
 little-tips.json,hoilc/scoop-lemon
-premotem_hoilc.json,hoilc/scoop-lemon
 qv2ray-nightly.json,hoilc/scoop-lemon
 yuveye.json,hoilc/scoop-lemon
 chart-testing.json,hoilc/scoop-lemon
@@ -1964,6 +1964,7 @@ simple-vhd-manager.json,hoilc/scoop-lemon
 sequin-cli.json,hoilc/scoop-lemon
 keepass-plugin-keepasswinhello.json,hoilc/scoop-lemon
 artweaver-free.json,hoilc/scoop-lemon
+1remote.json,hoilc/scoop-lemon
 pulumictl.json,hoilc/scoop-lemon
 wintun-libs.json,hoilc/scoop-lemon
 falabaac.json,hoilc/scoop-lemon
@@ -2052,6 +2053,7 @@ victoria-metrics.json,hoilc/scoop-lemon
 freearc.json,hoilc/scoop-lemon
 uupmediacreator.json,hoilc/scoop-lemon
 edgedb-cli.json,hoilc/scoop-lemon
+tetrs.json,hoilc/scoop-lemon
 bililive-go.json,hoilc/scoop-lemon
 maye.json,hoilc/scoop-lemon
 sclient.json,hoilc/scoop-lemon
@@ -2176,6 +2178,7 @@ s3proxy.json,hoilc/scoop-lemon
 lal.json,hoilc/scoop-lemon
 privexec.json,hoilc/scoop-lemon
 tidgi.json,hoilc/scoop-lemon
+w2vgrep.json,hoilc/scoop-lemon
 gidot-typesetter.json,hoilc/scoop-lemon
 gost@2.json,hoilc/scoop-lemon
 pinniped-cli.json,hoilc/scoop-lemon
