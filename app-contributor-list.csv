@@ -1597,7 +1597,6 @@ memurai.json,hoilc/scoop-lemon
 tsmuxer.json,hoilc/scoop-lemon
 whisper-model-ggml-large.json,hoilc/scoop-lemon
 cfiler.json,hoilc/scoop-lemon
-mdx-editor.json,hoilc/scoop-lemon
 zmeter.json,hoilc/scoop-lemon
 wininfo.json,hoilc/scoop-lemon
 kail.json,hoilc/scoop-lemon
@@ -1655,6 +1654,7 @@ lyricify.json,hoilc/scoop-lemon
 kube-burner.json,hoilc/scoop-lemon
 jprq.json,hoilc/scoop-lemon
 ahko.json,hoilc/scoop-lemon
+mdx-notes.json,hoilc/scoop-lemon
 syndicationd.json,hoilc/scoop-lemon
 aws-auth.json,hoilc/scoop-lemon
 wau-manager.json,hoilc/scoop-lemon
