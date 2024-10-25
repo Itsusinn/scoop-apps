@@ -1340,6 +1340,7 @@ flydav.json,hoilc/scoop-lemon
 xsnip.json,hoilc/scoop-lemon
 uwscr.json,hoilc/scoop-lemon
 cow.json,hoilc/scoop-lemon
+process-compose.json,hoilc/scoop-lemon
 bflat_hoilc.json,hoilc/scoop-lemon
 djvutoy-eng.json,hoilc/scoop-lemon
 grafana-agentctl.json,hoilc/scoop-lemon
@@ -1460,6 +1461,7 @@ collectd_exporter.json,hoilc/scoop-lemon
 wj-markdown-editor.json,hoilc/scoop-lemon
 stranslate.json,hoilc/scoop-lemon
 xrun.json,hoilc/scoop-lemon
+trino-cli.json,hoilc/scoop-lemon
 besttrace.json,hoilc/scoop-lemon
 wintun-libs.json,hoilc/scoop-lemon
 foobox6-en.json,hoilc/scoop-lemon
