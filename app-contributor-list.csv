@@ -1357,6 +1357,7 @@ parkdale.json,hoilc/scoop-lemon
 kubeconform_hoilc.json,hoilc/scoop-lemon
 system-tray-menu.json,hoilc/scoop-lemon
 rj-texted.json,hoilc/scoop-lemon
+mmdbctl.json,hoilc/scoop-lemon
 findstr.json,hoilc/scoop-lemon
 suyu.json,hoilc/scoop-lemon
 piclist.json,hoilc/scoop-lemon
@@ -2338,6 +2339,7 @@ img-convert.json,hoilc/scoop-lemon
 bkviewer-pro.json,hoilc/scoop-lemon
 pcap2socks.json,hoilc/scoop-lemon
 airpodsdesktop.json,hoilc/scoop-lemon
+seqkit.json,hoilc/scoop-lemon
 lazysql.json,hoilc/scoop-lemon
 ark-pixel-font-16px-monospaced.json,hoilc/scoop-lemon
 metatogger.json,hoilc/scoop-lemon
