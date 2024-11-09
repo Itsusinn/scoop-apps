@@ -565,6 +565,7 @@ infraarcana.json,Calinou/scoop-games
 crispy-doom.json,Calinou/scoop-games
 ppsspp-dev.json,Calinou/scoop-games
 doomsday.json,Calinou/scoop-games
+openfortress.json,Calinou/scoop-games
 xenia.json,Calinou/scoop-games
 freeorion.json,Calinou/scoop-games
 amulet-map-editor.json,Calinou/scoop-games
@@ -1995,7 +1996,7 @@ sakurafrp-launcher.json,hoilc/scoop-lemon
 syft_hoilc.json,hoilc/scoop-lemon
 cutemaze.json,hoilc/scoop-lemon
 stripe-cli.json,hoilc/scoop-lemon
-ediary.json,hoilc/scoop-lemon
+ediary_hoilc.json,hoilc/scoop-lemon
 ppee.json,hoilc/scoop-lemon
 pvm.json,hoilc/scoop-lemon
 pagebypage.json,hoilc/scoop-lemon
