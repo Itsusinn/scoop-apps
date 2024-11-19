@@ -22,3 +22,4 @@ scoop bucket add apps https://github.com/Itsusinn/scoop-apps
 - chawyehsu/dorado
 - hoilc/scoop-lemon
 - xtonousou/xbucket
+- jat001/scoop-ox

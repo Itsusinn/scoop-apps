@@ -1,0 +1,43 @@
+{
+    "autoupdate": {
+        "url": "$matchUrl#/dl.7z"
+    },
+    "checkver": {
+        "script": [
+            "$script:ver = json_path $page '$.number' -single $true",
+            "$script:matchesHashtable = @{'url' = json_path $page '$.url' -single $true}",
+            "$script:regexp = $null"
+        ],
+        "url": "https://www.kookapp.cn/api/v2/updates/latest-version?platform=windows"
+    },
+    "description": "A useful voice communication tool.",
+    "extract_to": "tmp",
+    "hash": "1e806855c4f9adadfad5ce31c7111937a1fa9138ce51890f077d9627b58a9b22",
+    "homepage": "https://www.kookapp.cn",
+    "license": {
+        "identifier": "Freeware",
+        "url": "https://www.kookapp.cn/protocol.html"
+    },
+    "persist": "User Data",
+    "post_install": [
+        "Remove-Item \"$dir\\tmp\" -ErrorAction SilentlyContinue -Recurse -Force",
+        "if (-not (Test-Path \"$dir\\User Data\\*\") -and (Test-Path \"$env:AppData\\kook\")) {",
+        "    info '[Portable Mode]: Copying user data...'",
+        "    ensure \"$dir\\User Data\" | Out-Null",
+        "    Copy-Item \"$env:AppData\\kook\\*\" \"$dir\\User Data\" -Recurse -Force -ErrorAction SilentlyContinue",
+        "}"
+    ],
+    "pre_install": [
+        "Expand-7zipArchive \"$dir\\tmp\\`$1\\SquirrelTemp\\app.7z\" \"$dir\"",
+        "Expand-Archive \"$dir\\KOOK-$version-full.nupkg\" \"$dir\""
+    ],
+    "shortcuts": [
+        [
+            "lib\\net45\\KOOK.exe",
+            "KOOK",
+            "--user-data-dir=\"$dir\\User Data\""
+        ]
+    ],
+    "url": "https://dl.kookapp.cn/assets/release/html_pc/kook_1369/Kook_PC_Setup_v0.89.1.0_b2ZmaWNpYWwuc2l0ZS4uLi5wYw==.exe?auth_key=1730208170-097741ca4074dfc63a2d9450034d7cc2-1227ht1z0-d655fb94a0d2ffb32f904b316bdb31b0#/dl.7z",
+    "version": "0.89.1"
+}
