@@ -777,6 +777,7 @@ trafficmonitor_chawyehsu.json,chawyehsu/dorado
 winlibs-mingw-msvcrt-mcf-snapshot.json,chawyehsu/dorado
 clash_chawyehsu.json,chawyehsu/dorado
 clash-for-windows.json,chawyehsu/dorado
+deveco-studio.json,chawyehsu/dorado
 apache-mod-fcgid.json,chawyehsu/dorado
 sandboxie-plus.json,chawyehsu/dorado
 tableau-desktop.json,chawyehsu/dorado
@@ -1029,7 +1030,6 @@ qgis.json,chawyehsu/dorado
 wayback.json,chawyehsu/dorado
 lxmusic.json,chawyehsu/dorado
 nuwen-mingw.json,chawyehsu/dorado
-deveco-studio.json,chawyehsu/dorado
 mubu.json,chawyehsu/dorado
 s2cb.json,chawyehsu/dorado
 processthreadsview.json,chawyehsu/dorado
@@ -1760,6 +1760,7 @@ obsutil.json,hoilc/scoop-lemon
 dbgate-beta.json,hoilc/scoop-lemon
 minder.json,hoilc/scoop-lemon
 nuclei.json,hoilc/scoop-lemon
+vlogscli.json,hoilc/scoop-lemon
 score-k8s.json,hoilc/scoop-lemon
 keepass-plugin-hibpofflinecheck.json,hoilc/scoop-lemon
 ark-pixel-font-10px-proportional.json,hoilc/scoop-lemon
@@ -2403,6 +2404,7 @@ shadowsocksr-windows.json,jat001/scoop-ox
 wago-app.json,jat001/scoop-ox
 minion.json,jat001/scoop-ox
 sublime-merge-dev.json,jat001/scoop-ox
+bigfoot.json,jat001/scoop-ox
 netease-dd.json,jat001/scoop-ox
 raiderio-client.json,jat001/scoop-ox
 tencent-meeting.json,jat001/scoop-ox
