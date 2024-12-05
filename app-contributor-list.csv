@@ -244,6 +244,7 @@ MyDockFinder.json,Weidows-projects/scoop-3rd
 tdl.json,Weidows-projects/scoop-3rd
 64Gram-tdesktop-fork.json,Weidows-projects/scoop-3rd
 sigma-file-manager.json,Weidows-projects/scoop-3rd
+waveterm.json,Weidows-projects/scoop-3rd
 psmodule-GuiCompletion.json,Weidows-projects/scoop-3rd
 PCmaster.json,Weidows-projects/scoop-3rd
 BADownloaderUI.json,Weidows-projects/scoop-3rd
@@ -2064,6 +2065,7 @@ briar.json,hoilc/scoop-lemon
 falabaac.json,hoilc/scoop-lemon
 homedale_hoilc.json,hoilc/scoop-lemon
 tinygui.json,hoilc/scoop-lemon
+volcengine-cli.json,hoilc/scoop-lemon
 tetrs.json,hoilc/scoop-lemon
 proxify.json,hoilc/scoop-lemon
 a2fa.json,hoilc/scoop-lemon
@@ -2188,6 +2190,7 @@ good-mitm.json,hoilc/scoop-lemon
 spleeter-gui.json,hoilc/scoop-lemon
 noteme.json,hoilc/scoop-lemon
 slunkcrypt.json,hoilc/scoop-lemon
+tosutil.json,hoilc/scoop-lemon
 tcping_hoilc.json,hoilc/scoop-lemon
 mbox-viewer.json,hoilc/scoop-lemon
 webd.json,hoilc/scoop-lemon
@@ -2250,6 +2253,7 @@ zorba.json,hoilc/scoop-lemon
 keepass-plugin-keeuiext.json,hoilc/scoop-lemon
 mongodb-atlas-cli_hoilc.json,hoilc/scoop-lemon
 rmaa.json,hoilc/scoop-lemon
+harbor-cli.json,hoilc/scoop-lemon
 pulsarctl.json,hoilc/scoop-lemon
 dnsproxy_hoilc.json,hoilc/scoop-lemon
 cat-cli.json,hoilc/scoop-lemon
