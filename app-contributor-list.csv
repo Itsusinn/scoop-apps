@@ -1483,6 +1483,7 @@ trino-cli.json,hoilc/scoop-lemon
 besttrace.json,hoilc/scoop-lemon
 wintun-libs.json,hoilc/scoop-lemon
 foobox6-en.json,hoilc/scoop-lemon
+ente-auth.json,hoilc/scoop-lemon
 dnscat2-client.json,hoilc/scoop-lemon
 ahko.json,hoilc/scoop-lemon
 httpx.json,hoilc/scoop-lemon
@@ -1950,6 +1951,7 @@ bluetoothle-battery-monitor.json,hoilc/scoop-lemon
 access.json,hoilc/scoop-lemon
 mongodb-compass-readonly.json,hoilc/scoop-lemon
 opentrace.json,hoilc/scoop-lemon
+ente-photos.json,hoilc/scoop-lemon
 jotta-cli.json,hoilc/scoop-lemon
 magnifixer.json,hoilc/scoop-lemon
 hmp3.json,hoilc/scoop-lemon
@@ -2270,6 +2272,7 @@ unicodia.json,hoilc/scoop-lemon
 whisper-model-ggml-base.json,hoilc/scoop-lemon
 bbdown_hoilc.json,hoilc/scoop-lemon
 rqlite.json,hoilc/scoop-lemon
+ente-cli.json,hoilc/scoop-lemon
 lame-front-end.json,hoilc/scoop-lemon
 greptime.json,hoilc/scoop-lemon
 ailz80asm.json,hoilc/scoop-lemon
