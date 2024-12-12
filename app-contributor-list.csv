@@ -435,6 +435,7 @@ spearmint.json,Calinou/scoop-games
 fbneo-nightly.json,Calinou/scoop-games
 prismlauncher-qt5.json,Calinou/scoop-games
 q2pro.json,Calinou/scoop-games
+tf2classic.json,Calinou/scoop-games
 steam-achievement-manager.json,Calinou/scoop-games
 mindustry.json,Calinou/scoop-games
 tickompiler.json,Calinou/scoop-games
@@ -2286,6 +2287,7 @@ obs-browser-plus.json,hoilc/scoop-lemon
 enable-loopback.json,hoilc/scoop-lemon
 glider.json,hoilc/scoop-lemon
 swagger-codegen-cli.json,hoilc/scoop-lemon
+wimtool_hoilc.json,hoilc/scoop-lemon
 space-cli.json,hoilc/scoop-lemon
 trdsql.json,hoilc/scoop-lemon
 gidot-typesetter.json,hoilc/scoop-lemon
