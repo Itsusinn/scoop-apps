@@ -404,6 +404,7 @@ ynote.json,scoopcn/scoopcn
 feishu.json,scoopcn/scoopcn
 neo4jbrowser.json,scoopcn/scoopcn
 we-meet.json,scoopcn/scoopcn
+shadps4-dev.json,Calinou/scoop-games
 yquake2-ref-vk.json,Calinou/scoop-games
 steam.json,Calinou/scoop-games
 demul.json,Calinou/scoop-games
@@ -1453,6 +1454,7 @@ cleanmywechat.json,hoilc/scoop-lemon
 stream-music.json,hoilc/scoop-lemon
 proxypin.json,hoilc/scoop-lemon
 tclkit.json,hoilc/scoop-lemon
+zlibrary.json,hoilc/scoop-lemon
 revanced-cli.json,hoilc/scoop-lemon
 keynote-nf.json,hoilc/scoop-lemon
 docker-ls.json,hoilc/scoop-lemon
@@ -1917,6 +1919,7 @@ k8sgpt.json,hoilc/scoop-lemon
 qsftpd.json,hoilc/scoop-lemon
 hamsterbase-desktop.json,hoilc/scoop-lemon
 comicenhancepro-eng.json,hoilc/scoop-lemon
+filen-cli.json,hoilc/scoop-lemon
 rekor-cli.json,hoilc/scoop-lemon
 autocorrect_hoilc.json,hoilc/scoop-lemon
 fstail.json,hoilc/scoop-lemon
