@@ -545,7 +545,6 @@ epic-games-launcher.json,Calinou/scoop-games
 gdidrop.json,Calinou/scoop-games
 dolphin.json,Calinou/scoop-games
 simulationcraft.json,Calinou/scoop-games
-chiaki4deck.json,Calinou/scoop-games
 simple64.json,Calinou/scoop-games
 nethack.json,Calinou/scoop-games
 lzdoom.json,Calinou/scoop-games
@@ -733,6 +732,7 @@ visualboyadvance-m.json,Calinou/scoop-games
 pathofbuilding-community.json,Calinou/scoop-games
 tabletop-club.json,Calinou/scoop-games
 pegasus.json,Calinou/scoop-games
+chiaki-ng.json,Calinou/scoop-games
 unrealmodloader.json,Calinou/scoop-games
 heroic-games-launcher.json,Calinou/scoop-games
 augmentinel.json,Calinou/scoop-games
@@ -1941,6 +1941,7 @@ mediainfoxp.json,hoilc/scoop-lemon
 screego.json,hoilc/scoop-lemon
 ikago.json,hoilc/scoop-lemon
 shanggu-mono.json,hoilc/scoop-lemon
+tosbrowser.json,hoilc/scoop-lemon
 fpm.json,hoilc/scoop-lemon
 r3playx.json,hoilc/scoop-lemon
 soundswitch.json,hoilc/scoop-lemon
