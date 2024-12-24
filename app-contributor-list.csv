@@ -460,6 +460,7 @@ zokumbsp.json,Calinou/scoop-games
 tesseract-game.json,Calinou/scoop-games
 hedgewars.json,Calinou/scoop-games
 angband.json,Calinou/scoop-games
+luanti.json,Calinou/scoop-games
 visualboyadvance-m-nightly.json,Calinou/scoop-games
 livesplit.json,Calinou/scoop-games
 project64-dev.json,Calinou/scoop-games
@@ -530,7 +531,6 @@ mekhq-dev.json,Calinou/scoop-games
 openspades.json,Calinou/scoop-games
 assetstudio.json,Calinou/scoop-games
 mighty-mike.json,Calinou/scoop-games
-minetest.json,Calinou/scoop-games
 sixcells.json,Calinou/scoop-games
 openrct2.json,Calinou/scoop-games
 angband-dev.json,Calinou/scoop-games
@@ -1700,6 +1700,7 @@ libportable-floorp-lightning.json,hoilc/scoop-lemon
 azpainter2.json,hoilc/scoop-lemon
 nordpass.json,hoilc/scoop-lemon
 agent-ransack.json,hoilc/scoop-lemon
+karing.json,hoilc/scoop-lemon
 cosmo-rsync.json,hoilc/scoop-lemon
 windows-terminal-quake.json,hoilc/scoop-lemon
 wimlib_hoilc.json,hoilc/scoop-lemon
@@ -1800,7 +1801,6 @@ subtitle-renamer.json,hoilc/scoop-lemon
 cmailgui.json,hoilc/scoop-lemon
 uplink.json,hoilc/scoop-lemon
 xboxdownload.json,hoilc/scoop-lemon
-tun2brook.json,hoilc/scoop-lemon
 n_m3u8dl-cli_hoilc.json,hoilc/scoop-lemon
 w2vgrep.json,hoilc/scoop-lemon
 rimage_gui.json,hoilc/scoop-lemon
@@ -1838,6 +1838,7 @@ ztm.json,hoilc/scoop-lemon
 coscli.json,hoilc/scoop-lemon
 smuxi.json,hoilc/scoop-lemon
 cassowary.json,hoilc/scoop-lemon
+ipio.json,hoilc/scoop-lemon
 petaclone.json,hoilc/scoop-lemon
 argc.json,hoilc/scoop-lemon
 splayer-legacy.json,hoilc/scoop-lemon
