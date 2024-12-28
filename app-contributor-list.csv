@@ -1251,6 +1251,7 @@ otpauth.json,hoilc/scoop-lemon
 window-switcher.json,hoilc/scoop-lemon
 flyedit.json,hoilc/scoop-lemon
 jardiff.json,hoilc/scoop-lemon
+portqryui.json,hoilc/scoop-lemon
 spyex.json,hoilc/scoop-lemon
 keepassxc-snapshot.json,hoilc/scoop-lemon
 catsxp.json,hoilc/scoop-lemon
@@ -1382,6 +1383,7 @@ nagstamon.json,hoilc/scoop-lemon
 paperbak.json,hoilc/scoop-lemon
 hap-viewer.json,hoilc/scoop-lemon
 flarectl.json,hoilc/scoop-lemon
+portqry.json,hoilc/scoop-lemon
 ryzentuner.json,hoilc/scoop-lemon
 sleep.json,hoilc/scoop-lemon
 beaver-notes.json,hoilc/scoop-lemon
@@ -2380,6 +2382,7 @@ risoheditor.json,hoilc/scoop-lemon
 chirp-next.json,hoilc/scoop-lemon
 privazer.json,hoilc/scoop-lemon
 copy-translator-rust.json,hoilc/scoop-lemon
+browserpicker.json,hoilc/scoop-lemon
 devtunnel.json,hoilc/scoop-lemon
 pe-anatomist.json,hoilc/scoop-lemon
 ferret.json,hoilc/scoop-lemon
