@@ -1131,6 +1131,7 @@ rickrack.json,hoilc/scoop-lemon
 usbeam-consoles-dns.json,hoilc/scoop-lemon
 ryzentuner.json,hoilc/scoop-lemon
 balcon.json,hoilc/scoop-lemon
+nping.json,hoilc/scoop-lemon
 ismylcdok.json,hoilc/scoop-lemon
 gosmee.json,hoilc/scoop-lemon
 ztm.json,hoilc/scoop-lemon
@@ -1387,7 +1388,7 @@ img-convert.json,hoilc/scoop-lemon
 pot_hoilc.json,hoilc/scoop-lemon
 ailz80asm.json,hoilc/scoop-lemon
 collectd_exporter.json,hoilc/scoop-lemon
-pixi_hoilc.json,hoilc/scoop-lemon
+pixi.json,hoilc/scoop-lemon
 influxdb_exporter.json,hoilc/scoop-lemon
 uplink.json,hoilc/scoop-lemon
 firealpaca.json,hoilc/scoop-lemon
@@ -1436,7 +1437,7 @@ malm.json,hoilc/scoop-lemon
 1history.json,hoilc/scoop-lemon
 jellycli.json,hoilc/scoop-lemon
 wxautoexim.json,hoilc/scoop-lemon
-rare_hoilc.json,hoilc/scoop-lemon
+rare.json,hoilc/scoop-lemon
 royalts.json,hoilc/scoop-lemon
 helmify.json,hoilc/scoop-lemon
 bookxnote.json,hoilc/scoop-lemon
@@ -2188,7 +2189,7 @@ stereo-photo-maker.json,hoilc/scoop-lemon
 flyhotkey.json,hoilc/scoop-lemon
 zincsearch.json,hoilc/scoop-lemon
 rimage_gui.json,hoilc/scoop-lemon
-usbeam-hosts-editor_hoilc.json,hoilc/scoop-lemon
+usbeam-hosts-editor.json,hoilc/scoop-lemon
 myqrcodescanner.json,hoilc/scoop-lemon
 whisper-model-ggml-large.json,hoilc/scoop-lemon
 stegsnow.json,hoilc/scoop-lemon
