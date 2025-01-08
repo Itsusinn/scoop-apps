@@ -1388,7 +1388,7 @@ img-convert.json,hoilc/scoop-lemon
 pot_hoilc.json,hoilc/scoop-lemon
 ailz80asm.json,hoilc/scoop-lemon
 collectd_exporter.json,hoilc/scoop-lemon
-pixi.json,hoilc/scoop-lemon
+pixi_hoilc.json,hoilc/scoop-lemon
 influxdb_exporter.json,hoilc/scoop-lemon
 uplink.json,hoilc/scoop-lemon
 firealpaca.json,hoilc/scoop-lemon
@@ -1896,6 +1896,7 @@ tilt.json,hoilc/scoop-lemon
 pdg2pic.json,hoilc/scoop-lemon
 mongodb-compass.json,hoilc/scoop-lemon
 oda-file-converter.json,hoilc/scoop-lemon
+twinbasic.json,hoilc/scoop-lemon
 thumbcacheviewer.json,hoilc/scoop-lemon
 liii.json,hoilc/scoop-lemon
 simple-firefox-backup.json,hoilc/scoop-lemon
