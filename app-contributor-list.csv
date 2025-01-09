@@ -1691,6 +1691,7 @@ nvenc.json,hoilc/scoop-lemon
 proxypin.json,hoilc/scoop-lemon
 fluent-bit.json,hoilc/scoop-lemon
 par2.json,hoilc/scoop-lemon
+daytona.json,hoilc/scoop-lemon
 jellyfin-media-player.json,hoilc/scoop-lemon
 crosspaste.json,hoilc/scoop-lemon
 privaxy-nogui.json,hoilc/scoop-lemon
@@ -1982,6 +1983,7 @@ dapr.json,hoilc/scoop-lemon
 azqr.json,hoilc/scoop-lemon
 lyricify.json,hoilc/scoop-lemon
 nordpass.json,hoilc/scoop-lemon
+mcfly.json,hoilc/scoop-lemon
 syft_hoilc.json,hoilc/scoop-lemon
 grype_hoilc.json,hoilc/scoop-lemon
 foobox-cn.json,hoilc/scoop-lemon
@@ -2036,6 +2038,7 @@ dufs_hoilc.json,hoilc/scoop-lemon
 rundeck-cli.json,hoilc/scoop-lemon
 piping-server-rust.json,hoilc/scoop-lemon
 faac.json,hoilc/scoop-lemon
+go2rtc.json,hoilc/scoop-lemon
 lunatranslator.json,hoilc/scoop-lemon
 wifi-filter-tool.json,hoilc/scoop-lemon
 cybr-cli.json,hoilc/scoop-lemon
