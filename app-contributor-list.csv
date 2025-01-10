@@ -554,6 +554,7 @@ twitchdropsminer.json,Calinou/scoop-games
 reggie-next.json,Calinou/scoop-games
 shadps4.json,Calinou/scoop-games
 vkquake.json,Calinou/scoop-games
+uabea.json,Calinou/scoop-games
 bugdom.json,Calinou/scoop-games
 rgbds.json,Calinou/scoop-games
 rimpy.json,Calinou/scoop-games
@@ -723,7 +724,6 @@ weakauras-companion.json,Calinou/scoop-games
 rmg.json,Calinou/scoop-games
 minecraft.json,Calinou/scoop-games
 pyfa.json,Calinou/scoop-games
-ryujinx-ava.json,Calinou/scoop-games
 duckstation-preview.json,Calinou/scoop-games
 raine.json,Calinou/scoop-games
 powdertoy.json,Calinou/scoop-games
@@ -1097,6 +1097,7 @@ libavif_hoilc.json,hoilc/scoop-lemon
 stern_hoilc.json,hoilc/scoop-lemon
 wingetui_hoilc.json,hoilc/scoop-lemon
 kite-todo.json,hoilc/scoop-lemon
+fermyon-spin.json,hoilc/scoop-lemon
 infobar.json,hoilc/scoop-lemon
 jp_hoilc.json,hoilc/scoop-lemon
 webd.json,hoilc/scoop-lemon
@@ -1169,6 +1170,7 @@ spooky-view.json,hoilc/scoop-lemon
 wing-101.json,hoilc/scoop-lemon
 twexe.json,hoilc/scoop-lemon
 djvutoy.json,hoilc/scoop-lemon
+sling.json,hoilc/scoop-lemon
 ileapp.json,hoilc/scoop-lemon
 exdupe.json,hoilc/scoop-lemon
 credhub-cli.json,hoilc/scoop-lemon
@@ -1428,6 +1430,7 @@ uyou-todo.json,hoilc/scoop-lemon
 lame-front-end.json,hoilc/scoop-lemon
 nps-server.json,hoilc/scoop-lemon
 terranetes-cli.json,hoilc/scoop-lemon
+hayabusa.json,hoilc/scoop-lemon
 speakeasy.json,hoilc/scoop-lemon
 jpexs-decompiler.json,hoilc/scoop-lemon
 keynote-nf.json,hoilc/scoop-lemon
@@ -1479,6 +1482,7 @@ spacectl.json,hoilc/scoop-lemon
 vmutils-enterprise.json,hoilc/scoop-lemon
 ingress2gateway.json,hoilc/scoop-lemon
 bookget.json,hoilc/scoop-lemon
+takajo.json,hoilc/scoop-lemon
 library.net-standard.json,hoilc/scoop-lemon
 pulsarctl.json,hoilc/scoop-lemon
 fontmassive.json,hoilc/scoop-lemon
@@ -1524,6 +1528,7 @@ find.same.images.ok.json,hoilc/scoop-lemon
 jan.json,hoilc/scoop-lemon
 tanglet.json,hoilc/scoop-lemon
 whatsapp-chat-exporter.json,hoilc/scoop-lemon
+pipet.json,hoilc/scoop-lemon
 biliup.json,hoilc/scoop-lemon
 curlie_hoilc.json,hoilc/scoop-lemon
 7zip-zs.json,hoilc/scoop-lemon
@@ -1786,6 +1791,7 @@ kubectl-argo-rollouts.json,hoilc/scoop-lemon
 maxthon5.json,hoilc/scoop-lemon
 xelitan-pdf-reader.json,hoilc/scoop-lemon
 winfindr.json,hoilc/scoop-lemon
+velociraptor.json,hoilc/scoop-lemon
 oneanime.json,hoilc/scoop-lemon
 zrok.json,hoilc/scoop-lemon
 libportable-iceweasel.json,hoilc/scoop-lemon
@@ -1821,6 +1827,7 @@ fuso.json,hoilc/scoop-lemon
 winscan2pdf.json,hoilc/scoop-lemon
 revanced-cli.json,hoilc/scoop-lemon
 anto.json,hoilc/scoop-lemon
+gowitness.json,hoilc/scoop-lemon
 ppftpd.json,hoilc/scoop-lemon
 redis_exporter.json,hoilc/scoop-lemon
 kui.json,hoilc/scoop-lemon
@@ -2344,6 +2351,7 @@ infracost.json,hoilc/scoop-lemon
 dns-jumper.json,hoilc/scoop-lemon
 picard.json,hoilc/scoop-lemon
 udpspeeder.json,hoilc/scoop-lemon
+wush.json,hoilc/scoop-lemon
 winmouse.json,hoilc/scoop-lemon
 amazon-ec2-instance-selector.json,hoilc/scoop-lemon
 serialtest.json,hoilc/scoop-lemon
@@ -2400,6 +2408,7 @@ multi-gitter.json,hoilc/scoop-lemon
 pictor.json,hoilc/scoop-lemon
 pinga.json,hoilc/scoop-lemon
 devolutions-launcher.json,hoilc/scoop-lemon
+flyscrape.json,hoilc/scoop-lemon
 freerdp.json,hoilc/scoop-lemon
 pdfcommander.json,hoilc/scoop-lemon
 pode.json,hoilc/scoop-lemon
