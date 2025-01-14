@@ -1390,7 +1390,7 @@ img-convert.json,hoilc/scoop-lemon
 pot_hoilc.json,hoilc/scoop-lemon
 ailz80asm.json,hoilc/scoop-lemon
 collectd_exporter.json,hoilc/scoop-lemon
-pixi_hoilc.json,hoilc/scoop-lemon
+pixi.json,hoilc/scoop-lemon
 influxdb_exporter.json,hoilc/scoop-lemon
 uplink.json,hoilc/scoop-lemon
 firealpaca.json,hoilc/scoop-lemon
@@ -2229,7 +2229,7 @@ pdgcnteditor-eng.json,hoilc/scoop-lemon
 seppdf.json,hoilc/scoop-lemon
 zmeter.json,hoilc/scoop-lemon
 ente-auth.json,hoilc/scoop-lemon
-tockler_hoilc.json,hoilc/scoop-lemon
+tockler.json,hoilc/scoop-lemon
 qmmp.json,hoilc/scoop-lemon
 seqkit.json,hoilc/scoop-lemon
 rawviewer.json,hoilc/scoop-lemon
