@@ -847,7 +847,7 @@ altserver.json,chawyehsu/dorado
 nomeiryoui.json,chawyehsu/dorado
 perfectworldarena.json,chawyehsu/dorado
 firefox-developer-zh-cn.json,chawyehsu/dorado
-bypass_chawyehsu.json,chawyehsu/dorado
+bypass.json,chawyehsu/dorado
 pot.json,chawyehsu/dorado
 winlibs-mingw-ucrt-snapshot.json,chawyehsu/dorado
 pixi.json,chawyehsu/dorado
@@ -1390,7 +1390,7 @@ img-convert.json,hoilc/scoop-lemon
 pot_hoilc.json,hoilc/scoop-lemon
 ailz80asm.json,hoilc/scoop-lemon
 collectd_exporter.json,hoilc/scoop-lemon
-pixi.json,hoilc/scoop-lemon
+pixi_hoilc.json,hoilc/scoop-lemon
 influxdb_exporter.json,hoilc/scoop-lemon
 uplink.json,hoilc/scoop-lemon
 firealpaca.json,hoilc/scoop-lemon
@@ -1440,7 +1440,7 @@ malm.json,hoilc/scoop-lemon
 1history.json,hoilc/scoop-lemon
 jellycli.json,hoilc/scoop-lemon
 wxautoexim.json,hoilc/scoop-lemon
-rare.json,hoilc/scoop-lemon
+rare_hoilc.json,hoilc/scoop-lemon
 royalts.json,hoilc/scoop-lemon
 helmify.json,hoilc/scoop-lemon
 bookxnote.json,hoilc/scoop-lemon
@@ -2229,7 +2229,7 @@ pdgcnteditor-eng.json,hoilc/scoop-lemon
 seppdf.json,hoilc/scoop-lemon
 zmeter.json,hoilc/scoop-lemon
 ente-auth.json,hoilc/scoop-lemon
-tockler.json,hoilc/scoop-lemon
+tockler_hoilc.json,hoilc/scoop-lemon
 qmmp.json,hoilc/scoop-lemon
 seqkit.json,hoilc/scoop-lemon
 rawviewer.json,hoilc/scoop-lemon
