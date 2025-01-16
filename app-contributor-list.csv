@@ -215,6 +215,7 @@ Game-Cheats-Manager.json,Weidows-projects/scoop-3rd
 Edge-Webdriver.json,Weidows-projects/scoop-3rd
 obs-plugin-backgroundremoval.json,Weidows-projects/scoop-3rd
 obs-plugin-scale-to-sound.json,Weidows-projects/scoop-3rd
+UsbEAm-Hosts-Editor.json,Weidows-projects/scoop-3rd
 AIStarter.json,Weidows-projects/scoop-3rd
 PanJi-GreenTools.json,Weidows-projects/scoop-3rd
 pipx-poetry.json,Weidows-projects/scoop-3rd
@@ -847,7 +848,7 @@ altserver.json,chawyehsu/dorado
 nomeiryoui.json,chawyehsu/dorado
 perfectworldarena.json,chawyehsu/dorado
 firefox-developer-zh-cn.json,chawyehsu/dorado
-bypass.json,chawyehsu/dorado
+bypass_chawyehsu.json,chawyehsu/dorado
 pot.json,chawyehsu/dorado
 winlibs-mingw-ucrt-snapshot.json,chawyehsu/dorado
 pixi.json,chawyehsu/dorado
@@ -2200,7 +2201,7 @@ stereo-photo-maker.json,hoilc/scoop-lemon
 flyhotkey.json,hoilc/scoop-lemon
 zincsearch.json,hoilc/scoop-lemon
 rimage_gui.json,hoilc/scoop-lemon
-usbeam-hosts-editor.json,hoilc/scoop-lemon
+usbeam-hosts-editor_hoilc.json,hoilc/scoop-lemon
 myqrcodescanner.json,hoilc/scoop-lemon
 whisper-model-ggml-large.json,hoilc/scoop-lemon
 stegsnow.json,hoilc/scoop-lemon
