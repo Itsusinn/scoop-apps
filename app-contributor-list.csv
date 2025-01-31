@@ -1057,6 +1057,7 @@ cctv-ysyy.json,chawyehsu/dorado
 kftray.json,hoilc/scoop-lemon
 artweaver-free.json,hoilc/scoop-lemon
 whisper-model-ggml-tiny.json,hoilc/scoop-lemon
+maple-mono-nf-cn-hinted.json,hoilc/scoop-lemon
 kcptun_hoilc.json,hoilc/scoop-lemon
 riftshare.json,hoilc/scoop-lemon
 oneanime.json,hoilc/scoop-lemon
@@ -1133,6 +1134,7 @@ audio-router.json,hoilc/scoop-lemon
 m4acut.json,hoilc/scoop-lemon
 gaphor.json,hoilc/scoop-lemon
 keepass-plugin-keepassotp.json,hoilc/scoop-lemon
+maple-mono-nf-hinted.json,hoilc/scoop-lemon
 iplookup.json,hoilc/scoop-lemon
 clickmonitorddc.json,hoilc/scoop-lemon
 boom.json,hoilc/scoop-lemon
@@ -1521,6 +1523,7 @@ comicenhancepro.json,hoilc/scoop-lemon
 oggenc2-libvorbis-aotuv.json,hoilc/scoop-lemon
 icloudpd.json,hoilc/scoop-lemon
 coscli.json,hoilc/scoop-lemon
+maple-mono-nerd@6.json,hoilc/scoop-lemon
 kubeaudit.json,hoilc/scoop-lemon
 little-tips.json,hoilc/scoop-lemon
 netchat.json,hoilc/scoop-lemon
@@ -1779,6 +1782,7 @@ dbgate.json,hoilc/scoop-lemon
 primesieve.json,hoilc/scoop-lemon
 sftpgo_hoilc.json,hoilc/scoop-lemon
 dnote.json,hoilc/scoop-lemon
+uboost.json,hoilc/scoop-lemon
 epubcheck.json,hoilc/scoop-lemon
 dtlspipe.json,hoilc/scoop-lemon
 stereo-photo-maker.json,hoilc/scoop-lemon
@@ -1958,7 +1962,7 @@ takajo.json,hoilc/scoop-lemon
 ainiee.json,hoilc/scoop-lemon
 rawcopy.json,hoilc/scoop-lemon
 moonbit.json,hoilc/scoop-lemon
-ediary_hoilc.json,hoilc/scoop-lemon
+ediary.json,hoilc/scoop-lemon
 shanggu-mono-sc.json,hoilc/scoop-lemon
 actions-usage.json,hoilc/scoop-lemon
 vtex2.json,hoilc/scoop-lemon
@@ -1966,6 +1970,7 @@ resource.net.json,hoilc/scoop-lemon
 imgdrive.json,hoilc/scoop-lemon
 metabase_hoilc.json,hoilc/scoop-lemon
 luaperfect.json,hoilc/scoop-lemon
+maple-mono-hinted.json,hoilc/scoop-lemon
 craftlaunch.json,hoilc/scoop-lemon
 privazer.json,hoilc/scoop-lemon
 wush.json,hoilc/scoop-lemon
@@ -1983,7 +1988,6 @@ azqr.json,hoilc/scoop-lemon
 macchina_hoilc.json,hoilc/scoop-lemon
 whynotwin11.json,hoilc/scoop-lemon
 equinix-metal-cli.json,hoilc/scoop-lemon
-maple-mono-sc-nerd.json,hoilc/scoop-lemon
 suyu.json,hoilc/scoop-lemon
 speex.json,hoilc/scoop-lemon
 ingress2gateway.json,hoilc/scoop-lemon
@@ -2014,6 +2018,7 @@ neeview.json,hoilc/scoop-lemon
 tlrc_hoilc.json,hoilc/scoop-lemon
 ts-dns.json,hoilc/scoop-lemon
 plebbit-cli.json,hoilc/scoop-lemon
+printpdf.json,hoilc/scoop-lemon
 guid-generator.json,hoilc/scoop-lemon
 move2kube.json,hoilc/scoop-lemon
 tinyportmapper.json,hoilc/scoop-lemon
@@ -2021,7 +2026,6 @@ zeta-resource-editor.json,hoilc/scoop-lemon
 ns-emu-tools.json,hoilc/scoop-lemon
 jnv.json,hoilc/scoop-lemon
 anto.json,hoilc/scoop-lemon
-maple-mono-nerd.json,hoilc/scoop-lemon
 cyanrip.json,hoilc/scoop-lemon
 quardcrt.json,hoilc/scoop-lemon
 blb2txt.json,hoilc/scoop-lemon
@@ -2067,6 +2071,7 @@ hyplayer.json,hoilc/scoop-lemon
 winmouse.json,hoilc/scoop-lemon
 tunnelto.json,hoilc/scoop-lemon
 wing-101.json,hoilc/scoop-lemon
+gpujpeg-nightly.json,hoilc/scoop-lemon
 ferret.json,hoilc/scoop-lemon
 qwiktape.json,hoilc/scoop-lemon
 shanggu-mono-tc.json,hoilc/scoop-lemon
@@ -2096,6 +2101,7 @@ colored-text.json,hoilc/scoop-lemon
 kapow.json,hoilc/scoop-lemon
 cloudflarespeedtest.json,hoilc/scoop-lemon
 monochrome.json,hoilc/scoop-lemon
+maple-mono-sc-nerd@6.json,hoilc/scoop-lemon
 3body-lang.json,hoilc/scoop-lemon
 splayer-legacy.json,hoilc/scoop-lemon
 milvus_cli.json,hoilc/scoop-lemon
@@ -2140,6 +2146,7 @@ arthas_hoilc.json,hoilc/scoop-lemon
 space-cli.json,hoilc/scoop-lemon
 iroh_hoilc.json,hoilc/scoop-lemon
 brook.json,hoilc/scoop-lemon
+maple-mono@6.json,hoilc/scoop-lemon
 mongodb-compass-isolated.json,hoilc/scoop-lemon
 redis-rdb-cli.json,hoilc/scoop-lemon
 pacaptr.json,hoilc/scoop-lemon
@@ -2204,6 +2211,7 @@ juicefs_hoilc.json,hoilc/scoop-lemon
 ipio.json,hoilc/scoop-lemon
 daytona.json,hoilc/scoop-lemon
 whatsapp-chat-exporter.json,hoilc/scoop-lemon
+maple-mono-nf.json,hoilc/scoop-lemon
 whisper-model-ggml-base.json,hoilc/scoop-lemon
 xrun.json,hoilc/scoop-lemon
 autohidemousecursor.json,hoilc/scoop-lemon
@@ -2399,6 +2407,7 @@ lamedropxpd.json,hoilc/scoop-lemon
 katana.json,hoilc/scoop-lemon
 spline.json,hoilc/scoop-lemon
 otpauth.json,hoilc/scoop-lemon
+maple-mono-nf-cn.json,hoilc/scoop-lemon
 windctl.json,hoilc/scoop-lemon
 minbrowser.json,hoilc/scoop-lemon
 vgrep.json,hoilc/scoop-lemon
