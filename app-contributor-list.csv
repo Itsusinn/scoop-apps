@@ -1164,6 +1164,7 @@ dbmigration.net.json,hoilc/scoop-lemon
 flyscrape.json,hoilc/scoop-lemon
 popeye.json,hoilc/scoop-lemon
 statsd_exporter.json,hoilc/scoop-lemon
+iamb.json,hoilc/scoop-lemon
 pcap2socks.json,hoilc/scoop-lemon
 liii.json,hoilc/scoop-lemon
 neat-reader.json,hoilc/scoop-lemon
@@ -1213,6 +1214,7 @@ cosmo-berry.json,hoilc/scoop-lemon
 wing-personal.json,hoilc/scoop-lemon
 amass_hoilc.json,hoilc/scoop-lemon
 adobe-creative-cloud-cleaner-tool.json,hoilc/scoop-lemon
+iris-player.json,hoilc/scoop-lemon
 vesta.json,hoilc/scoop-lemon
 remetrics.json,hoilc/scoop-lemon
 oggdropxpd-libvorbis.json,hoilc/scoop-lemon
@@ -2023,6 +2025,7 @@ guid-generator.json,hoilc/scoop-lemon
 move2kube.json,hoilc/scoop-lemon
 tinyportmapper.json,hoilc/scoop-lemon
 zeta-resource-editor.json,hoilc/scoop-lemon
+parabolic.json,hoilc/scoop-lemon
 ns-emu-tools.json,hoilc/scoop-lemon
 jnv.json,hoilc/scoop-lemon
 anto.json,hoilc/scoop-lemon
