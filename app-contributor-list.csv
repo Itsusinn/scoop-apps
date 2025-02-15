@@ -1308,7 +1308,7 @@ ediary3.json,hoilc/scoop-lemon
 twinkstar.json,hoilc/scoop-lemon
 biyi.json,hoilc/scoop-lemon
 spacectl.json,hoilc/scoop-lemon
-nuclei.json,hoilc/scoop-lemon
+nuclei_hoilc.json,hoilc/scoop-lemon
 sftpgo_hoilc.json,hoilc/scoop-lemon
 sakurafrp-launcher.json,hoilc/scoop-lemon
 tabula-cli.json,hoilc/scoop-lemon
@@ -1641,7 +1641,7 @@ kyverno-cli_hoilc.json,hoilc/scoop-lemon
 stegsolve.json,hoilc/scoop-lemon
 cmail.json,hoilc/scoop-lemon
 jpexs-decompiler.json,hoilc/scoop-lemon
-jnv.json,hoilc/scoop-lemon
+jnv_hoilc.json,hoilc/scoop-lemon
 cosmo-redbean.json,hoilc/scoop-lemon
 btrace.json,hoilc/scoop-lemon
 gbm.json,hoilc/scoop-lemon
@@ -1806,7 +1806,7 @@ rpk.json,hoilc/scoop-lemon
 freepic2pdf.json,hoilc/scoop-lemon
 zhconv-rs.json,hoilc/scoop-lemon
 osm.json,hoilc/scoop-lemon
-popeye.json,hoilc/scoop-lemon
+popeye_hoilc.json,hoilc/scoop-lemon
 manyverse.json,hoilc/scoop-lemon
 tdengine-server.json,hoilc/scoop-lemon
 blankandsecure.json,hoilc/scoop-lemon
@@ -1846,7 +1846,7 @@ bookxnote.json,hoilc/scoop-lemon
 openobserve.json,hoilc/scoop-lemon
 gchecksum.json,hoilc/scoop-lemon
 ink-canvas.json,hoilc/scoop-lemon
-terrascan.json,hoilc/scoop-lemon
+terrascan_hoilc.json,hoilc/scoop-lemon
 slimpdfreader.json,hoilc/scoop-lemon
 foobox-en.json,hoilc/scoop-lemon
 spin.json,hoilc/scoop-lemon
@@ -2420,6 +2420,7 @@ pinwin.json,hoilc/scoop-lemon
 guid-generator.json,hoilc/scoop-lemon
 maxthon.json,hoilc/scoop-lemon
 icloudpd.json,hoilc/scoop-lemon
+lmms-nightly.json,hoilc/scoop-lemon
 cpix.json,hoilc/scoop-lemon
 nip2.json,hoilc/scoop-lemon
 loophole-cli.json,hoilc/scoop-lemon
