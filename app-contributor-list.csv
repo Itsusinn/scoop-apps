@@ -234,6 +234,7 @@ N0vaDesktop.json,Weidows-projects/scoop-3rd
 warp-cloudflare.json,Weidows-projects/scoop-3rd
 gptcommit.json,Weidows-projects/scoop-3rd
 waveterm.json,Weidows-projects/scoop-3rd
+SideQuest.json,Weidows-projects/scoop-3rd
 BADownloaderUI.json,Weidows-projects/scoop-3rd
 KitX.json,Weidows-projects/scoop-3rd
 Nyushu-font.json,Weidows-projects/scoop-3rd
@@ -1449,7 +1450,7 @@ customrp.json,hoilc/scoop-lemon
 dbmigration.net.json,hoilc/scoop-lemon
 imbatch.json,hoilc/scoop-lemon
 pinwin.json,hoilc/scoop-lemon
-jprq.json,hoilc/scoop-lemon
+jprq_hoilc.json,hoilc/scoop-lemon
 trzsz_hoilc.json,hoilc/scoop-lemon
 privexec.json,hoilc/scoop-lemon
 csvbuddy.json,hoilc/scoop-lemon
@@ -1521,6 +1522,7 @@ paperlib.json,hoilc/scoop-lemon
 wifi-filter-tool.json,hoilc/scoop-lemon
 comicenhancepro-eng.json,hoilc/scoop-lemon
 tdengine-client.json,hoilc/scoop-lemon
+bestsub.json,hoilc/scoop-lemon
 ovftool.json,hoilc/scoop-lemon
 qwiktape.json,hoilc/scoop-lemon
 kftray.json,hoilc/scoop-lemon
@@ -1674,7 +1676,6 @@ blb2txt.json,hoilc/scoop-lemon
 dtlspipe.json,hoilc/scoop-lemon
 kbld.json,hoilc/scoop-lemon
 wgcf-cli.json,hoilc/scoop-lemon
-subs-check.json,hoilc/scoop-lemon
 gaphor.json,hoilc/scoop-lemon
 suyu.json,hoilc/scoop-lemon
 path-locate.json,hoilc/scoop-lemon
