@@ -1154,6 +1154,7 @@ dorion.json,hoilc/scoop-lemon
 legendary_hoilc.json,hoilc/scoop-lemon
 x2goclient.json,hoilc/scoop-lemon
 shanggu-sans.json,hoilc/scoop-lemon
+graalpy-community.json,hoilc/scoop-lemon
 minipad2.json,hoilc/scoop-lemon
 windows-terminal-quake.json,hoilc/scoop-lemon
 foobox-cn.json,hoilc/scoop-lemon
@@ -1234,6 +1235,7 @@ thesage.json,hoilc/scoop-lemon
 glow_hoilc.json,hoilc/scoop-lemon
 cherry-studio.json,hoilc/scoop-lemon
 spacectl.json,hoilc/scoop-lemon
+graaljs-community-jvm.json,hoilc/scoop-lemon
 win11syscheck.json,hoilc/scoop-lemon
 fenrirfs.json,hoilc/scoop-lemon
 verycapture.json,hoilc/scoop-lemon
@@ -1270,6 +1272,7 @@ skylark.json,hoilc/scoop-lemon
 odbc2parquet_hoilc.json,hoilc/scoop-lemon
 metatogger.json,hoilc/scoop-lemon
 msieve.json,hoilc/scoop-lemon
+graaljs-community.json,hoilc/scoop-lemon
 betterbird.json,hoilc/scoop-lemon
 turbowarp.json,hoilc/scoop-lemon
 agent-ransack.json,hoilc/scoop-lemon
@@ -1650,6 +1653,7 @@ speakeasy.json,hoilc/scoop-lemon
 twinkstar.json,hoilc/scoop-lemon
 oplus-sans.json,hoilc/scoop-lemon
 realm_hoilc.json,hoilc/scoop-lemon
+graalpy-community-jdk.json,hoilc/scoop-lemon
 printpdf.json,hoilc/scoop-lemon
 terrascan_hoilc.json,hoilc/scoop-lemon
 linkbar.json,hoilc/scoop-lemon
@@ -1748,6 +1752,7 @@ desktopnoteok.json,hoilc/scoop-lemon
 iplookup.json,hoilc/scoop-lemon
 gosmee.json,hoilc/scoop-lemon
 anchor-cli.json,hoilc/scoop-lemon
+graaljs-jvm.json,hoilc/scoop-lemon
 ente-photos.json,hoilc/scoop-lemon
 winmouse.json,hoilc/scoop-lemon
 zpaqfranz.json,hoilc/scoop-lemon
@@ -1803,6 +1808,7 @@ portqryui.json,hoilc/scoop-lemon
 shanggu-sans-tc.json,hoilc/scoop-lemon
 msieve-gpu.json,hoilc/scoop-lemon
 nps-client_hoilc.json,hoilc/scoop-lemon
+graalpy-jvm.json,hoilc/scoop-lemon
 privacy-eraser.json,hoilc/scoop-lemon
 quickjs.json,hoilc/scoop-lemon
 winscan2pdf.json,hoilc/scoop-lemon
@@ -1811,6 +1817,7 @@ media-unlock-test.json,hoilc/scoop-lemon
 summon.json,hoilc/scoop-lemon
 ente-cli.json,hoilc/scoop-lemon
 odfe-cli.json,hoilc/scoop-lemon
+graaljs.json,hoilc/scoop-lemon
 copy-translator-rust.json,hoilc/scoop-lemon
 redpandacpp.json,hoilc/scoop-lemon
 ns-emu-tools.json,hoilc/scoop-lemon
@@ -2163,6 +2170,7 @@ srtedit.json,hoilc/scoop-lemon
 cloudquery.json,hoilc/scoop-lemon
 dictionary.net.json,hoilc/scoop-lemon
 winfrgui.json,hoilc/scoop-lemon
+graalpy.json,hoilc/scoop-lemon
 tanka.json,hoilc/scoop-lemon
 verysimple.json,hoilc/scoop-lemon
 yida.json,hoilc/scoop-lemon
@@ -2280,6 +2288,7 @@ minbrowser.json,hoilc/scoop-lemon
 ncmdump.json,hoilc/scoop-lemon
 proto.json,hoilc/scoop-lemon
 xpipe.json,hoilc/scoop-lemon
+pdx-unlimiter.json,hoilc/scoop-lemon
 simplehttpserver.json,hoilc/scoop-lemon
 luaperfect.json,hoilc/scoop-lemon
 autocorrect_hoilc.json,hoilc/scoop-lemon
