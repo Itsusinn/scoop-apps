@@ -305,6 +305,7 @@ aws-portable.json,Weidows-projects/scoop-3rd
 git-all.json,Weidows-projects/scoop-3rd
 UsbEAm-Hosts-Editor.json,Weidows-projects/scoop-3rd
 GitHub520.json,Weidows-projects/scoop-3rd
+chrome-for-testing121.json,Weidows-projects/scoop-3rd
 wutils.json,Weidows-projects/scoop-3rd
 fav.json,Weidows-projects/scoop-3rd
 biliTickerBuy.json,Weidows-projects/scoop-3rd
@@ -339,6 +340,7 @@ UltraUXThemePatcher.json,Weidows-projects/scoop-3rd
 XYplorer.json,Weidows-projects/scoop-3rd
 Lively-Wallpaper.json,Weidows-projects/scoop-3rd
 Dependency-Walker.json,Weidows-projects/scoop-3rd
+chrome121.json,Weidows-projects/scoop-3rd
 AIStarter.json,Weidows-projects/scoop-3rd
 CefDetectorX.json,Weidows-projects/scoop-3rd
 PCmaster.json,Weidows-projects/scoop-3rd
@@ -357,6 +359,7 @@ Jvedio.json,Weidows-projects/scoop-3rd
 DnsTools.json,Weidows-projects/scoop-3rd
 He3.json,Weidows-projects/scoop-3rd
 windows-defender-control.json,Weidows-projects/scoop-3rd
+chrome103.json,Weidows-projects/scoop-3rd
 bilibili-backup.json,Weidows-projects/scoop-3rd
 cudnn.json,Weidows-projects/scoop-3rd
 ja-netfilter-modified.json,Weidows-projects/scoop-3rd
@@ -1434,6 +1437,7 @@ ultrasearch.json,hoilc/scoop-lemon
 ts-dns.json,hoilc/scoop-lemon
 ona-pix.json,hoilc/scoop-lemon
 gitlab-release-cli_hoilc.json,hoilc/scoop-lemon
+clash-nyanpasu-nightly.json,hoilc/scoop-lemon
 keepass-plugin-keepasswinhello.json,hoilc/scoop-lemon
 wpd.json,hoilc/scoop-lemon
 maple-mono-nf-cn-hinted.json,hoilc/scoop-lemon
