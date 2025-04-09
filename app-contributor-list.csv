@@ -338,6 +338,7 @@ Bongocat-Mver.json,Weidows-projects/scoop-3rd
 hfd.json,Weidows-projects/scoop-3rd
 UltraUXThemePatcher.json,Weidows-projects/scoop-3rd
 XYplorer.json,Weidows-projects/scoop-3rd
+Thunder-Professional.json,Weidows-projects/scoop-3rd
 Lively-Wallpaper.json,Weidows-projects/scoop-3rd
 Dependency-Walker.json,Weidows-projects/scoop-3rd
 chrome121.json,Weidows-projects/scoop-3rd
@@ -484,6 +485,7 @@ toontownfellowship.json,Calinou/scoop-games
 lambdahack.json,Calinou/scoop-games
 snes9x.json,Calinou/scoop-games
 bsnes.json,Calinou/scoop-games
+azahar.json,Calinou/scoop-games
 angband-dev.json,Calinou/scoop-games
 applewin.json,Calinou/scoop-games
 visualboyadvance-m.json,Calinou/scoop-games
@@ -533,6 +535,7 @@ pegasus.json,Calinou/scoop-games
 ddnet.json,Calinou/scoop-games
 crewchief.json,Calinou/scoop-games
 cataclysm-dda.json,Calinou/scoop-games
+reloaded-ii.json,Calinou/scoop-games
 livesplit.json,Calinou/scoop-games
 vdrift.json,Calinou/scoop-games
 xebra.json,Calinou/scoop-games
@@ -851,6 +854,7 @@ triangula.json,chawyehsu/dorado
 rustup-np.json,chawyehsu/dorado
 electerm_chawyehsu.json,chawyehsu/dorado
 thunderbird-beta-zh-cn.json,chawyehsu/dorado
+wasm-tools.json,chawyehsu/dorado
 imagine.json,chawyehsu/dorado
 wasm-pack.json,chawyehsu/dorado
 solidity_chawyehsu.json,chawyehsu/dorado
@@ -1581,6 +1585,7 @@ sing-box_hoilc.json,hoilc/scoop-lemon
 nodepass.json,hoilc/scoop-lemon
 pm-lite.json,hoilc/scoop-lemon
 kubestr.json,hoilc/scoop-lemon
+spinnaker-cli.json,hoilc/scoop-lemon
 zpaqfranz-pakka.json,hoilc/scoop-lemon
 pngcheck.json,hoilc/scoop-lemon
 yuveye.json,hoilc/scoop-lemon
