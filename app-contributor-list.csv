@@ -1107,6 +1107,7 @@ removable-access-tool.json,hoilc/scoop-lemon
 exeinfo-pe.json,hoilc/scoop-lemon
 piping-server-rust.json,hoilc/scoop-lemon
 microsoft-error-lookup-tool.json,hoilc/scoop-lemon
+youtube-dl-nightly.json,hoilc/scoop-lemon
 uboost.json,hoilc/scoop-lemon
 gost@2.json,hoilc/scoop-lemon
 chfs_hoilc.json,hoilc/scoop-lemon
@@ -1332,10 +1333,12 @@ lukestackwalker.json,hoilc/scoop-lemon
 electronmail.json,hoilc/scoop-lemon
 cozo.json,hoilc/scoop-lemon
 viper.json,hoilc/scoop-lemon
+livekit-cli.json,hoilc/scoop-lemon
 enigma-virtual-box.json,hoilc/scoop-lemon
 bmp2png.json,hoilc/scoop-lemon
 krr.json,hoilc/scoop-lemon
 pulsarctl.json,hoilc/scoop-lemon
+pgrok.json,hoilc/scoop-lemon
 shanggu-mono.json,hoilc/scoop-lemon
 kubeconform_hoilc.json,hoilc/scoop-lemon
 m4acut.json,hoilc/scoop-lemon
@@ -1378,6 +1381,7 @@ lunatranslator.json,hoilc/scoop-lemon
 winasar.json,hoilc/scoop-lemon
 nexttrace-enhanced.json,hoilc/scoop-lemon
 chanify.json,hoilc/scoop-lemon
+nwinfo.json,hoilc/scoop-lemon
 iris-player.json,hoilc/scoop-lemon
 copyplusplus_hoilc.json,hoilc/scoop-lemon
 pe-anatomist.json,hoilc/scoop-lemon
