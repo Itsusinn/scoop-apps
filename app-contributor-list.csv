@@ -1126,6 +1126,7 @@ stduviewer.json,hoilc/scoop-lemon
 advanced-portchecker.json,hoilc/scoop-lemon
 double-entry-generator.json,hoilc/scoop-lemon
 mtputty.json,hoilc/scoop-lemon
+kargo-cli.json,hoilc/scoop-lemon
 library.net-standard.json,hoilc/scoop-lemon
 plow.json,hoilc/scoop-lemon
 uptoc.json,hoilc/scoop-lemon
@@ -1143,6 +1144,7 @@ adobe-creative-cloud-cleaner-tool.json,hoilc/scoop-lemon
 kubeshark_hoilc.json,hoilc/scoop-lemon
 shntool.json,hoilc/scoop-lemon
 ctstraffic.json,hoilc/scoop-lemon
+bandcamp-collection-downloader-nightly.json,hoilc/scoop-lemon
 earthly_hoilc.json,hoilc/scoop-lemon
 biliuwp-lite.json,hoilc/scoop-lemon
 whisper-cpp-blas-nightly.json,hoilc/scoop-lemon
@@ -1348,6 +1350,7 @@ pulsarctl.json,hoilc/scoop-lemon
 pgrok.json,hoilc/scoop-lemon
 shanggu-mono.json,hoilc/scoop-lemon
 kubeconform_hoilc.json,hoilc/scoop-lemon
+aonsoku.json,hoilc/scoop-lemon
 m4acut.json,hoilc/scoop-lemon
 zhudou-sans.json,hoilc/scoop-lemon
 whynotwin11.json,hoilc/scoop-lemon
@@ -1584,6 +1587,7 @@ rundeck-cli.json,hoilc/scoop-lemon
 tdengine-server.json,hoilc/scoop-lemon
 edgedb-cli.json,hoilc/scoop-lemon
 sendme.json,hoilc/scoop-lemon
+geminaut.json,hoilc/scoop-lemon
 hubble.json,hoilc/scoop-lemon
 wssocks.json,hoilc/scoop-lemon
 koyeb-cli.json,hoilc/scoop-lemon
@@ -1592,6 +1596,7 @@ timevertor.json,hoilc/scoop-lemon
 mahou.json,hoilc/scoop-lemon
 lyricify.json,hoilc/scoop-lemon
 syncclipboard.json,hoilc/scoop-lemon
+mp4fpsmod.json,hoilc/scoop-lemon
 cat-cli.json,hoilc/scoop-lemon
 sing-box_hoilc.json,hoilc/scoop-lemon
 nodepass.json,hoilc/scoop-lemon
@@ -2308,6 +2313,7 @@ xplorer.json,hoilc/scoop-lemon
 pacaptr.json,hoilc/scoop-lemon
 slsa-verifier.json,hoilc/scoop-lemon
 unlock-music_hoilc.json,hoilc/scoop-lemon
+xk6.json,hoilc/scoop-lemon
 pvm.json,hoilc/scoop-lemon
 ballerina.json,hoilc/scoop-lemon
 hostsx.json,hoilc/scoop-lemon
@@ -2444,6 +2450,7 @@ oggenc2-libvorbis-aotuv.json,hoilc/scoop-lemon
 ileapp.json,hoilc/scoop-lemon
 dmpro.json,hoilc/scoop-lemon
 sheas-cealer_hoilc.json,hoilc/scoop-lemon
+fairymusicbox.json,hoilc/scoop-lemon
 snova-asio.json,hoilc/scoop-lemon
 rmaa.json,hoilc/scoop-lemon
 jujutsu.json,hoilc/scoop-lemon
