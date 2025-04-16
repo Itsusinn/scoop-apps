@@ -924,7 +924,6 @@ chfs-gui.json,chawyehsu/dorado
 lhmouse-gcc-mcf-snapshot-ucrt.json,chawyehsu/dorado
 orwell-dev-cpp-no-compiler.json,chawyehsu/dorado
 spdpd-assistant.json,chawyehsu/dorado
-moonlight.json,chawyehsu/dorado
 lxmusic.json,chawyehsu/dorado
 notion.json,chawyehsu/dorado
 process-monitor.json,chawyehsu/dorado
@@ -1044,6 +1043,7 @@ clashnet.json,chawyehsu/dorado
 openai-translator.json,chawyehsu/dorado
 clash-for-windows-np.json,chawyehsu/dorado
 umi-ocr.json,chawyehsu/dorado
+moonlight.json,chawyehsu/dorado
 tor-browser-zh-cn.json,chawyehsu/dorado
 figma.json,chawyehsu/dorado
 pxcook.json,chawyehsu/dorado
@@ -1259,6 +1259,7 @@ fenrirfs.json,hoilc/scoop-lemon
 verycapture.json,hoilc/scoop-lemon
 cortextool.json,hoilc/scoop-lemon
 helio.json,hoilc/scoop-lemon
+shopware-cli.json,hoilc/scoop-lemon
 maple-mono-nf-cn.json,hoilc/scoop-lemon
 riemann.json,hoilc/scoop-lemon
 imagesearch.json,hoilc/scoop-lemon
@@ -1312,6 +1313,7 @@ belautils.json,hoilc/scoop-lemon
 webmesh.json,hoilc/scoop-lemon
 findstr-eng.json,hoilc/scoop-lemon
 archisteamfarm_hoilc.json,hoilc/scoop-lemon
+cariddi.json,hoilc/scoop-lemon
 dns-jumper.json,hoilc/scoop-lemon
 clashn.json,hoilc/scoop-lemon
 n_m3u8dl-cli_hoilc.json,hoilc/scoop-lemon
@@ -1715,6 +1717,7 @@ bstrings.json,hoilc/scoop-lemon
 blb2txt.json,hoilc/scoop-lemon
 dtlspipe.json,hoilc/scoop-lemon
 kbld.json,hoilc/scoop-lemon
+rare-regex.json,hoilc/scoop-lemon
 wgcf-cli.json,hoilc/scoop-lemon
 gaphor.json,hoilc/scoop-lemon
 suyu.json,hoilc/scoop-lemon
@@ -1746,6 +1749,7 @@ ecopaste.json,hoilc/scoop-lemon
 crane.json,hoilc/scoop-lemon
 qscamel.json,hoilc/scoop-lemon
 autocursorlock.json,hoilc/scoop-lemon
+gh-skyline.json,hoilc/scoop-lemon
 whisper-model-ggml-medium.json,hoilc/scoop-lemon
 serialtest.json,hoilc/scoop-lemon
 lucky.json,hoilc/scoop-lemon
@@ -1934,6 +1938,7 @@ readcat.json,hoilc/scoop-lemon
 bluelife-hosts-editor.json,hoilc/scoop-lemon
 policy.json,hoilc/scoop-lemon
 pineapple-pictures.json,hoilc/scoop-lemon
+cnquery.json,hoilc/scoop-lemon
 echosync.json,hoilc/scoop-lemon
 takajo.json,hoilc/scoop-lemon
 hashid.json,hoilc/scoop-lemon
@@ -2013,6 +2018,7 @@ k8sgpt.json,hoilc/scoop-lemon
 rymdport.json,hoilc/scoop-lemon
 sumecmd.json,hoilc/scoop-lemon
 cpix-cn.json,hoilc/scoop-lemon
+jsql-injection.json,hoilc/scoop-lemon
 victoria.json,hoilc/scoop-lemon
 uwscr.json,hoilc/scoop-lemon
 colored-text.json,hoilc/scoop-lemon
@@ -2031,6 +2037,7 @@ nordpass.json,hoilc/scoop-lemon
 qv2ray-nightly.json,hoilc/scoop-lemon
 azd.json,hoilc/scoop-lemon
 bilibili-live-record-downloader.json,hoilc/scoop-lemon
+abcl.json,hoilc/scoop-lemon
 ossutil_hoilc.json,hoilc/scoop-lemon
 bart.json,hoilc/scoop-lemon
 sql-studio.json,hoilc/scoop-lemon
@@ -2411,6 +2418,7 @@ lazysql.json,hoilc/scoop-lemon
 freerdp.json,hoilc/scoop-lemon
 tclkit.json,hoilc/scoop-lemon
 projclean.json,hoilc/scoop-lemon
+sqlc.json,hoilc/scoop-lemon
 portx.json,hoilc/scoop-lemon
 klog.json,hoilc/scoop-lemon
 rssguard-nightly.json,hoilc/scoop-lemon
