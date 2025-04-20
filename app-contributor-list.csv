@@ -960,6 +960,7 @@ autodarkmode.json,chawyehsu/dorado
 mosdns.json,chawyehsu/dorado
 multimc.json,chawyehsu/dorado
 imewlconverter.json,chawyehsu/dorado
+dps8m.json,chawyehsu/dorado
 crystaldiskinfo-kureikei-edition.json,chawyehsu/dorado
 hok.json,chawyehsu/dorado
 moonbit.json,chawyehsu/dorado
@@ -1115,6 +1116,7 @@ uboost.json,hoilc/scoop-lemon
 gost@2.json,hoilc/scoop-lemon
 chfs_hoilc.json,hoilc/scoop-lemon
 tockler_hoilc.json,hoilc/scoop-lemon
+llama-cpp.json,hoilc/scoop-lemon
 comicenhancepro.json,hoilc/scoop-lemon
 maple-mono-hinted.json,hoilc/scoop-lemon
 packetsender.json,hoilc/scoop-lemon
@@ -1222,6 +1224,7 @@ postgres_exporter.json,hoilc/scoop-lemon
 proxypin.json,hoilc/scoop-lemon
 go2rtc.json,hoilc/scoop-lemon
 rawviewer.json,hoilc/scoop-lemon
+clips.json,hoilc/scoop-lemon
 pazera-free-audio-extractor.json,hoilc/scoop-lemon
 capnproto.json,hoilc/scoop-lemon
 twexe.json,hoilc/scoop-lemon
@@ -1403,6 +1406,7 @@ copyplusplus_hoilc.json,hoilc/scoop-lemon
 pe-anatomist.json,hoilc/scoop-lemon
 comicsviewer-eng.json,hoilc/scoop-lemon
 codefresh-cli-v2.json,hoilc/scoop-lemon
+llama-cpp-cuda.json,hoilc/scoop-lemon
 xboxdownload.json,hoilc/scoop-lemon
 mglahk.json,hoilc/scoop-lemon
 pixpin-beta.json,hoilc/scoop-lemon
@@ -1584,6 +1588,7 @@ loophole-cli.json,hoilc/scoop-lemon
 wush.json,hoilc/scoop-lemon
 libportable.json,hoilc/scoop-lemon
 uv_hoilc.json,hoilc/scoop-lemon
+b4j.json,hoilc/scoop-lemon
 videoduplicatefinder.json,hoilc/scoop-lemon
 linux-reader.json,hoilc/scoop-lemon
 shanggu-sans-sc.json,hoilc/scoop-lemon
@@ -1708,6 +1713,7 @@ multidesk.json,hoilc/scoop-lemon
 ghostunnel.json,hoilc/scoop-lemon
 par2.json,hoilc/scoop-lemon
 teller.json,hoilc/scoop-lemon
+llama-cpp-sycl.json,hoilc/scoop-lemon
 nextssh.json,hoilc/scoop-lemon
 fusion-lang.json,hoilc/scoop-lemon
 grafana-agent.json,hoilc/scoop-lemon
@@ -1727,6 +1733,7 @@ wgcf-cli.json,hoilc/scoop-lemon
 gaphor.json,hoilc/scoop-lemon
 suyu.json,hoilc/scoop-lemon
 path-locate.json,hoilc/scoop-lemon
+llama-cpp-kompute.json,hoilc/scoop-lemon
 memurai.json,hoilc/scoop-lemon
 memcached_exporter.json,hoilc/scoop-lemon
 stern_hoilc.json,hoilc/scoop-lemon
@@ -1791,10 +1798,12 @@ quick-any2ico.json,hoilc/scoop-lemon
 deck.json,hoilc/scoop-lemon
 imgdrivecmd.json,hoilc/scoop-lemon
 keepassxc-snapshot.json,hoilc/scoop-lemon
+llama-cpp-hip.json,hoilc/scoop-lemon
 wubilex.json,hoilc/scoop-lemon
 faster-whisper-xxl.json,hoilc/scoop-lemon
 desktopnoteok.json,hoilc/scoop-lemon
 iplookup.json,hoilc/scoop-lemon
+siteone-crawler.json,hoilc/scoop-lemon
 gosmee.json,hoilc/scoop-lemon
 anchor-cli.json,hoilc/scoop-lemon
 graaljs-jvm.json,hoilc/scoop-lemon
@@ -1806,6 +1815,7 @@ craftbasic.json,hoilc/scoop-lemon
 wc3270.json,hoilc/scoop-lemon
 bookget.json,hoilc/scoop-lemon
 alttaber.json,hoilc/scoop-lemon
+b4j-openjfx.json,hoilc/scoop-lemon
 redis-rdb-cli.json,hoilc/scoop-lemon
 statsd_exporter.json,hoilc/scoop-lemon
 anime4kcpp-cli.json,hoilc/scoop-lemon
@@ -1819,6 +1829,7 @@ am-notebook.json,hoilc/scoop-lemon
 clickshow.json,hoilc/scoop-lemon
 bflat_hoilc.json,hoilc/scoop-lemon
 whisper-cli.json,hoilc/scoop-lemon
+llama-cpp-avx512.json,hoilc/scoop-lemon
 oggenc2-libvorbis.json,hoilc/scoop-lemon
 resamplescope.json,hoilc/scoop-lemon
 amtool.json,hoilc/scoop-lemon
@@ -1958,6 +1969,7 @@ jar-analyzer.json,hoilc/scoop-lemon
 bark-server.json,hoilc/scoop-lemon
 wxautoexim.json,hoilc/scoop-lemon
 oblivion-desktop.json,hoilc/scoop-lemon
+siteone-crawler-gui.json,hoilc/scoop-lemon
 pure-data.json,hoilc/scoop-lemon
 xyplorer.json,hoilc/scoop-lemon
 rdb-cli.json,hoilc/scoop-lemon
@@ -2146,6 +2158,7 @@ udpping.json,hoilc/scoop-lemon
 cosmo-emacs.json,hoilc/scoop-lemon
 bookxnote.json,hoilc/scoop-lemon
 gamadv-xtd3.json,hoilc/scoop-lemon
+llama-cpp-adreno.json,hoilc/scoop-lemon
 wasm-pkg-tools.json,hoilc/scoop-lemon
 winfi-lite.json,hoilc/scoop-lemon
 devolutions-launcher.json,hoilc/scoop-lemon
@@ -2163,6 +2176,7 @@ clarinet.json,hoilc/scoop-lemon
 pulumictl.json,hoilc/scoop-lemon
 zhconv-rs.json,hoilc/scoop-lemon
 soar.json,hoilc/scoop-lemon
+llama-cpp-vulkan.json,hoilc/scoop-lemon
 nasm-snapshot.json,hoilc/scoop-lemon
 3proxy.json,hoilc/scoop-lemon
 slimpdfreader.json,hoilc/scoop-lemon
@@ -2511,6 +2525,7 @@ multi-gitter.json,hoilc/scoop-lemon
 garden.json,hoilc/scoop-lemon
 evernote2onenote.json,hoilc/scoop-lemon
 fluent-bit.json,hoilc/scoop-lemon
+llama-cpp-openblas.json,hoilc/scoop-lemon
 maple-mono-sc-nerd@6.json,hoilc/scoop-lemon
 tsac.json,hoilc/scoop-lemon
 pdgcnteditor-eng.json,hoilc/scoop-lemon
