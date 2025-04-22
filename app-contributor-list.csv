@@ -1361,11 +1361,13 @@ krr.json,hoilc/scoop-lemon
 pulsarctl.json,hoilc/scoop-lemon
 pgrok.json,hoilc/scoop-lemon
 shanggu-mono.json,hoilc/scoop-lemon
+saucelabs-forwarder.json,hoilc/scoop-lemon
 kubeconform_hoilc.json,hoilc/scoop-lemon
 aonsoku.json,hoilc/scoop-lemon
 m4acut.json,hoilc/scoop-lemon
 zhudou-sans.json,hoilc/scoop-lemon
 whynotwin11.json,hoilc/scoop-lemon
+chatmcp.json,hoilc/scoop-lemon
 little-tips.json,hoilc/scoop-lemon
 ossutil@2.json,hoilc/scoop-lemon
 momento-cli.json,hoilc/scoop-lemon
@@ -1521,6 +1523,7 @@ unicodia.json,hoilc/scoop-lemon
 pdgthumbviewer.json,hoilc/scoop-lemon
 nbtscan.json,hoilc/scoop-lemon
 lightnovel-crawler.json,hoilc/scoop-lemon
+cirrus-cli.json,hoilc/scoop-lemon
 tcping-go.json,hoilc/scoop-lemon
 ediary.json,hoilc/scoop-lemon
 notcpucores.json,hoilc/scoop-lemon
