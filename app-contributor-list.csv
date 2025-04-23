@@ -795,7 +795,7 @@ microsoftedge-dev.json,chawyehsu/dorado
 bypass_chawyehsu.json,chawyehsu/dorado
 swift_chawyehsu.json,chawyehsu/dorado
 setuna.json,chawyehsu/dorado
-pixi.json,chawyehsu/dorado
+pixi_chawyehsu.json,chawyehsu/dorado
 virgo.json,chawyehsu/dorado
 qtscrcpy.json,chawyehsu/dorado
 musicbrainz-picard.json,chawyehsu/dorado
@@ -1147,6 +1147,7 @@ rqlite.json,hoilc/scoop-lemon
 securefs.json,hoilc/scoop-lemon
 bbdown_hoilc.json,hoilc/scoop-lemon
 adobe-creative-cloud-cleaner-tool.json,hoilc/scoop-lemon
+bongocat.json,hoilc/scoop-lemon
 kubeshark_hoilc.json,hoilc/scoop-lemon
 shntool.json,hoilc/scoop-lemon
 ctstraffic.json,hoilc/scoop-lemon
@@ -1155,6 +1156,7 @@ earthly_hoilc.json,hoilc/scoop-lemon
 biliuwp-lite.json,hoilc/scoop-lemon
 whisper-cpp-blas-nightly.json,hoilc/scoop-lemon
 dooit.json,hoilc/scoop-lemon
+newt.json,hoilc/scoop-lemon
 xsnip.json,hoilc/scoop-lemon
 craftlaunch.json,hoilc/scoop-lemon
 ips.json,hoilc/scoop-lemon
@@ -1449,6 +1451,7 @@ jar-obfuscator.json,hoilc/scoop-lemon
 bore.json,hoilc/scoop-lemon
 bitrock-unpacker.json,hoilc/scoop-lemon
 libportable-floorp-lightning.json,hoilc/scoop-lemon
+fortio.json,hoilc/scoop-lemon
 credhub-cli.json,hoilc/scoop-lemon
 onetagger.json,hoilc/scoop-lemon
 aws-auth.json,hoilc/scoop-lemon
@@ -1492,6 +1495,7 @@ bcm.json,hoilc/scoop-lemon
 mycomputermanager.json,hoilc/scoop-lemon
 cleanwechatx.json,hoilc/scoop-lemon
 victoria-logs.json,hoilc/scoop-lemon
+falcoctl.json,hoilc/scoop-lemon
 ppftpd.json,hoilc/scoop-lemon
 customrp.json,hoilc/scoop-lemon
 dbmigration.net.json,hoilc/scoop-lemon
@@ -2254,6 +2258,7 @@ copyparty.json,hoilc/scoop-lemon
 janereader.json,hoilc/scoop-lemon
 victoria-metrics-cluster.json,hoilc/scoop-lemon
 wxwork.json,hoilc/scoop-lemon
+fcast-receiver.json,hoilc/scoop-lemon
 lamedropxpd.json,hoilc/scoop-lemon
 djvutoy.json,hoilc/scoop-lemon
 gopeed.json,hoilc/scoop-lemon
@@ -2329,6 +2334,7 @@ jnv_hoilc.json,hoilc/scoop-lemon
 zincsearch.json,hoilc/scoop-lemon
 avidemux.json,hoilc/scoop-lemon
 quardcrt.json,hoilc/scoop-lemon
+plus42.json,hoilc/scoop-lemon
 chirp-next.json,hoilc/scoop-lemon
 warpinator.json,hoilc/scoop-lemon
 container-diff.json,hoilc/scoop-lemon
@@ -2516,6 +2522,7 @@ nitroshare.json,hoilc/scoop-lemon
 cmail.json,hoilc/scoop-lemon
 privaxy.json,hoilc/scoop-lemon
 spline.json,hoilc/scoop-lemon
+breeze-shell.json,hoilc/scoop-lemon
 extractnow.json,hoilc/scoop-lemon
 yolx.json,hoilc/scoop-lemon
 telepresence.json,hoilc/scoop-lemon
