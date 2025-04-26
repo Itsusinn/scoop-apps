@@ -589,6 +589,7 @@ openttd.json,Calinou/scoop-games
 weakauras-companion.json,Calinou/scoop-games
 demulshooter.json,Calinou/scoop-games
 dolphin-dev.json,Calinou/scoop-games
+maa.json,Calinou/scoop-games
 fbneo.json,Calinou/scoop-games
 pathofbuilding.json,Calinou/scoop-games
 assaultcube.json,Calinou/scoop-games
@@ -1137,6 +1138,7 @@ opentrace_hoilc.json,hoilc/scoop-lemon
 btrace.json,hoilc/scoop-lemon
 eclint-go.json,hoilc/scoop-lemon
 mftecmd.json,hoilc/scoop-lemon
+github-markdown-toc-go.json,hoilc/scoop-lemon
 nvenc.json,hoilc/scoop-lemon
 bendsql.json,hoilc/scoop-lemon
 kaminari.json,hoilc/scoop-lemon
@@ -1165,6 +1167,7 @@ tiny-rdm.json,hoilc/scoop-lemon
 artweaver-free.json,hoilc/scoop-lemon
 libportable-floorp.json,hoilc/scoop-lemon
 glider.json,hoilc/scoop-lemon
+mmdbinspect.json,hoilc/scoop-lemon
 ultrasearch.json,hoilc/scoop-lemon
 pdfcommander.json,hoilc/scoop-lemon
 smart-system-menu.json,hoilc/scoop-lemon
@@ -1187,12 +1190,14 @@ neat-reader.json,hoilc/scoop-lemon
 bbdown_hoilc.json,hoilc/scoop-lemon
 rundeck-cli.json,hoilc/scoop-lemon
 ack-ram-tool.json,hoilc/scoop-lemon
+tun2proxy.json,hoilc/scoop-lemon
 kosli.json,hoilc/scoop-lemon
 sandboxdiff.json,hoilc/scoop-lemon
 bcm.json,hoilc/scoop-lemon
 wgcf_hoilc.json,hoilc/scoop-lemon
 dtlspipe.json,hoilc/scoop-lemon
 whisper-model-ggml-large-v1.json,hoilc/scoop-lemon
+go-exploitdb.json,hoilc/scoop-lemon
 iris-player.json,hoilc/scoop-lemon
 imageworsener.json,hoilc/scoop-lemon
 dnote.json,hoilc/scoop-lemon
@@ -1214,9 +1219,11 @@ maxthon.json,hoilc/scoop-lemon
 llama-cpp-avx512.json,hoilc/scoop-lemon
 xvdtool.json,hoilc/scoop-lemon
 ccode.json,hoilc/scoop-lemon
+doc2go.json,hoilc/scoop-lemon
 static-php-cli.json,hoilc/scoop-lemon
 wc3270.json,hoilc/scoop-lemon
 graalpy-community-jdk.json,hoilc/scoop-lemon
+git-ignore.json,hoilc/scoop-lemon
 webd.json,hoilc/scoop-lemon
 nodepass.json,hoilc/scoop-lemon
 readest.json,hoilc/scoop-lemon
@@ -1292,6 +1299,7 @@ cow.json,hoilc/scoop-lemon
 tdengine-client.json,hoilc/scoop-lemon
 multi-gitter.json,hoilc/scoop-lemon
 jpegoptim_hoilc.json,hoilc/scoop-lemon
+geoip2-csv-converter.json,hoilc/scoop-lemon
 winmouse.json,hoilc/scoop-lemon
 pngcheck.json,hoilc/scoop-lemon
 kodo-browser.json,hoilc/scoop-lemon
@@ -1357,6 +1365,7 @@ duf_hoilc.json,hoilc/scoop-lemon
 craftlaunch.json,hoilc/scoop-lemon
 comicenhancepro-eng.json,hoilc/scoop-lemon
 edgedb-cli.json,hoilc/scoop-lemon
+git-credential-oauth.json,hoilc/scoop-lemon
 qbittorrent-enhanced.json,hoilc/scoop-lemon
 library.net.json,hoilc/scoop-lemon
 crawley.json,hoilc/scoop-lemon
@@ -1459,6 +1468,7 @@ winfindr.json,hoilc/scoop-lemon
 zlibrary.json,hoilc/scoop-lemon
 psgen.json,hoilc/scoop-lemon
 cutemaze.json,hoilc/scoop-lemon
+legitify.json,hoilc/scoop-lemon
 feishin.json,hoilc/scoop-lemon
 caitouyun.json,hoilc/scoop-lemon
 loophole-desktop.json,hoilc/scoop-lemon
@@ -1535,6 +1545,7 @@ miniserve_hoilc.json,hoilc/scoop-lemon
 archisteamfarm_hoilc.json,hoilc/scoop-lemon
 otpauth.json,hoilc/scoop-lemon
 ahko.json,hoilc/scoop-lemon
+zsv.json,hoilc/scoop-lemon
 mieru.json,hoilc/scoop-lemon
 mqttx-cli.json,hoilc/scoop-lemon
 winbin2iso.json,hoilc/scoop-lemon
@@ -1546,6 +1557,7 @@ multidesk-chs.json,hoilc/scoop-lemon
 burrow.json,hoilc/scoop-lemon
 ryzentuner.json,hoilc/scoop-lemon
 spooky-view.json,hoilc/scoop-lemon
+couchbase-shell.json,hoilc/scoop-lemon
 catsxp.json,hoilc/scoop-lemon
 noisy-shuttle.json,hoilc/scoop-lemon
 nat-type-tester.json,hoilc/scoop-lemon
@@ -1570,7 +1582,9 @@ kftui.json,hoilc/scoop-lemon
 container-structure-test.json,hoilc/scoop-lemon
 refinery-cli.json,hoilc/scoop-lemon
 recover_mp4.json,hoilc/scoop-lemon
+musicpod.json,hoilc/scoop-lemon
 primesieve.json,hoilc/scoop-lemon
+yaydl.json,hoilc/scoop-lemon
 snipsvg.json,hoilc/scoop-lemon
 whatsapp-chat-exporter.json,hoilc/scoop-lemon
 clickmonitorddc.json,hoilc/scoop-lemon
@@ -1637,6 +1651,7 @@ wssocks.json,hoilc/scoop-lemon
 stern_hoilc.json,hoilc/scoop-lemon
 graalpy.json,hoilc/scoop-lemon
 javsp.json,hoilc/scoop-lemon
+alloydb-auth-proxy.json,hoilc/scoop-lemon
 window-switcher.json,hoilc/scoop-lemon
 imtip.json,hoilc/scoop-lemon
 hysteria2.json,hoilc/scoop-lemon
@@ -1723,6 +1738,7 @@ remnote.json,hoilc/scoop-lemon
 keycastow.json,hoilc/scoop-lemon
 localxpose.json,hoilc/scoop-lemon
 cloudquery.json,hoilc/scoop-lemon
+zkar.json,hoilc/scoop-lemon
 vtex2.json,hoilc/scoop-lemon
 shutter-encoder.json,hoilc/scoop-lemon
 subtitle-renamer.json,hoilc/scoop-lemon
@@ -1741,6 +1757,7 @@ rare-regex.json,hoilc/scoop-lemon
 wimtool_hoilc.json,hoilc/scoop-lemon
 gopeed.json,hoilc/scoop-lemon
 graalpy-community.json,hoilc/scoop-lemon
+alpaca.json,hoilc/scoop-lemon
 task-explorer.json,hoilc/scoop-lemon
 bestsub.json,hoilc/scoop-lemon
 gtk-sharp-libs.json,hoilc/scoop-lemon
@@ -1773,6 +1790,7 @@ juicefs_hoilc.json,hoilc/scoop-lemon
 inlets-pro.json,hoilc/scoop-lemon
 tosutil.json,hoilc/scoop-lemon
 dnscontrol.json,hoilc/scoop-lemon
+gittuf.json,hoilc/scoop-lemon
 zeta-resource-editor.json,hoilc/scoop-lemon
 warpinator.json,hoilc/scoop-lemon
 wit-bindgen.json,hoilc/scoop-lemon
@@ -1802,6 +1820,7 @@ exiftoolgui.json,hoilc/scoop-lemon
 harbor-cli.json,hoilc/scoop-lemon
 pulsarctl@3.json,hoilc/scoop-lemon
 ark-pixel-font-10px-proportional.json,hoilc/scoop-lemon
+fstl.json,hoilc/scoop-lemon
 inpaint.json,hoilc/scoop-lemon
 shanggu-sans-tc.json,hoilc/scoop-lemon
 fork-cleaner.json,hoilc/scoop-lemon
@@ -1838,7 +1857,9 @@ amber.json,hoilc/scoop-lemon
 lecmd.json,hoilc/scoop-lemon
 biniware-run.json,hoilc/scoop-lemon
 keynote-nf.json,hoilc/scoop-lemon
+git-gone.json,hoilc/scoop-lemon
 mynoteskeeper.json,hoilc/scoop-lemon
+git-dive.json,hoilc/scoop-lemon
 revanced-cli.json,hoilc/scoop-lemon
 zoro.json,hoilc/scoop-lemon
 picturecleaner.json,hoilc/scoop-lemon
@@ -1896,6 +1917,7 @@ files-cli.json,hoilc/scoop-lemon
 whisper-model-ggml-medium-en.json,hoilc/scoop-lemon
 ktor-cli.json,hoilc/scoop-lemon
 typikon.json,hoilc/scoop-lemon
+javacc.json,hoilc/scoop-lemon
 graaljs-jvm.json,hoilc/scoop-lemon
 bmp2png.json,hoilc/scoop-lemon
 iroh_hoilc.json,hoilc/scoop-lemon
@@ -1918,7 +1940,9 @@ keyviz.json,hoilc/scoop-lemon
 registryexplorer.json,hoilc/scoop-lemon
 fusion-lang.json,hoilc/scoop-lemon
 qscamel.json,hoilc/scoop-lemon
+torrentcheck.json,hoilc/scoop-lemon
 infobar.json,hoilc/scoop-lemon
+binocle.json,hoilc/scoop-lemon
 colorveil.json,hoilc/scoop-lemon
 shellbagsexplorer.json,hoilc/scoop-lemon
 cs-script.json,hoilc/scoop-lemon
@@ -1955,15 +1979,19 @@ autocursorlock.json,hoilc/scoop-lemon
 redisfish.json,hoilc/scoop-lemon
 cosmo-berry.json,hoilc/scoop-lemon
 seqkit.json,hoilc/scoop-lemon
+bluefish.json,hoilc/scoop-lemon
 enjoy.json,hoilc/scoop-lemon
 lunatranslator.json,hoilc/scoop-lemon
 lite.json,hoilc/scoop-lemon
 tuic.json,hoilc/scoop-lemon
 windowsgsm.json,hoilc/scoop-lemon
+git-workspace.json,hoilc/scoop-lemon
 rathole_hoilc.json,hoilc/scoop-lemon
 feiq.json,hoilc/scoop-lemon
 fermyon-spin.json,hoilc/scoop-lemon
 oasis.json,hoilc/scoop-lemon
+serializationdumper.json,hoilc/scoop-lemon
+torrentverify.json,hoilc/scoop-lemon
 anime4kcpp-gui.json,hoilc/scoop-lemon
 termora.json,hoilc/scoop-lemon
 docker-ls.json,hoilc/scoop-lemon
@@ -2000,8 +2028,10 @@ mixctl.json,hoilc/scoop-lemon
 skupper-cli.json,hoilc/scoop-lemon
 wxautoexim.json,hoilc/scoop-lemon
 fontmod.json,hoilc/scoop-lemon
+git-branch-stash.json,hoilc/scoop-lemon
 k3sup_hoilc.json,hoilc/scoop-lemon
 qbittorrent-clientblocker.json,hoilc/scoop-lemon
+moproxy.json,hoilc/scoop-lemon
 hybrid.json,hoilc/scoop-lemon
 minirenamer.json,hoilc/scoop-lemon
 mongodb-atlas-cli_hoilc.json,hoilc/scoop-lemon
@@ -2022,6 +2052,7 @@ ppee.json,hoilc/scoop-lemon
 library.net-standard.json,hoilc/scoop-lemon
 maple-mono-sc-nerd@6.json,hoilc/scoop-lemon
 theaeroclock.json,hoilc/scoop-lemon
+git-backup-go.json,hoilc/scoop-lemon
 asnmap.json,hoilc/scoop-lemon
 path-locate.json,hoilc/scoop-lemon
 altsnap.json,hoilc/scoop-lemon
@@ -2071,6 +2102,7 @@ dapr.json,hoilc/scoop-lemon
 velociraptor.json,hoilc/scoop-lemon
 werf.json,hoilc/scoop-lemon
 evtxecmd.json,hoilc/scoop-lemon
+git-stack.json,hoilc/scoop-lemon
 insomnium.json,hoilc/scoop-lemon
 parabolic.json,hoilc/scoop-lemon
 freelens.json,hoilc/scoop-lemon
@@ -2090,6 +2122,7 @@ piclist.json,hoilc/scoop-lemon
 stripe-cli.json,hoilc/scoop-lemon
 blb2txt.json,hoilc/scoop-lemon
 glow_hoilc.json,hoilc/scoop-lemon
+go-bindata.json,hoilc/scoop-lemon
 whisper-model-ggml-base-en.json,hoilc/scoop-lemon
 splayer-legacy.json,hoilc/scoop-lemon
 devtunnel.json,hoilc/scoop-lemon
@@ -2107,6 +2140,7 @@ vmutils.json,hoilc/scoop-lemon
 tweakpng.json,hoilc/scoop-lemon
 whisper-cpp-nightly.json,hoilc/scoop-lemon
 lettura.json,hoilc/scoop-lemon
+git-igitt.json,hoilc/scoop-lemon
 abstreet.json,hoilc/scoop-lemon
 localstack.json,hoilc/scoop-lemon
 chfs-gui_hoilc.json,hoilc/scoop-lemon
@@ -2116,6 +2150,7 @@ syndicationd.json,hoilc/scoop-lemon
 snova-asio.json,hoilc/scoop-lemon
 zfind.json,hoilc/scoop-lemon
 nordpass.json,hoilc/scoop-lemon
+darcs.json,hoilc/scoop-lemon
 processdump.json,hoilc/scoop-lemon
 colorconsole.json,hoilc/scoop-lemon
 postgres-operator-client.json,hoilc/scoop-lemon
@@ -2124,6 +2159,7 @@ xrun.json,hoilc/scoop-lemon
 extism-cli.json,hoilc/scoop-lemon
 downkyi_hoilc.json,hoilc/scoop-lemon
 weron.json,hoilc/scoop-lemon
+git-spice.json,hoilc/scoop-lemon
 nps-server.json,hoilc/scoop-lemon
 redpandacpp.json,hoilc/scoop-lemon
 steganographiergui.json,hoilc/scoop-lemon
@@ -2137,6 +2173,8 @@ keepass-plugin-keepasswinhello.json,hoilc/scoop-lemon
 mturoute.json,hoilc/scoop-lemon
 xd-antispy.json,hoilc/scoop-lemon
 yank-note.json,hoilc/scoop-lemon
+java-cup.json,hoilc/scoop-lemon
+git-gamble.json,hoilc/scoop-lemon
 flarectl.json,hoilc/scoop-lemon
 deeplx.json,hoilc/scoop-lemon
 freedv.json,hoilc/scoop-lemon
@@ -2205,6 +2243,7 @@ credhub-cli.json,hoilc/scoop-lemon
 okms-cli.json,hoilc/scoop-lemon
 timoni_hoilc.json,hoilc/scoop-lemon
 whalebird.json,hoilc/scoop-lemon
+7z2hashcat.json,hoilc/scoop-lemon
 iiscrypto.json,hoilc/scoop-lemon
 pinga.json,hoilc/scoop-lemon
 dependabot-cli.json,hoilc/scoop-lemon
@@ -2239,6 +2278,7 @@ tl.json,hoilc/scoop-lemon
 kindle-create.json,hoilc/scoop-lemon
 bore.json,hoilc/scoop-lemon
 nagstamon.json,hoilc/scoop-lemon
+alice-tools.json,hoilc/scoop-lemon
 fontmassive.json,hoilc/scoop-lemon
 inimod.json,hoilc/scoop-lemon
 uupmediacreator.json,hoilc/scoop-lemon
@@ -2251,6 +2291,7 @@ sumecmd.json,hoilc/scoop-lemon
 winasar.json,hoilc/scoop-lemon
 kanha.json,hoilc/scoop-lemon
 ipe.json,hoilc/scoop-lemon
+shell2http.json,hoilc/scoop-lemon
 azdrawing2.json,hoilc/scoop-lemon
 chirp.json,hoilc/scoop-lemon
 rmaa.json,hoilc/scoop-lemon
@@ -2261,6 +2302,7 @@ yale.json,hoilc/scoop-lemon
 magnifixer.json,hoilc/scoop-lemon
 sylpheed.json,hoilc/scoop-lemon
 spacectl.json,hoilc/scoop-lemon
+git-credential-keepassxc.json,hoilc/scoop-lemon
 slumber.json,hoilc/scoop-lemon
 steam-tools-ng.json,hoilc/scoop-lemon
 xplist.json,hoilc/scoop-lemon
@@ -2354,6 +2396,7 @@ logcli.json,hoilc/scoop-lemon
 nbtscan.json,hoilc/scoop-lemon
 wxwork.json,hoilc/scoop-lemon
 whisper-model-ggml-large.json,hoilc/scoop-lemon
+git-trim.json,hoilc/scoop-lemon
 libavif_hoilc.json,hoilc/scoop-lemon
 zhudou-sans.json,hoilc/scoop-lemon
 fdkaac.json,hoilc/scoop-lemon
@@ -2388,6 +2431,7 @@ chirp-next.json,hoilc/scoop-lemon
 ark-pixel-font-10px-monospaced.json,hoilc/scoop-lemon
 winfi-lite.json,hoilc/scoop-lemon
 libportable.json,hoilc/scoop-lemon
+gitcs.json,hoilc/scoop-lemon
 go-aws-sso.json,hoilc/scoop-lemon
 gbm.json,hoilc/scoop-lemon
 plus42.json,hoilc/scoop-lemon
@@ -2413,6 +2457,7 @@ briar.json,hoilc/scoop-lemon
 mcfly.json,hoilc/scoop-lemon
 opensearch-cli.json,hoilc/scoop-lemon
 sqlpkg-cli.json,hoilc/scoop-lemon
+torrent7z.json,hoilc/scoop-lemon
 gif123.json,hoilc/scoop-lemon
 musictag.json,hoilc/scoop-lemon
 rdb-cli.json,hoilc/scoop-lemon
@@ -2490,6 +2535,7 @@ phrase-cli.json,hoilc/scoop-lemon
 llama-cpp-vulkan.json,hoilc/scoop-lemon
 shanggu-sans.json,hoilc/scoop-lemon
 momento-cli.json,hoilc/scoop-lemon
+ssl-proxy.json,hoilc/scoop-lemon
 readysunvalley.json,hoilc/scoop-lemon
 evernote2onenote.json,hoilc/scoop-lemon
 tosbrowser.json,hoilc/scoop-lemon
@@ -2538,6 +2584,7 @@ douyin.json,hoilc/scoop-lemon
 store-apps-tool.json,hoilc/scoop-lemon
 wintousb-free.json,hoilc/scoop-lemon
 amazon-ec2-metadata-mock.json,hoilc/scoop-lemon
+git-hound.json,hoilc/scoop-lemon
 airpodsdesktop.json,hoilc/scoop-lemon
 elasticsearch_exporter.json,hoilc/scoop-lemon
 par2.json,hoilc/scoop-lemon
@@ -2597,6 +2644,7 @@ ossutil@2.json,hoilc/scoop-lemon
 mdsilo.json,hoilc/scoop-lemon
 leaf.json,hoilc/scoop-lemon
 kail.json,hoilc/scoop-lemon
+cpeditor.json,hoilc/scoop-lemon
 youtube-dl-nightly.json,hoilc/scoop-lemon
 free-color-picker.json,hoilc/scoop-lemon
 tlrc_hoilc.json,hoilc/scoop-lemon
@@ -2606,6 +2654,7 @@ ecopaste.json,hoilc/scoop-lemon
 kubeconform_hoilc.json,hoilc/scoop-lemon
 etcder.json,hoilc/scoop-lemon
 clarinet.json,hoilc/scoop-lemon
+trrntzip.net.json,hoilc/scoop-lemon
 portscan.json,hoilc/scoop-lemon
 kp-diff.json,hoilc/scoop-lemon
 gidot-typesetter.json,hoilc/scoop-lemon
