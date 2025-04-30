@@ -1815,6 +1815,7 @@ jnv_hoilc.json,hoilc/scoop-lemon
 dlss-updater.json,hoilc/scoop-lemon
 jotta-cli.json,hoilc/scoop-lemon
 haproxy_exporter.json,hoilc/scoop-lemon
+abs-lang.json,hoilc/scoop-lemon
 saucelabs-forwarder.json,hoilc/scoop-lemon
 gottet.json,hoilc/scoop-lemon
 livekit-cli.json,hoilc/scoop-lemon
@@ -1833,6 +1834,7 @@ tex-fmt.json,hoilc/scoop-lemon
 cariddi.json,hoilc/scoop-lemon
 juicefs_hoilc.json,hoilc/scoop-lemon
 inlets-pro.json,hoilc/scoop-lemon
+nom.json,hoilc/scoop-lemon
 tosutil.json,hoilc/scoop-lemon
 dnscontrol.json,hoilc/scoop-lemon
 gittuf.json,hoilc/scoop-lemon
@@ -2331,6 +2333,7 @@ aoc-cli.json,hoilc/scoop-lemon
 maxthon6.json,hoilc/scoop-lemon
 mediainfo.net.json,hoilc/scoop-lemon
 tetzle.json,hoilc/scoop-lemon
+vceenc.json,hoilc/scoop-lemon
 cocogitto.json,hoilc/scoop-lemon
 obsidian-export.json,hoilc/scoop-lemon
 verycapture.json,hoilc/scoop-lemon
@@ -2458,6 +2461,7 @@ keepass-plugin-keeuiext.json,hoilc/scoop-lemon
 otfcc.json,hoilc/scoop-lemon
 thumbcacheviewer.json,hoilc/scoop-lemon
 glooctl-beta.json,hoilc/scoop-lemon
+goawk.json,hoilc/scoop-lemon
 skylark.json,hoilc/scoop-lemon
 tanglet.json,hoilc/scoop-lemon
 wingetui_hoilc.json,hoilc/scoop-lemon
