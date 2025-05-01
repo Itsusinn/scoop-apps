@@ -1104,6 +1104,7 @@ go2rtc.json,hoilc/scoop-lemon
 imgdrivecmd.json,hoilc/scoop-lemon
 remetrics.json,hoilc/scoop-lemon
 cloudlens.json,hoilc/scoop-lemon
+nifskope.json,hoilc/scoop-lemon
 lakefs.json,hoilc/scoop-lemon
 spire.json,hoilc/scoop-lemon
 kube-capacity.json,hoilc/scoop-lemon
@@ -1286,6 +1287,7 @@ pasteintofile.json,hoilc/scoop-lemon
 wintun-libs.json,hoilc/scoop-lemon
 wtg-assistant.json,hoilc/scoop-lemon
 pingo.json,hoilc/scoop-lemon
+wubi-dict-editor.json,hoilc/scoop-lemon
 speex.json,hoilc/scoop-lemon
 autok3s.json,hoilc/scoop-lemon
 easy-cat-timer.json,hoilc/scoop-lemon
@@ -1438,6 +1440,7 @@ am-deadlink.json,hoilc/scoop-lemon
 tclkit.json,hoilc/scoop-lemon
 maxthon5.json,hoilc/scoop-lemon
 toxiproxy.json,hoilc/scoop-lemon
+venera.json,hoilc/scoop-lemon
 trdl.json,hoilc/scoop-lemon
 airdcpp.json,hoilc/scoop-lemon
 downkyicore.json,hoilc/scoop-lemon
