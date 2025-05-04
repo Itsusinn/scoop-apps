@@ -1389,6 +1389,7 @@ crawley.json,hoilc/scoop-lemon
 filegogo.json,hoilc/scoop-lemon
 vscmount.json,hoilc/scoop-lemon
 hayabusa.json,hoilc/scoop-lemon
+encrypted-dns-server.json,hoilc/scoop-lemon
 kubectl-view-secret.json,hoilc/scoop-lemon
 sidekick.json,hoilc/scoop-lemon
 meepo.json,hoilc/scoop-lemon
@@ -1510,6 +1511,7 @@ mdsf.json,hoilc/scoop-lemon
 textlocator.json,hoilc/scoop-lemon
 vsts-sync-migrator.json,hoilc/scoop-lemon
 wadm.json,hoilc/scoop-lemon
+reth.json,hoilc/scoop-lemon
 kzip.json,hoilc/scoop-lemon
 remoteapptool_hoilc.json,hoilc/scoop-lemon
 obs-cmd.json,hoilc/scoop-lemon
@@ -1620,6 +1622,7 @@ recover_mp4.json,hoilc/scoop-lemon
 buildkite.json,hoilc/scoop-lemon
 kube-score.json,hoilc/scoop-lemon
 musicpod.json,hoilc/scoop-lemon
+doh-proxy.json,hoilc/scoop-lemon
 primesieve.json,hoilc/scoop-lemon
 yaydl.json,hoilc/scoop-lemon
 snipsvg.json,hoilc/scoop-lemon
@@ -1672,6 +1675,7 @@ fstail.json,hoilc/scoop-lemon
 alttaber.json,hoilc/scoop-lemon
 portqryui.json,hoilc/scoop-lemon
 fvm.json,hoilc/scoop-lemon
+slint-viewer.json,hoilc/scoop-lemon
 cyclonedx-cli.json,hoilc/scoop-lemon
 seppdf.json,hoilc/scoop-lemon
 fpm.json,hoilc/scoop-lemon
@@ -2272,6 +2276,7 @@ primecount.json,hoilc/scoop-lemon
 openbao.json,hoilc/scoop-lemon
 wx3270.json,hoilc/scoop-lemon
 kubexporter.json,hoilc/scoop-lemon
+anytls.json,hoilc/scoop-lemon
 speakeasy.json,hoilc/scoop-lemon
 3proxy.json,hoilc/scoop-lemon
 enigma-virtual-box.json,hoilc/scoop-lemon
