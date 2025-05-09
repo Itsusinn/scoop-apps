@@ -1190,6 +1190,7 @@ bark-server.json,hoilc/scoop-lemon
 mdsf.json,hoilc/scoop-lemon
 kwok.json,hoilc/scoop-lemon
 spinnaker-cli.json,hoilc/scoop-lemon
+llama-cpp-cuda-11.json,hoilc/scoop-lemon
 vivetool-gui.json,hoilc/scoop-lemon
 synology-cloud-sync-decryption-tool.json,hoilc/scoop-lemon
 wincontig.json,hoilc/scoop-lemon
@@ -1509,7 +1510,6 @@ maxthon5.json,hoilc/scoop-lemon
 alixby.json,hoilc/scoop-lemon
 copyparty.json,hoilc/scoop-lemon
 fluentfin.json,hoilc/scoop-lemon
-llama-cpp-kompute.json,hoilc/scoop-lemon
 biliup-rs.json,hoilc/scoop-lemon
 qsftpd.json,hoilc/scoop-lemon
 hmp3.json,hoilc/scoop-lemon
@@ -2765,7 +2765,6 @@ project-graph.json,hoilc/scoop-lemon
 pingo.json,hoilc/scoop-lemon
 webd.json,hoilc/scoop-lemon
 cow.json,hoilc/scoop-lemon
-llama-cpp-avx512.json,hoilc/scoop-lemon
 kubectl-cnpg.json,hoilc/scoop-lemon
 rpk.json,hoilc/scoop-lemon
 oplus-sans.json,hoilc/scoop-lemon
