@@ -1168,6 +1168,7 @@ proxyfor.json,hoilc/scoop-lemon
 kubevpn.json,hoilc/scoop-lemon
 cdsctl.json,hoilc/scoop-lemon
 dpkgen.json,hoilc/scoop-lemon
+pikapika-comic.json,hoilc/scoop-lemon
 pdgcnteditor.json,hoilc/scoop-lemon
 unicodia.json,hoilc/scoop-lemon
 bosh-cli.json,hoilc/scoop-lemon
@@ -1179,6 +1180,7 @@ privacy-eraser.json,hoilc/scoop-lemon
 ytdlp.json,hoilc/scoop-lemon
 esheep.json,hoilc/scoop-lemon
 macchina_hoilc.json,hoilc/scoop-lemon
+manhuagui-downloader.json,hoilc/scoop-lemon
 firefox-sync-client.json,hoilc/scoop-lemon
 cosmo-rsync.json,hoilc/scoop-lemon
 tcptunnel.json,hoilc/scoop-lemon
@@ -1254,6 +1256,7 @@ git-ignore.json,hoilc/scoop-lemon
 webd.json,hoilc/scoop-lemon
 nodepass.json,hoilc/scoop-lemon
 readest.json,hoilc/scoop-lemon
+wild-novel.json,hoilc/scoop-lemon
 stable-diffusion-cpp-cuda.json,hoilc/scoop-lemon
 llama-cpp-hip-gfx1101.json,hoilc/scoop-lemon
 whynotwin11.json,hoilc/scoop-lemon
@@ -1571,6 +1574,7 @@ steam-cloud-file-manager.json,hoilc/scoop-lemon
 a2fa.json,hoilc/scoop-lemon
 proxytunnel.json,hoilc/scoop-lemon
 parkdale.json,hoilc/scoop-lemon
+wnacg-downloader.json,hoilc/scoop-lemon
 pulsarctl.json,hoilc/scoop-lemon
 picocrypt-cli.json,hoilc/scoop-lemon
 wubilex.json,hoilc/scoop-lemon
@@ -1864,6 +1868,7 @@ pint.json,hoilc/scoop-lemon
 rare-regex.json,hoilc/scoop-lemon
 wimtool_hoilc.json,hoilc/scoop-lemon
 gopeed.json,hoilc/scoop-lemon
+wax-comic.json,hoilc/scoop-lemon
 graalpy-community.json,hoilc/scoop-lemon
 alpaca.json,hoilc/scoop-lemon
 bestsub.json,hoilc/scoop-lemon
@@ -2081,6 +2086,7 @@ cs-script.json,hoilc/scoop-lemon
 ossutil_hoilc.json,hoilc/scoop-lemon
 azqr.json,hoilc/scoop-lemon
 qshell.json,hoilc/scoop-lemon
+bilibili-manga-watermark-remover.json,hoilc/scoop-lemon
 plebbit-cli.json,hoilc/scoop-lemon
 rhyolite.json,hoilc/scoop-lemon
 pictor-cn.json,hoilc/scoop-lemon
@@ -2099,6 +2105,7 @@ udp2raw.json,hoilc/scoop-lemon
 vcardeditor.json,hoilc/scoop-lemon
 limbo.json,hoilc/scoop-lemon
 cloudmonkey.json,hoilc/scoop-lemon
+jmcomic-downloader.json,hoilc/scoop-lemon
 bctextencoder.json,hoilc/scoop-lemon
 sendme.json,hoilc/scoop-lemon
 mftexplorer.json,hoilc/scoop-lemon
@@ -2245,6 +2252,7 @@ nasm-snapshot.json,hoilc/scoop-lemon
 echosync.json,hoilc/scoop-lemon
 pacaptr.json,hoilc/scoop-lemon
 gifski_hoilc.json,hoilc/scoop-lemon
+kobi-comic.json,hoilc/scoop-lemon
 gojo.json,hoilc/scoop-lemon
 nstool.json,hoilc/scoop-lemon
 kubeshark_hoilc.json,hoilc/scoop-lemon
@@ -2724,6 +2732,7 @@ fairwinds-polaris.json,hoilc/scoop-lemon
 ysmood.whisper.json,hoilc/scoop-lemon
 n_m3u8dl-re-nightly.json,hoilc/scoop-lemon
 udpspeeder.json,hoilc/scoop-lemon
+daisy-comic.json,hoilc/scoop-lemon
 proto.json,hoilc/scoop-lemon
 gosmee.json,hoilc/scoop-lemon
 kvirc.json,hoilc/scoop-lemon
@@ -2823,6 +2832,7 @@ fdroidcl.json,hoilc/scoop-lemon
 tunnelmole.json,hoilc/scoop-lemon
 paralus-cli.json,hoilc/scoop-lemon
 pagebypage.json,hoilc/scoop-lemon
+copymanga-downloader.json,hoilc/scoop-lemon
 collectd_exporter.json,hoilc/scoop-lemon
 spark-ai-cli.json,hoilc/scoop-lemon
 drawio.json,hoilc/scoop-lemon
@@ -2862,6 +2872,7 @@ multidesk.json,hoilc/scoop-lemon
 cavif.json,hoilc/scoop-lemon
 agent-ransack.json,hoilc/scoop-lemon
 pmlite.json,hoilc/scoop-lemon
+picacomic-downloader.json,hoilc/scoop-lemon
 cosmo-redbean.json,hoilc/scoop-lemon
 firefox-history-merger.json,hoilc/scoop-lemon
 connectagram.json,hoilc/scoop-lemon
@@ -2990,8 +3001,8 @@ cheat-engine-zh-cn.json,jat001/scoop-ox
 cursebreaker.json,jat001/scoop-ox
 heybox-acc.json,jat001/scoop-ox
 weakauras-companion_jat001.json,jat001/scoop-ox
-obs-ndi.json,jat001/scoop-ox
 wowup_jat001.json,jat001/scoop-ox
+distroav.json,jat001/scoop-ox
 wowup-beta.json,jat001/scoop-ox
 minion.json,jat001/scoop-ox
 bigfoot.json,jat001/scoop-ox
