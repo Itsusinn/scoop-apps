@@ -1,16 +1,18 @@
 {
-    "version": "1.7.1",
-    "description": "Another Redis Desktop Manager is a faster and stable redis desktop manager [GUI client]， which won't crash when loading massive keys.",
     "homepage": "https://github.com/qishibo/AnotherRedisDesktopManager",
+    "description": "A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac.",
+    "version": "1.6.8",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/Another-Redis-Desktop-Manager.1.7.1.exe#/dl.7z",
-            "hash": "sha512:422694b11ca6dba3b73d22c22453e3777e49d03a30f00111cd356372a27a408831abe420e83d47f2cafccad0fe7f4fbe8855832486250b6b2313936f3dce70bc",
-            "pre_install": [
-                "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
-                "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Uninstall*\", \"$dir\\resources\\app-update.yml\"  -Force -Recurse"
-            ]
+            "url": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.8/Another-Redis-Desktop-Manager.1.6.8.exe#/dl.7z",
+            "hash": "sha512:b2ce800613452c4f06e3765368059785c1deca3b82ec594699b61a866dff3f4c80223afb52ce81a51ba0a5767a093605062dc6dbaa692ca78a52a33271df8403",
+            "installer": {
+                "script": [
+                    "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
+                    "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Uninst*\" -Force -Recurse"
+                ]
+            }
         }
     },
     "shortcuts": [
@@ -19,17 +21,15 @@
             "Another Redis Desktop Manager"
         ]
     ],
-    "checkver": {
-        "url": "https://github.com/qishibo/AnotherRedisDesktopManager/releases",
-        "regex": "/tree/v([\\d.]+)"
-    },
+    "checkver": "github",
     "autoupdate": {
         "architecture": {
             "64bit": {
                 "url": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v$version/Another-Redis-Desktop-Manager.$version.exe#/dl.7z",
                 "hash": {
-                    "url": "$baseurl/latest.yml",
-                    "regex": "sha512:\\s*$base64"
+                    "url": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v$version/latest.yml",
+                    "mode": "extract",
+                    "regex": "(?sm)$version.exe.*?sha512: $base64"
                 }
             }
         }

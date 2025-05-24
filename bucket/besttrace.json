@@ -1,33 +1,15 @@
 {
-    "version": "20250428",
-    "description": "Initiate a traceroute request from a Windows device with a link visualization.",
-    "homepage": "https://en.ipip.net/product/client.html",
+    "homepage": "https://www.ipip.net/",
+    "description": "Initiate a traceroute request from a device with a link visualization.",
     "license": "Freeware",
-    "architecture": {
-        "64bit": {
-            "url": "https://cdn.ipip.net/17mon/besttrace.exe",
-            "hash": "b018a74cba0f34683d749cfd6511e4d04aba85b4517e5dce0adc0c33dbd2a925"
-        }
-    },
+    "version": "nightly",
+    "url": "https://cdn.ipip.net/17mon/besttrace.exe",
     "innosetup": true,
+    "bin": "17monipdb.exe",
     "shortcuts": [
         [
             "17monipdb.exe",
             "Best Trace"
         ]
-    ],
-    "checkver": {
-        "script": [
-            "try { $detail = Invoke-WebRequest -Method HEAD 'https://cdn.ipip.net/17mon/besttrace.exe' -MaximumRedirection 0 -ErrorAction Ignore } catch { $_.Exception.Response }",
-            "if ($detail.StatusCode -eq 200) { return ([DateTime][String]$detail.Headers.'Last-Modified').ToUniversalTime().ToString(\"yyyyMMdd\") } else { return '' }"
-        ],
-        "regex": "(\\d{8})"
-    },
-    "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://cdn.ipip.net/17mon/besttrace.exe"
-            }
-        }
-    }
+    ]
 }
