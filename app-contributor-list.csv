@@ -216,6 +216,7 @@ MyDockFinder.json,Weidows-projects/scoop-3rd
 bilibili-backup.json,Weidows-projects/scoop-3rd
 autoMate.json,Weidows-projects/scoop-3rd
 UmamusumeResponseAnalyzer.json,Weidows-projects/scoop-3rd
+cuda12.8.json,Weidows-projects/scoop-3rd
 uv-portable-cn.json,Weidows-projects/scoop-3rd
 fav.json,Weidows-projects/scoop-3rd
 waveterm.json,Weidows-projects/scoop-3rd
@@ -910,6 +911,7 @@ fasttracker2-clone.json,chawyehsu/dorado
 snipaste-beta.json,chawyehsu/dorado
 autodarkmode.json,chawyehsu/dorado
 pixitracker-1bit.json,chawyehsu/dorado
+tgpt.json,chawyehsu/dorado
 git-credential-gopass.json,chawyehsu/dorado
 stable-diffusion-cpp.json,chawyehsu/dorado
 mcskin3d.json,chawyehsu/dorado
