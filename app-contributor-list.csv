@@ -773,7 +773,6 @@ steam-rom-manager.json,Calinou/scoop-games
 teeworlds.json,Calinou/scoop-games
 openmsx-dev.json,Calinou/scoop-games
 katrain.json,Calinou/scoop-games
-moonbit.json,chawyehsu/dorado
 pstools.json,chawyehsu/dorado
 activitywatch.json,chawyehsu/dorado
 frpmgr.json,chawyehsu/dorado
@@ -859,6 +858,7 @@ powershell-preview.json,chawyehsu/dorado
 helmsman.json,chawyehsu/dorado
 dotnet-uninstall-tool.json,chawyehsu/dorado
 chunky.json,chawyehsu/dorado
+charles4.json,chawyehsu/dorado
 firefox-beta-zh-cn.json,chawyehsu/dorado
 charles.json,chawyehsu/dorado
 mineways.json,chawyehsu/dorado
@@ -1048,6 +1048,7 @@ phpstudy2016.json,chawyehsu/dorado
 wgestures.json,chawyehsu/dorado
 tim_chawyehsu.json,chawyehsu/dorado
 chocolatey.json,chawyehsu/dorado
+moonbit.json,chawyehsu/dorado
 wpsoffice-zh-cn.json,chawyehsu/dorado
 anaconda3_chawyehsu.json,chawyehsu/dorado
 docker-cli.json,chawyehsu/dorado
