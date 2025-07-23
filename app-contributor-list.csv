@@ -292,6 +292,7 @@ test.json,Weidows-projects/scoop-3rd
 animation-garden-desktop.json,Weidows-projects/scoop-3rd
 adspower.json,Weidows-projects/scoop-3rd
 SourceTree.json,Weidows-projects/scoop-3rd
+GPT-SoVITS-nvidia50.json,Weidows-projects/scoop-3rd
 pnpm_Weidows-projects.json,Weidows-projects/scoop-3rd
 XYplorer.json,Weidows-projects/scoop-3rd
 Dependency-Walker.json,Weidows-projects/scoop-3rd
@@ -964,7 +965,7 @@ wix.json,chawyehsu/dorado
 famistudio.json,chawyehsu/dorado
 redis-desktop-manager.json,chawyehsu/dorado
 ctoy.json,chawyehsu/dorado
-dingtalk.json,chawyehsu/dorado
+dingtalk_chawyehsu.json,chawyehsu/dorado
 frpmgr.json,chawyehsu/dorado
 dotnet-uninstall-tool.json,chawyehsu/dorado
 stable-diffusion-cpp.json,chawyehsu/dorado
