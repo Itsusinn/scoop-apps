@@ -217,6 +217,7 @@ Edge-Webdriver-Stable.json,Weidows-projects/scoop-3rd
 bongocat-osu.json,Weidows-projects/scoop-3rd
 N0vaDesktop.json,Weidows-projects/scoop-3rd
 EasySpider.json,Weidows-projects/scoop-3rd
+nexus-terminal.json,Weidows-projects/scoop-3rd
 cuda12.4.json,Weidows-projects/scoop-3rd
 chrome121.json,Weidows-projects/scoop-3rd
 Pixeval.json,Weidows-projects/scoop-3rd
@@ -857,6 +858,7 @@ git-credential-gopass.json,chawyehsu/dorado
 feishu_chawyehsu.json,chawyehsu/dorado
 pixitracker.json,chawyehsu/dorado
 plain-craft-launcher.json,chawyehsu/dorado
+agave.json,chawyehsu/dorado
 ttplayer.json,chawyehsu/dorado
 iobit-unlocker.json,chawyehsu/dorado
 moonup.json,chawyehsu/dorado
@@ -982,6 +984,7 @@ yarn-np.json,chawyehsu/dorado
 mosdns-cn.json,chawyehsu/dorado
 extism.json,chawyehsu/dorado
 lceda-pro.json,chawyehsu/dorado
+anchor-cli.json,chawyehsu/dorado
 wasmedge_chawyehsu.json,chawyehsu/dorado
 mixin-messenger.json,chawyehsu/dorado
 chfs-gui.json,chawyehsu/dorado
